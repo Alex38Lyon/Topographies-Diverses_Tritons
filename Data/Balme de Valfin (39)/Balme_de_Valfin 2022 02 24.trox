@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VisualTopo>
+	<Version>5.16</Version>
+	<Lignes>162</Lignes>
+	<Cavite>
+		<Nom>Balme de Valfin (39)</Nom>
+		<Coordonnees X="693.08500" Y="5138.25900" Z="459.00" Projection="UTM31"/>
+		<Club>Alex / Clan des Tritons Lyon</Club>
+		<Entree>00</Entree>
+		<Toporobot>0</Toporobot>
+		<Couleur>0,0,0</Couleur>
+	</Cavite>
+	<Mesures>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="0.0000" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Arr" Coul="0,0,0" DeclinAuto="M">
+			<Visee Dep="00" Arr="00" Long="0.00" Az="0.00" Pte="0.00" G="1.21" D="0.80" H="1.67" B="0.31" Ref="1" Suiv="2">
+				<Commentaire>ddepart sur blocs au sol</Commentaire>
+			</Visee>
+			<Visee Dep="00" Arr="A1" Long="3.85" Az="355.90" Pte="11.80" G="0.82" D="1.09" H="0.73" B="0.34" Ref="1" Suiv="11">
+				<Commentaire>ddepart sur blocs au sol</Commentaire>
+			</Visee>
+			<Visee Dep="00" Long="1.30" Az="274.60" Pte="19.90" Ref="1"/>
+			<Visee Dep="00" Long="0.82" Az="76.40" Pte="7.50" Ref="1"/>
+			<Visee Dep="00" Long="1.69" Az="28.80" Pte="80.90" Ref="1"/>
+			<Visee Dep="00" Long="0.32" Az="291.50" Pte="-75.10" Ref="1"/>
+			<Visee Dep="A1" Long="0.88" Az="268.00" Pte="20.70" Ref="2"/>
+			<Visee Dep="A1" Long="1.14" Az="68.50" Pte="2.70" Ref="2"/>
+			<Visee Dep="A1" Long="0.74" Az="118.60" Pte="83.20" Ref="2"/>
+			<Visee Dep="A1" Long="0.40" Az="261.00" Pte="-58.50" Ref="2"/>
+			<Visee Dep="A1" Arr="A2" Long="6.16" Az="322.80" Pte="19.70" G="0.49" D="0.29" H="0.93" B="1.40" Ref="2" Suiv="16"/>
+			<Visee Dep="A2" Long="0.49" Az="238.50" Pte="-4.20" Ref="11"/>
+			<Visee Dep="A2" Long="0.30" Az="42.20" Pte="7.50" Ref="11"/>
+			<Visee Dep="A2" Long="0.96" Az="181.20" Pte="77.00" Ref="11"/>
+			<Visee Dep="A2" Long="1.43" Az="10.60" Pte="-77.80" Ref="11"/>
+			<Visee Dep="A2" Arr="A3" Long="4.09" Az="316.60" Pte="31.50" G="0.24" D="1.03" H="0.25" B="1.27" Ref="11" Suiv="21"/>
+			<Visee Dep="A3" Long="0.25" Az="243.50" Pte="2.40" Ref="16"/>
+			<Visee Dep="A3" Long="1.03" Az="53.50" Pte="2.00" Ref="16"/>
+			<Visee Dep="A3" Long="0.26" Az="109.10" Pte="73.90" Ref="16"/>
+			<Visee Dep="A3" Long="1.27" Az="333.90" Pte="-85.00" Ref="16"/>
+			<Visee Dep="A3" Arr="A4" Long="3.91" Az="12.00" Pte="0.90" G="0.36" D="1.02" H="0.41" B="0.50" Ref="16" Suiv="26"/>
+			<Visee Dep="A4" Long="0.42" Az="313.30" Pte="7.00" Ref="21"/>
+			<Visee Dep="A4" Long="1.13" Az="127.10" Pte="0.50" Ref="21"/>
+			<Visee Dep="A4" Long="0.43" Az="148.00" Pte="72.60" Ref="21"/>
+			<Visee Dep="A4" Long="0.50" Az="334.00" Pte="-89.00" Ref="21"/>
+			<Visee Dep="A4" Arr="A5" Long="3.35" Az="62.40" Pte="-15.10" G="1.01" D="0.19" H="0.40" B="0.31" Ref="21" Suiv="31"/>
+			<Visee Dep="A5" Long="1.14" Az="304.90" Pte="5.60" Ref="26"/>
+			<Visee Dep="A5" Long="0.29" Az="101.90" Pte="0.80" Ref="26"/>
+			<Visee Dep="A5" Long="0.40" Az="44.30" Pte="87.40" Ref="26"/>
+			<Visee Dep="A5" Long="0.32" Az="243.40" Pte="-85.20" Ref="26"/>
+			<Visee Dep="A5" Arr="A6" Long="3.59" Az="357.20" Pte="3.30" G="1.09" D="0.27" H="0.75" B="0.41" Ref="26" Suiv="36"/>
+			<Visee Dep="A6" Long="1.12" Az="274.10" Pte="11.60" Ref="31"/>
+			<Visee Dep="A6" Long="0.29" Az="65.40" Pte="5.40" Ref="31"/>
+			<Visee Dep="A6" Long="0.75" Az="274.20" Pte="83.10" Ref="31"/>
+			<Visee Dep="A6" Long="0.42" Az="43.10" Pte="-82.20" Ref="31"/>
+			<Visee Dep="A6" Arr="A7" Long="3.87" Az="328.70" Pte="18.60" G="0.33" D="0.75" H="0.47" B="1.93" Ref="31" Suiv="41"/>
+			<Visee Dep="A7" Long="0.34" Az="239.20" Pte="15.40" Ref="36"/>
+			<Visee Dep="A7" Long="0.78" Az="42.30" Pte="0.10" Ref="36"/>
+			<Visee Dep="A7" Long="0.47" Az="90.80" Pte="82.10" Ref="36"/>
+			<Visee Dep="A7" Long="1.95" Az="332.70" Pte="-80.70" Ref="36"/>
+			<Visee Dep="A7" Arr="A8" Long="3.78" Az="281.40" Pte="-33.30" G="0.24" D="0.50" H="0.77" B="0.64" Ref="36" Suiv="46"/>
+			<Visee Dep="A8" Long="0.25" Az="202.80" Pte="6.10" Ref="41"/>
+			<Visee Dep="A8" Long="0.84" Az="64.90" Pte="-0.70" Ref="41"/>
+			<Visee Dep="A8" Long="0.77" Az="198.30" Pte="89.30" Ref="41"/>
+			<Visee Dep="A8" Long="0.64" Az="150.00" Pte="-86.60" Ref="41"/>
+			<Visee Dep="A8" Arr="A9" Long="6.12" Az="359.70" Pte="0.80" G="0.35" D="1.04" H="0.69" B="0.48" Ref="41" Suiv="51"/>
+			<Visee Dep="A9" Long="0.38" Az="292.30" Pte="7.90" Ref="46"/>
+			<Visee Dep="A9" Long="1.09" Az="104.60" Pte="7.40" Ref="46"/>
+			<Visee Dep="A9" Long="0.71" Az="86.40" Pte="74.50" Ref="46"/>
+			<Visee Dep="A9" Long="0.49" Az="229.70" Pte="-77.00" Ref="46"/>
+			<Visee Dep="A9" Arr="A10" Long="5.75" Az="18.00" Pte="-0.20" G="1.12" D="0.45" H="0.60" B="0.33" Ref="46" Suiv="56"/>
+			<Visee Dep="A10" Long="1.21" Az="278.10" Pte="19.10" Ref="51"/>
+			<Visee Dep="A10" Long="0.52" Az="83.80" Pte="19.50" Ref="51"/>
+			<Visee Dep="A10" Long="0.62" Az="91.60" Pte="75.40" Ref="51"/>
+			<Visee Dep="A10" Long="0.33" Az="252.80" Pte="-85.20" Ref="51"/>
+			<Visee Dep="A10" Arr="A11" Long="6.33" Az="352.40" Pte="11.50" G="0.64" D="0.56" H="0.25" B="0.88" Ref="51" Suiv="61"/>
+			<Visee Dep="A11" Long="0.69" Az="284.00" Pte="0.50" Ref="56"/>
+			<Visee Dep="A11" Long="0.57" Az="93.00" Pte="-2.60" Ref="56"/>
+			<Visee Dep="A11" Long="0.25" Az="56.10" Pte="82.40" Ref="56"/>
+			<Visee Dep="A11" Long="0.88" Az="61.90" Pte="-85.80" Ref="56"/>
+			<Visee Dep="A11" Arr="A12" Long="4.83" Az="7.20" Pte="2.10" G="1.35" D="0.22" H="0.56" B="0.56" Ref="56" Suiv="66"/>
+			<Visee Dep="A12" Long="1.37" Az="274.30" Pte="9.60" Ref="61"/>
+			<Visee Dep="A12" Long="0.26" Az="71.70" Pte="15.10" Ref="61"/>
+			<Visee Dep="A12" Long="0.56" Az="215.80" Pte="87.00" Ref="61"/>
+			<Visee Dep="A12" Long="0.56" Az="8.80" Pte="-88.40" Ref="61"/>
+			<Visee Dep="A12" Arr="A13" Long="3.07" Az="350.10" Pte="7.10" G="1.06" D="1.21" H="0.48" B="0.46" Ref="61" Suiv="71">
+				<Commentaire>cheminÃ©e +4</Commentaire>
+			</Visee>
+			<Visee Dep="A13" Long="1.08" Az="251.90" Pte="5.50" Ref="66"/>
+			<Visee Dep="A13" Long="1.41" Az="50.90" Pte="9.40" Ref="66"/>
+			<Visee Dep="A13" Long="0.48" Az="120.50" Pte="85.90" Ref="66"/>
+			<Visee Dep="A13" Long="0.47" Az="288.80" Pte="-80.10" Ref="66"/>
+			<Visee Dep="A13" Arr="A14" Long="4.95" Az="328.30" Pte="18.30" G="0.73" D="1.11" H="0.89" B="0.93" Ref="66" Suiv="76"/>
+			<Visee Dep="A14" Long="1.07" Az="279.90" Pte="23.90" Ref="71"/>
+			<Visee Dep="A14" Long="1.17" Az="76.70" Pte="-4.00" Ref="71"/>
+			<Visee Dep="A14" Long="0.90" Az="13.30" Pte="79.70" Ref="71"/>
+			<Visee Dep="A14" Long="0.94" Az="129.70" Pte="-83.20" Ref="71"/>
+			<Visee Dep="A14" Arr="A15" Long="2.63" Az="15.10" Pte="-6.80" G="0.72" D="0.21" H="0.55" B="0.80" Ref="71" Suiv="81"/>
+			<Visee Dep="A15" Long="0.72" Az="286.30" Pte="7.40" Ref="76"/>
+			<Visee Dep="A15" Long="0.22" Az="90.90" Pte="-3.60" Ref="76"/>
+			<Visee Dep="A15" Long="0.55" Az="342.60" Pte="87.20" Ref="76"/>
+			<Visee Dep="A15" Long="0.80" Az="255.70" Pte="-84.70" Ref="76"/>
+			<Visee Dep="A15" Arr="A16" Long="2.14" Az="355.60" Pte="16.20" G="0.17" D="0.85" H="0.59" B="0.24" Ref="76" Suiv="86"/>
+			<Visee Dep="A16" Long="0.22" Az="302.80" Pte="-1.00" Ref="81"/>
+			<Visee Dep="A16" Long="0.95" Az="112.60" Pte="0.90" Ref="81"/>
+			<Visee Dep="A16" Long="0.60" Az="138.40" Pte="79.50" Ref="81"/>
+			<Visee Dep="A16" Long="0.24" Az="4.40" Pte="-88.00" Ref="81"/>
+			<Visee Dep="A16" Arr="A17" Long="3.89" Az="21.60" Pte="3.30" G="0.44" D="0.95" H="0.23" B="0.92" Ref="81" Suiv="91"/>
+			<Visee Dep="A17" Long="0.46" Az="307.40" Pte="-0.80" Ref="86"/>
+			<Visee Dep="A17" Long="1.02" Az="130.80" Pte="-5.70" Ref="86"/>
+			<Visee Dep="A17" Long="0.23" Az="102.40" Pte="85.70" Ref="86"/>
+			<Visee Dep="A17" Long="0.96" Az="103.00" Pte="-74.00" Ref="86"/>
+			<Visee Dep="A17" Arr="A18" Long="2.63" Az="62.10" Pte="-23.30" G="0.62" D="0.47" H="0.53" B="1.00" Ref="86" Suiv="97"/>
+			<Visee Dep="A18" Long="2.59" Az="61.20" Pte="-22.60" Ref="91"/>
+			<Visee Dep="A18" Long="0.77" Az="296.30" Pte="5.90" Ref="91"/>
+			<Visee Dep="A18" Long="0.61" Az="114.80" Pte="12.10" Ref="91"/>
+			<Visee Dep="A18" Long="0.53" Az="273.00" Pte="89.30" Ref="91"/>
+			<Visee Dep="A18" Long="0.42" Az="84.10" Pte="-83.40" Ref="91"/>
+			<Visee Dep="A18" Arr="A19" Long="3.48" Az="359.00" Pte="7.00" G="0.27" D="0.97" H="0.25" B="0.44" Ref="91" Suiv="102"/>
+			<Visee Dep="A19" Long="0.29" Az="288.60" Pte="3.80" Ref="97"/>
+			<Visee Dep="A19" Long="1.01" Az="104.80" Pte="1.80" Ref="97"/>
+			<Visee Dep="A19" Long="0.25" Az="69.10" Pte="82.70" Ref="97"/>
+			<Visee Dep="A19" Long="0.45" Az="169.00" Pte="-83.90" Ref="97"/>
+			<Visee Dep="A19" Arr="A20" Long="3.02" Az="33.20" Pte="-1.00" G="0.54" D="0.97" H="0.46" B="0.33" Ref="97" Suiv="108"/>
+			<Visee Dep="A20" Long="3.00" Az="33.70" Pte="-1.60" Ref="102"/>
+			<Visee Dep="A20" Long="0.55" Az="311.00" Pte="6.70" Ref="102"/>
+			<Visee Dep="A20" Long="1.05" Az="135.90" Pte="18.00" Ref="102"/>
+			<Visee Dep="A20" Long="0.46" Az="231.80" Pte="86.30" Ref="102"/>
+			<Visee Dep="A20" Long="0.34" Az="28.30" Pte="-74.50" Ref="102"/>
+			<Visee Dep="A20" Arr="A21" Long="3.77" Az="48.20" Pte="26.70" G="1.10" D="0.81" H="0.72" B="0.35" Ref="102" Suiv="113"/>
+			<Visee Dep="A21" Long="1.13" Az="304.80" Pte="0.50" Ref="108"/>
+			<Visee Dep="A21" Long="0.88" Az="142.90" Pte="21.20" Ref="108"/>
+			<Visee Dep="A21" Long="0.77" Az="150.70" Pte="70.90" Ref="108"/>
+			<Visee Dep="A21" Long="0.35" Az="49.80" Pte="-82.30" Ref="108"/>
+			<Visee Dep="A21" Arr="A22" Long="5.25" Az="5.70" Pte="3.50" G="0.70" D="0.67" H="0.36" B="0.48" Ref="108" Suiv="118"/>
+			<Visee Dep="A22" Long="0.73" Az="287.90" Pte="8.50" Ref="113"/>
+			<Visee Dep="A22" Long="0.74" Az="121.70" Pte="-2.40" Ref="113"/>
+			<Visee Dep="A22" Long="0.37" Az="203.40" Pte="77.80" Ref="113"/>
+			<Visee Dep="A22" Long="0.50" Az="125.70" Pte="-76.50" Ref="113"/>
+			<Visee Dep="A22" Arr="A23" Long="2.86" Az="22.60" Pte="35.40" G="1.50" D="0.73" H="0.24" B="0.62" Ref="113" Suiv="123"/>
+			<Visee Dep="A23" Long="1.54" Az="282.90" Pte="8.80" Ref="118"/>
+			<Visee Dep="A23" Long="0.75" Az="101.40" Pte="-0.20" Ref="118"/>
+			<Visee Dep="A23" Long="0.63" Az="115.00" Pte="-80.90" Ref="118"/>
+			<Visee Dep="A23" Long="0.22" Az="129.10" Pte="76.60" Ref="118"/>
+			<Visee Dep="A23" Arr="A24" Long="2.92" Az="358.60" Pte="-11.30" G="0.22" D="1.11" H="0.58" B="0.82" Ref="118" Suiv="128"/>
+			<Visee Dep="A24" Long="0.25" Az="295.90" Pte="-5.70" Ref="123"/>
+			<Visee Dep="A24" Long="1.15" Az="103.50" Pte="6.50" Ref="123"/>
+			<Visee Dep="A24" Long="0.59" Az="69.50" Pte="82.60" Ref="123"/>
+			<Visee Dep="A24" Long="0.82" Az="59.10" Pte="-84.90" Ref="123"/>
+			<Visee Dep="A24" Arr="A25" Long="2.09" Az="26.30" Pte="17.00" G="0.75" D="1.40" H="0.64" B="0.34" Ref="123" Suiv="133">
+				<Commentaire>etroiture</Commentaire>
+			</Visee>
+			<Visee Dep="A25" Long="0.76" Az="306.10" Pte="4.10" Ref="128"/>
+			<Visee Dep="A25" Long="1.45" Az="120.90" Pte="13.60" Ref="128"/>
+			<Visee Dep="A25" Long="0.70" Az="296.40" Pte="66.20" Ref="128"/>
+			<Visee Dep="A25" Long="0.34" Az="356.80" Pte="-87.20" Ref="128"/>
+			<Visee Dep="A25" Arr="A26" Long="5.58" Az="324.10" Pte="28.30" G="0.64" D="0.23" H="1.08" B="0.50" Ref="128" Suiv="138"/>
+			<Visee Dep="A26" Long="0.70" Az="210.50" Pte="1.40" Ref="133"/>
+			<Visee Dep="A26" Long="0.23" Az="49.30" Pte="1.50" Ref="133"/>
+			<Visee Dep="A26" Long="1.09" Az="106.60" Pte="82.70" Ref="133"/>
+			<Visee Dep="A26" Long="0.50" Az="332.70" Pte="-82.50" Ref="133"/>
+			<Visee Dep="A26" Arr="A27" Long="2.53" Az="343.20" Pte="16.00" G="0.70" D="0.31" H="0.30" B="0.22" Ref="133" Suiv="143">
+				<Commentaire>etroiture ca soufflant faible mais sensible</Commentaire>
+			</Visee>
+			<Visee Dep="A27" Long="0.94" Az="291.90" Pte="18.70" Ref="138"/>
+			<Visee Dep="A27" Long="0.31" Az="84.70" Pte="1.70" Ref="138"/>
+			<Visee Dep="A27" Long="0.30" Az="142.50" Pte="86.10" Ref="138"/>
+			<Visee Dep="A27" Long="0.23" Az="72.30" Pte="-79.50" Ref="138"/>
+			<Visee Dep="A27" Arr="A28" Long="6.19" Az="96.00" Pte="6.80" G="0.26" D="0.27" H="2.10" B="0.61" Ref="138"/>
+			<Visee Dep="A28" Long="0.27" Az="10.50" Pte="-22.90" Ref="143"/>
+			<Visee Dep="A28" Long="0.28" Az="169.20" Pte="6.30" Ref="143"/>
+			<Visee Dep="A28" Long="2.15" Az="61.50" Pte="77.80" Ref="143"/>
+			<Visee Dep="A28" Long="0.61" Az="49.80" Pte="-85.00" Ref="143"/>
+			<Visee Dep="A27" Arr="B01" Long="2.64" Az="237.40" Pte="12.30" G="0.02" D="0.29" H="0.28" B="0.50" Ref="138" Suiv="153"/>
+			<Visee Dep="B01" Long="0.24" Az="244.00" Pte="14.00" Ref="148"/>
+			<Visee Dep="B01" Long="1.00" Az="40.60" Pte="6.20" Ref="148"/>
+			<Visee Dep="B01" Long="0.28" Az="152.50" Pte="85.90" Ref="148"/>
+			<Visee Dep="B01" Long="0.50" Az="61.00" Pte="-84.50" Ref="148"/>
+			<Visee Dep="B01" Arr="B2" Long="3.21" Az="341.10" Pte="18.20" G="0.23" D="0.39" H="0.27" B="0.63" Ref="148" Suiv="157"/>
+			<Visee Dep="B2" Long="0.40" Az="60.50" Pte="9.50" Ref="153"/>
+			<Visee Dep="B2" Long="0.29" Az="142.80" Pte="69.80" Ref="153"/>
+			<Visee Dep="B2" Long="0.68" Az="279.70" Pte="-67.40" Ref="153"/>
+			<Visee Dep="B2" Arr="B3" Long="3.84" Az="305.50" Pte="29.40" G="0.87" D="0.40" H="2.68" B="0.69" Ref="153"/>
+			<Visee Dep="B3" Long="0.87" Az="211.40" Pte="3.80" Ref="157"/>
+			<Visee Dep="B3" Long="0.41" Az="23.50" Pte="17.00" Ref="157"/>
+			<Visee Dep="B3" Long="3.04" Az="109.50" Pte="61.70" Ref="157"/>
+			<Visee Dep="B3" Long="0.70" Az="219.80" Pte="-79.80" Ref="157"/>
+		</Param>
+	</Mesures>
+	<Configuration>
+		<Application Position="2,3,-1,-1,-1,-1,210,-905,1650,-123">
+			<Toolbar>1</Toolbar>
+			<Statusbar>1</Statusbar>
+			<Commentaires>1</Commentaires>
+		</Application>
+		<Calcul Position="0,1,-1,-1,-10,-42,0,0,1241,441">
+			<Entree0>1</Entree0>
+			<Bissectrices>1</Bissectrices>
+			<Perpendiculaires>0</Perpendiculaires>
+			<Hauteurs>1</Hauteurs>
+			<Boucles>0</Boucles>
+			<Controles>1</Controles>
+			<Nord>2</Nord>
+			<Commentaires>0</Commentaires>
+			<Calcul>1</Calcul>
+			<Active>0</Active>
+		</Calcul>
+		<ExportDxf>
+			<Topo>0</Topo>
+			<Equidistance>100</Equidistance>
+			<Theta>0</Theta>
+			<Phi>0</Phi>
+			<Cheminement Couleur="1">1</Cheminement>
+			<Points Couleur="6">1</Points>
+			<Stations Couleur="7">1</Stations>
+			<Largeurs Couleur="4">1</Largeurs>
+			<Hauteurs Couleur="4">0</Hauteurs>
+			<ContoursLargeurs Couleur="3">0</ContoursLargeurs>
+			<ContoursHauteurs Couleur="3">0</ContoursHauteurs>
+			<Profondeurs Couleur="2">0</Profondeurs>
+			<Echelle Couleur="7">1</Echelle>
+			<Quadrillage Couleur="9">0</Quadrillage>
+			<Radiales Couleur="9">1</Radiales>
+			<Contours3D Couleur="3">0</Contours3D>
+		</ExportDxf>
+		<ExportSvg>
+			<Topo>0</Topo>
+			<Equidistance>100</Equidistance>
+			<Theta>0</Theta>
+			<Phi>0</Phi>
+			<Cheminement Couleur="165,42,0">1</Cheminement>
+			<Points Couleur="127,127,127">1</Points>
+			<Stations Couleur="0,0,255">1</Stations>
+			<Largeurs Couleur="0,147,0">1</Largeurs>
+			<Hauteurs Couleur="0,147,0">0</Hauteurs>
+			<ContoursLargeurs Couleur="0,0,139">0</ContoursLargeurs>
+			<ContoursHauteurs Couleur="0,0,139">0</ContoursHauteurs>
+			<Profondeurs Couleur="255,0,0">1</Profondeurs>
+			<Echelle Couleur="0,0,0">1</Echelle>
+			<Quadrillage Couleur="127,127,127">0</Quadrillage>
+			<Radiales Couleur="60,179,113">1</Radiales>
+			<Remplissage Couleur="255,173,91">0</Remplissage>
+			<Fond Couleur="192,192,192">0</Fond>
+			<Contours3D Couleur="0,0,139">0</Contours3D>
+		</ExportSvg>
+		<ExportKml>
+			<TypeCouleur>0</TypeCouleur>
+		</ExportKml>
+		<ExportShp>
+			<Coordonnees>0</Coordonnees>
+			<TypeFichier>0</TypeFichier>
+			<Forme3D>0</Forme3D>
+		</ExportShp>
+		<Colonnes>
+			<Départ>87</Départ>
+			<Arrivée>87</Arrivée>
+			<DepTopofil>71</DepTopofil>
+			<ArrTopofil>71</ArrTopofil>
+			<Longueur>71</Longueur>
+			<Azimut>71</Azimut>
+			<Pente>71</Pente>
+			<Gauche>71</Gauche>
+			<Droite>71</Droite>
+			<Haut>71</Haut>
+			<Bas>71</Bas>
+			<Inverse>15</Inverse>
+			<Exclusion>23</Exclusion>
+			<Detail>15</Detail>
+			<Section>15</Section>
+			<ComPhot>31</ComPhot>
+			<Separ1>2</Separ1>
+			<X>71</X>
+			<Y>71</Y>
+			<Z>71</Z>
+			<LDev>71</LDev>
+			<Dist>71</Dist>
+			<Separ2>2</Separ2>
+			<Commentaire>0</Commentaire>
+			<Photo>0</Photo>
+		</Colonnes>
+		<Plan Position="2,3,-1,-1,-10,-42,35,35,1605,739">
+			<Cheminement>1</Cheminement>
+			<Points>0</Points>
+			<Stations>0</Stations>
+			<Largeurs>0</Largeurs>
+			<ContoursLargeurs>0</ContoursLargeurs>
+			<Hauteurs>0</Hauteurs>
+			<ContoursHauteurs>0</ContoursHauteurs>
+			<Cube>0</Cube>
+			<Contours3D>0</Contours3D>
+			<Epaisseurs>0</Epaisseurs>
+			<Echelle>1</Echelle>
+			<Zoom>1</Zoom>
+			<Maillage>0</Maillage>
+			<Courbes>0</Courbes>
+			<Profondeurs>0</Profondeurs>
+			<Marqueurs>1</Marqueurs>
+			<Radiales>1</Radiales>
+			<Remplissage>0</Remplissage>
+			<Exclues>0</Exclues>
+			<Dilatation>1.00</Dilatation>
+			<Equidistance>25</Equidistance>
+			<Quadrillage>0</Quadrillage>
+			<TypeCouleur>0</TypeCouleur>
+			<DateMin>0</DateMin>
+			<DateMax>0</DateMax>
+			<Impression>
+				<Type>0</Type>
+				<Pages>1</Pages>
+				<Echelle>0</Echelle>
+			</Impression>
+			<Active>1</Active>
+		</Plan>
+	</Configuration>
+</VisualTopo>
