@@ -6,4 +6,14 @@
 - Isère (38) France
 - Saint Pierre de Chartreuse
 
-![Exploration en cours](https://img.shields.io/badge/Exploration en cours-red)
+- Exploration en cours
+- 
++ Exploration en cours
+
+> [!CAUTION]
+> Exploration en cours
+  
+
+> ⚠️ **Exploration en cours**
+>
+> 
