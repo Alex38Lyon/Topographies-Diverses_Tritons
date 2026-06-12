@@ -1,7 +1,7 @@
 
-# Base de données Topographiques des systèmes karstiques du massif de la Pierre Saint Martin - Larra
+# Base de données Topographiques de divers systèmes karstiques explorés par le Clan des Tritons (Lyon)
 
-Ce dépôt contient les données topographiques et les dessins associés des cavités du massif de la Pierre Saint Martin - Larra.
+Ce dépôt contient les données topographiques et les dessins associés des cavités diverses explorés par le Clan des Tritons.
 
 Ce dépôt est mis à jour à chaque fois qu'une nouvelle topographie est rajoutée à l'un des systèmes décrits dans cette base de données.
 
@@ -10,11 +10,11 @@ Si besoin, des templates pour Therion sont disponibles sur [https://github.com/r
 ## Description
 
 Ce dépôt est en cours de développement et a pour objectif de sauvegarder et partager les données topographiques chiffrées et dessinées au format [Therion](https://therion.speleo.sk/).  
-Ce travail est réalisé par les membres de l'ARSIP, collectif d'exploration du massif de la Pierre Saint Martin.
+Ce travail est réalisé par les membres de le clan des Tritons et associés.
 
 <p align="center">
-  <a href="http://arsip.fr/">
-    <img src="https://github.com/Alex38Lyon/Synthese-PSM_LARRA/blob/18750f1230b7a92b2f528ac250fe979e51d9e3ce/Logos/Logo-ARSIP-Synthese-Topo.jpg" alt="ARSIP" width="200px">
+  <a href="https://clandestritons.fr/">
+    <img src="https://github.com/Alex38Lyon/Synthese-PSM_LARRA/blob/18750f1230b7a92b2f528ac250fe979e51d9e3ce/Logos/Logo-ARSIP-Synthese-Topo.jpg" alt="clan des Tritons" width="200px">
   </a>
 </p>
 
@@ -51,7 +51,7 @@ L'ensemble de ces données est publié sous la licence libre Creative Commons CC
 
 ## Auteur de la base de données
 
-Alexandre Pont (alexandre dot pont at yahoo dot fr) pour le compte de l'ARSIP
+Alexandre Pont (alexandre dot pont at yahoo dot fr) pour le compte du Clan des Tritons
 
 ## Accès Privé
 
@@ -59,7 +59,7 @@ L'accès à l'ensemble des données (dossier Data) est réservé aux membres de 
 
 ## Contact
 
-Pour plus d'informations, vous pouvez contacter l'ARSIP : [https://www.arsip.fr/contactez-nous](https://www.arsip.fr/contactez-nous)
+Pour plus d'informations, vous pouvez contacter le Clan des Tritons : [https://clandestritons.fr/?page_id=3261](https://clandestritons.fr/?page_id=3261)
 
 ## Remerciements
 
