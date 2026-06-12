@@ -1,5 +1,5 @@
 
-# Base de données Topographiques de divers systèmes karstiques explorés par le Clan des Tritons (Lyon)
+# Base de données topographiques des divers systèmes karstiques explorés par le Clan des Tritons (Lyon)
 
 Ce dépôt contient les données topographiques et les dessins associés des cavités diverses explorés par le Clan des Tritons.
 
@@ -14,9 +14,11 @@ Ce travail est réalisé par les membres de le clan des Tritons et associés.
 
 <p align="center">
   <a href="https://clandestritons.fr/">
-    <img src="https://github.com/Alex38Lyon/Synthese-PSM_LARRA/blob/18750f1230b7a92b2f528ac250fe979e51d9e3ce/Logos/Logo-ARSIP-Synthese-Topo.jpg" alt="clan des Tritons" width="200px">
+    <img src="https://github.com/Alex38Lyon/Topographies-Diverses_Tritons/blob/main/Logos/Logo_Tritons_2023_Small.jpg" alt="Clan des Tritons" width="200px">
   </a>
 </p>
+
+
 
 Une convention a aussi été mise en place pour la gestion des points d'interrogation, avec la définition des différents champs :
 
