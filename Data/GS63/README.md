@@ -6,7 +6,10 @@
 - Isère (38) France
 - Saint Pierre de Chartreuse
 
-<p style="color: red;">Exploration en cours</p>
-<span style="color:red">Cette ligne sera en rouge.</span>
-<font color="red">Cette ligne sera en rouge.</font>
-<p style="color:red;">Cette ligne entière sera en rouge.</p>
+Exploration en cours
+![Important](https://img.shields.io/badge/Important-red)
+⚠️ **ATTENTION** : Cette ligne est importante !
+### ⚠️ **Cette ligne est mise en évidence**
+> ⚠️ **Cette ligne est en évidence dans un bloc de citation.**
+> ![Important](https://img.shields.io/badge/Important-red)
+> 
