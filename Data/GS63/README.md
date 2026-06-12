@@ -6,4 +6,4 @@
 - Isère (38) France
 - Saint Pierre de Chartreuse
 
-![Exploration en cours]
+![Exploration en cours](https://img.shields.io/badge/Important-red)
