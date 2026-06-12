@@ -6,6 +6,4 @@
 - Isère (38) France
 - Saint Pierre de Chartreuse
 
-```diff
-Exploration en cours
-```
+<p style="color: red;">Exploration en cours</p>
