@@ -19,7 +19,6 @@ jobs:
           for f in glob.glob('**/*.ply', recursive=True):
               m = trimesh.load(f)
               m.export(f.replace('.ply', '.stl'))
-              m.export(f.replace('.ply', '.obj'))
           "
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
