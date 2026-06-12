@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlnx="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Roche_Garot</name>
+<description>2022.07.25 - TopoDroid v 5.1.40</description>
+<TimeStamp><when>2022-07-25</when></TimeStamp>
+<Style id="centerline">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>2</width>
+  </LineStyle>
+  <LabelStyle>
+    <color>ff0000ff</color>
+    <colorMode>normal</colorMode>
+    <width>1,0</width>
+  </LabelStyle>
+</Style>
+<Style id="splay">
+  <LineStyle>
+    <color>ffffff00</color>
+    <width>1</width>
+  </LineStyle>
+  <LabelStyle>
+    <color>ffffff00</color>
+    <colorMode>normal</colorMode>
+    <width>0,5</width>
+  </LabelStyle>
+</Style>
+<Style id="station">
+  <IconStyle><Icon></Icon></IconStyle>
+  <LabelStyle>
+    <color>ffff00ff</color>
+    <colorMode>normal</colorMode>
+    <width>1,0</width>
+  </LabelStyle>
+  <LineStyle>
+    <color>ffff00ff</color>
+    <width>1</width>
+  </LineStyle>
+</Style>
+<Placemark>
+  <name>00</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="00">
+    <coordinates>5.52837500,46.30011667,344.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>1</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="1">
+    <coordinates>5.52834372,46.30016063,344.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>2</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="2">
+    <coordinates>5.52827758,46.30022521,345.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>3</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="3">
+    <coordinates>5.52821359,46.30028024,346.3</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>4</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="4">
+    <coordinates>5.52821590,46.30032174,345.5</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>5</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="5">
+    <coordinates>5.52819480,46.30036525,345.0</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>6</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="6">
+    <coordinates>5.52818477,46.30039563,345.0</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>7</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="7">
+    <coordinates>5.52812345,46.30041846,344.5</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>8</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="8">
+    <coordinates>5.52808992,46.30043114,344.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>9</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="9">
+    <coordinates>5.52805613,46.30042219,344.9</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>10</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="10">
+    <coordinates>5.52800616,46.30042900,345.4</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>11</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="11">
+    <coordinates>5.52795860,46.30039444,346.1</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>12</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="12">
+    <coordinates>5.52790772,46.30045994,347.2</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>13</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="13">
+    <coordinates>5.52784884,46.30048528,348.2</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>A1</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="A1">
+    <coordinates>5.52775143,46.30050691,351.4</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>A2</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="A2">
+    <coordinates>5.52774372,46.30051033,361.2</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>14</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="14">
+    <coordinates>5.52779744,46.30052414,352.2</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>15</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="15">
+    <coordinates>5.52777385,46.30054444,352.0</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>16</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="16">
+    <coordinates>5.52771334,46.30055090,353.8</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>17</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="17">
+    <coordinates>5.52769178,46.30059718,354.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>18</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="18">
+    <coordinates>5.52770078,46.30063579,357.1</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>19</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="19">
+    <coordinates>5.52770813,46.30065860,357.2</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>20</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="20">
+    <coordinates>5.52767478,46.30066652,356.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>21</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="21">
+    <coordinates>5.52771231,46.30071933,356.3</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>22</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="22">
+    <coordinates>5.52769216,46.30078637,356.5</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>23</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="23">
+    <coordinates>5.52764595,46.30081136,356.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>24</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="24">
+    <coordinates>5.52763321,46.30082207,357.8</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>25</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="25">
+    <coordinates>5.52757587,46.30085489,359.9</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>26</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="26">
+    <coordinates>5.52753879,46.30083412,360.3</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>B1</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="B1">
+    <coordinates>5.52761224,46.30085793,361.3</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>B2</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="B2">
+    <coordinates>5.52761162,46.30087418,362.5</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>B3</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="B3">
+    <coordinates>5.52761500,46.30090144,362.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>27</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="27">
+    <coordinates>5.52748737,46.30083184,360.8</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>28</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="28">
+    <coordinates>5.52745744,46.30090002,361.1</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>29</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="29">
+    <coordinates>5.52740519,46.30096775,362.0</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>30</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="30">
+    <coordinates>5.52741365,46.30099647,361.8</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>31</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="31">
+    <coordinates>5.52736418,46.30103048,362.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>C1</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="C1">
+    <coordinates>5.52738367,46.30103842,370.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>32</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="32">
+    <coordinates>5.52734064,46.30105002,365.0</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>33</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="33">
+    <coordinates>5.52727910,46.30107639,364.9</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>34</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="34">
+    <coordinates>5.52725263,46.30110364,365.8</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>35</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="35">
+    <coordinates>5.52724662,46.30114118,366.1</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>D1</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="D1">
+    <coordinates>5.52726769,46.30111555,371.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>36</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="36">
+    <coordinates>5.52719455,46.30114598,367.6</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>37</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="37">
+    <coordinates>5.52714098,46.30115511,370.5</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>E1</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="E1">
+    <coordinates>5.52712969,46.30114789,368.9</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>E2</name>
+    <styleUrl>#station</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+<Point id="E2">
+    <coordinates>5.52709615,46.30116593,369.3</coordinates>
+</Point>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>centerline</name>
+    <styleUrl>#centerline</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+  </MultiGeometry>
+</Placemark>
+<Placemark>
+  <name>splays</name>
+    <styleUrl>#splay</styleUrl>
+  <MultiGeometry>
+    <altitudeMode>absolute</altitudeMode>
+  <LineString> <coordinates>
+    5.52837500,46.30011667,344.6 5.52835681,46.30010885,344.8
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52837500,46.30011667,344.6 5.52837620,46.30013844,344.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52837500,46.30011667,344.6 5.52837364,46.30011648,344.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52834372,46.30016063,344.6 5.52833370,46.30015802,344.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52834372,46.30016063,344.6 5.52835435,46.30016594,344.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52834372,46.30016063,344.6 5.52834278,46.30016184,346.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52834372,46.30016063,344.6 5.52834312,46.30016107,344.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52827758,46.30022521,345.6 5.52826800,46.30022276,345.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52827758,46.30022521,345.6 5.52828711,46.30023096,345.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52827758,46.30022521,345.6 5.52827668,46.30022587,347.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52821359,46.30028024,346.3 5.52820299,46.30027937,346.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52821359,46.30028024,346.3 5.52823896,46.30028990,346.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52821359,46.30028024,346.3 5.52821373,46.30028144,347.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52821590,46.30032174,345.5 5.52820039,46.30032028,345.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52821590,46.30032174,345.5 5.52821969,46.30032337,345.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52821590,46.30032174,345.5 5.52821555,46.30032077,346.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52821590,46.30032174,345.5 5.52821553,46.30032152,345.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52819480,46.30036525,345.0 5.52818655,46.30036537,345.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52819480,46.30036525,345.0 5.52820945,46.30036839,345.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52819480,46.30036525,345.0 5.52819640,46.30036466,346.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52819480,46.30036525,345.0 5.52819491,46.30036500,344.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52818477,46.30039563,345.0 5.52817217,46.30039019,345.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52818477,46.30039563,345.0 5.52818946,46.30040065,345.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52818477,46.30039563,345.0 5.52818352,46.30039467,346.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52818477,46.30039563,345.0 5.52818507,46.30039596,344.8
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52812345,46.30041846,344.5 5.52811967,46.30041578,344.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52812345,46.30041846,344.5 5.52812687,46.30042490,344.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52812345,46.30041846,344.5 5.52812278,46.30041860,344.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52812345,46.30041846,344.5 5.52812369,46.30041817,344.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52812345,46.30041846,344.5 5.52812613,46.30042455,344.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52812345,46.30041846,344.5 5.52812000,46.30041543,344.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52812345,46.30041846,344.5 5.52812397,46.30041875,345.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52812345,46.30041846,344.5 5.52812367,46.30041824,344.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52812345,46.30041846,344.5 5.52810518,46.30041502,345.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52808992,46.30043114,344.6 5.52809464,46.30042390,344.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52808992,46.30043114,344.6 5.52808879,46.30043305,344.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52808992,46.30043114,344.6 5.52808988,46.30043067,345.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52808992,46.30043114,344.6 5.52808979,46.30043092,344.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52808992,46.30043114,344.6 5.52807410,46.30041166,345.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52805613,46.30042219,344.9 5.52806031,46.30041414,344.8
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52805613,46.30042219,344.9 5.52805007,46.30042992,345.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52805613,46.30042219,344.9 5.52805553,46.30042089,346.8
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52805613,46.30042219,344.9 5.52805567,46.30042214,344.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52800616,46.30042900,345.4 5.52801735,46.30040289,345.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52800616,46.30042900,345.4 5.52799060,46.30043680,345.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52800616,46.30042900,345.4 5.52800676,46.30042810,347.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52800616,46.30042900,345.4 5.52800560,46.30042899,345.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52795860,46.30039444,346.1 5.52794433,46.30039074,346.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52795860,46.30039444,346.1 5.52796344,46.30041853,346.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52795860,46.30039444,346.1 5.52796078,46.30039404,348.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52795860,46.30039444,346.1 5.52795790,46.30039415,345.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52790772,46.30045994,347.2 5.52789309,46.30045647,347.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52790772,46.30045994,347.2 5.52791497,46.30046408,347.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52790772,46.30045994,347.2 5.52790722,46.30045882,348.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52790772,46.30045994,347.2 5.52790667,46.30046052,346.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52784884,46.30048528,348.2 5.52784166,46.30047666,348.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52784884,46.30048528,348.2 5.52784969,46.30048492,349.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52784884,46.30048528,348.2 5.52784649,46.30048534,347.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52775143,46.30050691,351.4 5.52774877,46.30050519,351.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52775143,46.30050691,351.4 5.52776203,46.30052356,351.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52775143,46.30050691,351.4 5.52776201,46.30051289,361.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52775143,46.30050691,351.4 5.52775119,46.30050866,350.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52779744,46.30052414,352.2 5.52778547,46.30051923,352.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52779744,46.30052414,352.2 5.52783626,46.30052723,352.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52779744,46.30052414,352.2 5.52780087,46.30052618,356.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52779744,46.30052414,352.2 5.52779693,46.30052371,351.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52777385,46.30054444,352.0 5.52776279,46.30053194,352.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52777385,46.30054444,352.0 5.52777744,46.30055429,352.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52777385,46.30054444,352.0 5.52777278,46.30055190,357.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52777385,46.30054444,352.0 5.52777391,46.30054628,351.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52771334,46.30055090,353.8 5.52770967,46.30054861,353.8
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52771334,46.30055090,353.8 5.52773081,46.30056825,354.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52771334,46.30055090,353.8 5.52771289,46.30055223,356.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52771334,46.30055090,353.8 5.52771278,46.30055230,352.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52769178,46.30059718,354.6 5.52766885,46.30059808,354.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52769178,46.30059718,354.6 5.52766869,46.30059624,355.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52769178,46.30059718,354.6 5.52770967,46.30060302,355.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52769178,46.30059718,354.6 5.52768928,46.30059359,357.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52769178,46.30059718,354.6 5.52769203,46.30059742,354.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52770078,46.30063579,357.1 5.52769795,46.30063683,357.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52770078,46.30063579,357.1 5.52771390,46.30063491,357.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52770078,46.30063579,357.1 5.52770048,46.30063585,358.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52770813,46.30065860,357.2 5.52770001,46.30065660,357.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52770813,46.30065860,357.2 5.52770723,46.30065914,356.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52767478,46.30066652,356.6 5.52765628,46.30067111,356.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52767478,46.30066652,356.6 5.52768745,46.30066471,356.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52767478,46.30066652,356.6 5.52767726,46.30066780,358.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52767478,46.30066652,356.6 5.52767449,46.30066635,356.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52771231,46.30071933,356.3 5.52769551,46.30072068,356.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52771231,46.30071933,356.3 5.52771933,46.30071776,356.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52771231,46.30071933,356.3 5.52771448,46.30072242,357.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52771231,46.30071933,356.3 5.52771342,46.30071947,355.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52769216,46.30078637,356.5 5.52768567,46.30078487,356.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52769216,46.30078637,356.5 5.52769985,46.30078833,356.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52769216,46.30078637,356.5 5.52769311,46.30078050,357.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52769216,46.30078637,356.5 5.52769164,46.30078660,356.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52764595,46.30081136,356.6 5.52762993,46.30080283,356.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52764595,46.30081136,356.6 5.52765339,46.30082467,357.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52764595,46.30081136,356.6 5.52764633,46.30081606,361.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52764595,46.30081136,356.6 5.52764565,46.30081144,356.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52764595,46.30081136,356.6 5.52763194,46.30082259,357.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52764595,46.30081136,356.6 5.52763458,46.30082036,357.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52763321,46.30082207,357.8 5.52762346,46.30081962,358.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52763321,46.30082207,357.8 5.52763894,46.30083270,357.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52763321,46.30082207,357.8 5.52763463,46.30082029,359.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52763321,46.30082207,357.8 5.52763240,46.30082258,356.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52757587,46.30085489,359.9 5.52757447,46.30084078,360.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52757587,46.30085489,359.9 5.52757184,46.30085871,360.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52757587,46.30085489,359.9 5.52757759,46.30085229,361.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52757587,46.30085489,359.9 5.52757411,46.30085268,358.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52761224,46.30085793,361.3 5.52761142,46.30085769,363.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52761224,46.30085793,361.3 5.52761425,46.30085821,360.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52753879,46.30083412,360.3 5.52753924,46.30083087,360.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52753879,46.30083412,360.3 5.52753377,46.30083813,360.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52753879,46.30083412,360.3 5.52754046,46.30083335,361.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52753879,46.30083412,360.3 5.52753749,46.30083428,359.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52748737,46.30083184,360.8 5.52748002,46.30082959,360.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52748737,46.30083184,360.8 5.52749930,46.30083544,360.8
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52748737,46.30083184,360.8 5.52748809,46.30083211,363.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52748737,46.30083184,360.8 5.52748739,46.30083325,359.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52745744,46.30090002,361.1 5.52744958,46.30089928,361.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52745744,46.30090002,361.1 5.52746304,46.30090133,361.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52745744,46.30090002,361.1 5.52745624,46.30089950,361.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52745744,46.30090002,361.1 5.52745687,46.30089978,360.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52740519,46.30096775,362.0 5.52741750,46.30096237,361.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52740519,46.30096775,362.0 5.52740398,46.30096785,361.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52740519,46.30096775,362.0 5.52740720,46.30097117,363.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52741365,46.30099647,361.8 5.52740719,46.30099541,361.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52741365,46.30099647,361.8 5.52741791,46.30099692,361.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52741365,46.30099647,361.8 5.52741428,46.30099509,362.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52741365,46.30099647,361.8 5.52741355,46.30099700,360.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52736418,46.30103048,362.6 5.52734981,46.30101710,362.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52736418,46.30103048,362.6 5.52736516,46.30103348,362.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52736418,46.30103048,362.6 5.52737527,46.30102086,364.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52736418,46.30103048,362.6 5.52735289,46.30103966,363.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52734064,46.30105002,365.0 5.52732715,46.30104660,365.5
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52734064,46.30105002,365.0 5.52734476,46.30105170,365.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52734064,46.30105002,365.0 5.52734031,46.30105040,364.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52734064,46.30105002,365.0 5.52734109,46.30104975,365.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52727910,46.30107639,364.9 5.52726971,46.30107283,365.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52727910,46.30107639,364.9 5.52728364,46.30107857,364.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52727910,46.30107639,364.9 5.52727779,46.30107534,365.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52727910,46.30107639,364.9 5.52727895,46.30107643,364.6
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52725263,46.30110364,365.8 5.52724434,46.30110116,365.8
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52725263,46.30110364,365.8 5.52726746,46.30110575,366.0
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52725263,46.30110364,365.8 5.52725399,46.30110383,367.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52725263,46.30110364,365.8 5.52725235,46.30110291,365.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52724662,46.30114118,366.1 5.52724001,46.30113775,366.2
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52724662,46.30114118,366.1 5.52724946,46.30114267,366.1
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52724662,46.30114118,366.1 5.52724669,46.30114111,366.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52724662,46.30114118,366.1 5.52724567,46.30114161,365.8
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52719455,46.30114598,367.6 5.52719023,46.30114275,367.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52719455,46.30114598,367.6 5.52719908,46.30115349,367.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52719455,46.30114598,367.6 5.52719846,46.30115343,367.7
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52719455,46.30114598,367.6 5.52719424,46.30114626,368.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52719455,46.30114598,367.6 5.52719437,46.30114615,367.4
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52712969,46.30114789,368.9 5.52712360,46.30114363,368.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52712969,46.30114789,368.9 5.52713106,46.30115001,368.9
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52712969,46.30114789,368.9 5.52712768,46.30114905,369.3
+  </coordinates> </LineString>
+  <LineString> <coordinates>
+    5.52712969,46.30114789,368.9 5.52712839,46.30114744,368.6
+  </coordinates> </LineString>
+  </MultiGeometry>
+</Placemark>
+</Document>
+</kml>

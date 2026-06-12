@@ -1,0 +1,35 @@
+encoding  utf-8
+source Roche_Garot.th
+
+input Layouts.th
+input traduction.txt  
+
+
+
+#export map -proj plan -fmt xvi -layout xviexport -output dessins/Roche_Garot-plan100.xvi  # pour le plan
+#export map -proj extended -fmt xvi -layout xviexport -output dessin/Roche_Garot-coupe.xvi  # pour la coupe
+
+
+#export model -o output/Roche_Garot.lox
+#export model -o output/Roche_Garot.dxf
+#export model -o output/Roche_Garot.plt
+#export model -o output/Roche_Garot.kml
+#export model -o output/Roche_Garot.svg
+#export model -o output/Roche_Garot.survey
+#export cave-list -o output/Roche_Garot1.txt
+#export survey-list -o output/Roche_Garot2.txt
+#export continuation-list -o output/Roche_Garot3.txt
+
+#export map -projection plan -o output/Roche_Garotm.pdf
+#export atlas -projection plan -o output/Roche_Garota.pdf
+
+select MP_RGarot@main
+export map -proj plan -fmt pdf -layout Plan1 -output output/Roche_Garot-plan1.pdf # pour le plan
+#export map -proj plan -fmt dxf -layout Plan1 -output output/Roche_Garot-plan1.dxf # pour le plan
+export map -proj plan -fmt pdf -layout Plan2 -output output/Roche_Garot-plan2.pdf # pour le plan
+#export map -proj plan -fmt dxf -layout Plan2 -output output/Roche_Garot-plan2.dxf # pour le plan
+#export map -proj plan -fmt svg -layout Plan2 -output output/Roche_Garot-plan2.svg # pour le plan
+export map -proj plan -fmt pdf -layout my_layout -output output/Roche_Garot-plan5.pdf # pour le plan
+export map -proj plan -fmt pdf -layout 100 -output output/Roche_Garot-plan6.pdf # pour le plan
+#export atlas -layout Plan2 -o output/Roche_Garot-plan3.pdf
+#export atlas -layout Plan1 -o output/Roche_Garot-plan4.pdf

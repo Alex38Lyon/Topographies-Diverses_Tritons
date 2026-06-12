@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VisualTopo>
+	<Version>5.20</Version>
+	<Verification>1</Verification>
+	<Lignes>990</Lignes>
+	<Cavite>
+		<Nom>Grotte du Jallier - Grotte Lafaille (38)</Nom>
+		<Coordonnees X="720.25700" Y="5033.79600" Z="481.00" Projection="UTM31"/>
+		<Club>Clan des Tritons Lyon (Alex)</Club>
+		<Surface>D:\01 Synology Drive [Blade 15]\00 A Classer sur [Cloud]\Grotte du Jallier (38)\Surface Jallier LT</Surface>
+		<Entree>L21</Entree>
+		<Toporobot>0</Toporobot>
+		<Couleur>0,0,0</Couleur>
+	</Cavite>
+	<Mesures>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="2.1714" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Dep" Coul="0,0,0" Date="06/05/2021" DeclinAuto="A">
+			<Commentaire>Explo 01: 2021 05 06 : DistoX alex Serge Caillaud / Agathe Flavino / Brigitte Aloth / Alex</Commentaire>
+			<Visee Dep="1" Arr="1" Long="0.00" Az="0.00" Pte="0.00" G="3.46" D="1.53" H="2.07" B="0.67" Ref="1" Suiv="1">
+				<Commentaire>Entrée Sup Grotte du Jallier au seuil sous le spit</Commentaire>
+			</Visee>
+			<Visee Dep="00" Long="1.69" Az="273.30" Pte="7.40" Ref="7"/>
+			<Visee Dep="00" Long="4.94" Az="280.20" Pte="35.60" Ref="7"/>
+			<Visee Dep="00" Long="1.97" Az="93.10" Pte="79.70" Ref="7"/>
+			<Visee Dep="00" Long="0.55" Az="199.70" Pte="-82.90" Ref="7"/>
+			<Visee Dep="00" Arr="01" Long="0.00" Az="0.00" Pte="0.00" G="1.70" D="5.00" H="2.00" B="0.55" Ref="7"/>
+			<Visee Dep="00" Arr="1" Long="4.24" Az="179.60" Pte="14.20" G="0.35" D="3.95" H="2.88" B="0.55" Ref="1" Suiv="71" InvV1V2="1">
+				<Commentaire>Entrée Sup Grotte du Jallier au seuil sous le spit</Commentaire>
+			</Visee>
+			<Visee Dep="1" Arr="2" Long="3.76" Az="198.20" Pte="10.50" G="1.29" D="3.22" H="2.07" B="0.67" Ref="1" Suiv="17"/>
+			<Visee Dep="1" Long="1.62" Az="72.10" Pte="8.00" Ref="1"/>
+			<Visee Dep="1" Long="4.04" Az="266.50" Pte="30.80" Ref="1"/>
+			<Visee Dep="1" Long="1.16" Az="263.30" Pte="86.60" Ref="1"/>
+			<Visee Dep="1" Long="0.68" Az="279.30" Pte="-84.30" Ref="1"/>
+			<Visee Dep="2" Long="2.19" Az="80.10" Pte="2.10" Ref="8"/>
+			<Visee Dep="2" Long="1.82" Az="254.00" Pte="70.40" Ref="8"/>
+			<Visee Dep="2" Long="1.39" Az="109.00" Pte="79.70" Ref="8"/>
+			<Visee Dep="2" Long="0.93" Az="145.10" Pte="-82.70" Ref="8"/>
+			<Visee Dep="2" Arr="3" Long="5.06" Az="155.00" Pte="-2.60" G="2.11" D="0.60" H="1.71" B="0.92" Ref="8" Suiv="22"/>
+			<Visee Dep="3" Long="0.18" Az="86.60" Pte="11.20" Ref="17"/>
+			<Visee Dep="3" Long="2.40" Az="262.20" Pte="24.00" Ref="17"/>
+			<Visee Dep="3" Long="1.12" Az="22.00" Pte="84.30" Ref="17"/>
+			<Visee Dep="3" Long="0.79" Az="135.40" Pte="-80.40" Ref="17"/>
+			<Visee Dep="3" Arr="4" Long="6.66" Az="173.10" Pte="-4.10" G="0.18" D="2.19" H="1.11" B="0.78" Ref="17" Suiv="27"/>
+			<Visee Dep="4" Long="0.71" Az="76.80" Pte="7.70" Ref="22"/>
+			<Visee Dep="4" Long="3.39" Az="278.30" Pte="45.40" Ref="22"/>
+			<Visee Dep="4" Long="1.26" Az="140.50" Pte="75.90" Ref="22"/>
+			<Visee Dep="4" Long="0.65" Az="297.80" Pte="-78.50" Ref="22"/>
+			<Visee Dep="4" Arr="5" Long="1.88" Az="124.70" Pte="5.20" G="0.52" D="1.07" H="2.41" B="0.64" Ref="22" Suiv="32"/>
+			<Visee Dep="5" Long="1.37" Az="153.60" Pte="-9.90" Ref="27"/>
+			<Visee Dep="5" Long="2.53" Az="295.80" Pte="9.20" Ref="27"/>
+			<Visee Dep="5" Long="0.91" Az="310.60" Pte="84.40" Ref="27"/>
+			<Visee Dep="5" Long="1.30" Az="179.50" Pte="-84.00" Ref="27"/>
+			<Visee Dep="5" Arr="6" Long="8.75" Az="216.40" Pte="-35.20" G="1.20" D="2.46" H="0.90" B="1.30" Ref="27" Suiv="36"/>
+			<Visee Dep="6" Long="0.24" Az="142.30" Pte="4.40" Ref="32"/>
+			<Visee Dep="6" Long="1.02" Az="332.10" Pte="11.20" Ref="32"/>
+			<Visee Dep="6" Long="0.17" Az="246.70" Pte="-86.70" Ref="32"/>
+			<Visee Dep="6" Arr="7" Long="5.45" Az="228.20" Pte="-38.10" G="0.24" D="0.98" H="0.20" B="0.17" Ref="32" Suiv="41"/>
+			<Visee Dep="7" Long="1.73" Az="111.30" Pte="1.50" Ref="36"/>
+			<Visee Dep="7" Long="0.22" Az="293.30" Pte="-6.10" Ref="36"/>
+			<Visee Dep="7" Long="1.56" Az="212.90" Pte="83.40" Ref="36"/>
+			<Visee Dep="7" Long="0.85" Az="21.10" Pte="-86.60" Ref="36"/>
+			<Visee Dep="7" Arr="8" Long="3.85" Az="186.20" Pte="12.60" G="1.67" D="0.21" H="1.55" B="0.85" Ref="36" Suiv="46"/>
+			<Visee Dep="8" Long="0.94" Az="96.30" Pte="-0.20" Ref="41"/>
+			<Visee Dep="8" Long="0.19" Az="287.40" Pte="20.60" Ref="41"/>
+			<Visee Dep="8" Long="0.55" Az="68.70" Pte="85.40" Ref="41"/>
+			<Visee Dep="8" Long="0.90" Az="190.80" Pte="-84.60" Ref="41"/>
+			<Visee Dep="8" Arr="9" Long="4.45" Az="196.70" Pte="7.40" G="0.93" D="0.18" H="0.55" B="0.90" Ref="41" Suiv="51"/>
+			<Visee Dep="9" Long="1.50" Az="80.20" Pte="10.70" Ref="46"/>
+			<Visee Dep="9" Long="0.79" Az="266.80" Pte="9.20" Ref="46"/>
+			<Visee Dep="9" Long="0.69" Az="292.10" Pte="88.00" Ref="46"/>
+			<Visee Dep="9" Long="0.89" Az="219.90" Pte="-82.20" Ref="46"/>
+			<Visee Dep="9" Arr="10" Long="5.11" Az="165.20" Pte="13.20" G="1.47" D="0.77" H="0.69" B="0.88" Ref="46" Suiv="56"/>
+			<Visee Dep="10" Long="1.30" Az="85.30" Pte="7.40" Ref="51"/>
+			<Visee Dep="10" Long="0.39" Az="279.90" Pte="8.10" Ref="51"/>
+			<Visee Dep="10" Long="1.43" Az="110.60" Pte="82.00" Ref="51"/>
+			<Visee Dep="10" Long="1.05" Az="135.20" Pte="-78.10" Ref="51"/>
+			<Visee Dep="10" Arr="11" Long="4.63" Az="181.20" Pte="-5.00" G="1.28" D="0.38" H="1.42" B="1.03" Ref="51" Suiv="61"/>
+			<Visee Dep="11" Long="0.49" Az="130.70" Pte="13.30" Ref="56"/>
+			<Visee Dep="11" Long="1.48" Az="305.50" Pte="-6.30" Ref="56"/>
+			<Visee Dep="11" Long="0.72" Az="257.00" Pte="83.60" Ref="56"/>
+			<Visee Dep="11" Long="0.94" Az="162.40" Pte="-88.10" Ref="56"/>
+			<Visee Dep="11" Arr="12" Long="7.10" Az="252.50" Pte="-30.80" G="0.40" D="1.18" H="0.72" B="0.94" Ref="56" Suiv="66"/>
+			<Visee Dep="12" Long="1.47" Az="162.40" Pte="10.80" Ref="61"/>
+			<Visee Dep="12" Long="0.61" Az="335.90" Pte="4.70" Ref="61"/>
+			<Visee Dep="12" Long="0.91" Az="219.80" Pte="79.60" Ref="61"/>
+			<Visee Dep="12" Long="0.29" Az="76.50" Pte="-72.60" Ref="61"/>
+			<Visee Dep="12" Arr="13" Long="3.35" Az="213.20" Pte="-25.80" G="1.12" D="0.51" H="0.90" B="0.28" Ref="61" Suiv="134">
+				<Commentaire>arret sur siphon, marqué</Commentaire>
+			</Visee>
+			<Visee Dep="13" Long="0.86" Az="187.50" Pte="22.10" Ref="66"/>
+			<Visee Dep="13" Long="2.18" Az="347.80" Pte="-2.20" Ref="66"/>
+			<Visee Dep="13" Long="0.67" Az="145.40" Pte="72.60" Ref="66"/>
+			<Visee Dep="13" Long="1.02" Az="75.70" Pte="-86.40" Ref="66"/>
+			<Visee Dep="00" Arr="S01" Long="7.06" Az="288.10" Pte="30.80" G="0.55" D="0.09" H="2.88" B="0.55" Exc="EE" Ref="7" Suiv="72">
+				<Commentaire>Serie S : Surface vers entrée 2</Commentaire>
+			</Visee>
+			<Visee Dep="S01" Arr="S2" Long="2.41" Az="298.10" Pte="3.30" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="71" Suiv="73"/>
+			<Visee Dep="S2" Arr="S3" Long="6.48" Az="340.10" Pte="-42.70" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="72" Suiv="74"/>
+			<Visee Dep="S3" Arr="S4" Long="7.48" Az="325.40" Pte="-69.20" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="73" Suiv="75"/>
+			<Visee Dep="S4" Arr="S5" Long="3.56" Az="70.10" Pte="-67.30" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="74">
+				<Commentaire>mauvaise direction....</Commentaire>
+			</Visee>
+			<Visee Dep="00" Arr="E1" Long="6.11" Az="53.80" Pte="-32.00" G="2.90" D="0.22" H="2.88" B="0.55" Exc="EE" Ref="7" Suiv="77">
+				<Commentaire>Surface : Vers Grotte Jallier</Commentaire>
+			</Visee>
+			<Visee Dep="E1" Arr="E2" Long="2.42" Az="88.10" Pte="26.20" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="76" Suiv="78"/>
+			<Visee Dep="E2" Arr="E3" Long="5.02" Az="145.80" Pte="49.20" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="77" Suiv="79"/>
+			<Visee Dep="E3" Arr="E5" Long="2.64" Az="124.30" Pte="6.10" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="78" Suiv="80"/>
+			<Visee Dep="E5" Arr="E6" Long="3.73" Az="83.60" Pte="-16.00" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="79" Suiv="81"/>
+			<Visee Dep="E6" Arr="E7" Long="5.34" Az="94.80" Pte="-26.60" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="80" Suiv="82"/>
+			<Visee Dep="E7" Arr="E8" Long="4.49" Az="106.80" Pte="-18.90" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="81" Suiv="83"/>
+			<Visee Dep="E8" Arr="E9" Long="2.74" Az="120.90" Pte="-33.60" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="82" Suiv="84"/>
+			<Visee Dep="E9" Arr="E10" Long="3.38" Az="159.30" Pte="-20.40" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="83" Suiv="85"/>
+			<Visee Dep="E10" Arr="E11" Long="2.38" Az="99.10" Pte="-32.20" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="84" Suiv="92">
+				<Commentaire>Entree grotte Lafaille</Commentaire>
+			</Visee>
+			<Visee Dep="E11" Long="0.00" Az="0.00" Pte="0.00" G="0.60" D="6.00" H="6.25" B="4.55" Ref="85"/>
+			<Visee Dep="E11" Long="0.62" Az="97.60" Pte="-1.70" Ref="85"/>
+			<Visee Dep="E11" Long="0.16" Az="286.10" Pte="36.00" Ref="85"/>
+			<Visee Dep="E11" Long="6.25" Az="285.70" Pte="34.60" Ref="85"/>
+			<Visee Dep="E11" Long="4.55" Az="213.50" Pte="71.50" Ref="85"/>
+			<Visee Dep="E11" Long="0.71" Az="154.40" Pte="-78.30" Ref="85"/>
+			<Visee Dep="E11" Arr="L1" Long="0.00" Az="185.60" Pte="4.30" G="0.62" D="5.06" H="4.31" B="0.70" Ref="85" Suiv="93">
+				<Commentaire>L01 : Grotte Laffaille</Commentaire>
+			</Visee>
+			<Visee Dep="L1" Arr="L2" Long="7.88" Az="185.80" Pte="5.90" G="1.00" D="5.00" H="4.00" B="0.70" Ref="92" Suiv="99"/>
+			<Visee Dep="L2" Long="5.81" Az="281.70" Pte="41.50" Ref="93"/>
+			<Visee Dep="L2" Long="1.04" Az="153.60" Pte="84.60" Ref="93"/>
+			<Visee Dep="L2" Long="0.18" Az="210.10" Pte="-85.60" Ref="93"/>
+			<Visee Dep="L2" Long="0.16" Az="26.60" Pte="-87.70" Ref="93"/>
+			<Visee Dep="L2" Long="1.17" Az="313.20" Pte="-77.90" Ref="93"/>
+			<Visee Dep="L2" Arr="L3" Long="3.75" Az="156.10" Pte="-7.50" G="0.00" D="3.54" H="3.85" B="1.14" Ref="93" Suiv="104"/>
+			<Visee Dep="L3" Long="2.35" Az="75.60" Pte="-10.40" Ref="99"/>
+			<Visee Dep="L3" Long="2.04" Az="277.80" Pte="42.00" Ref="99"/>
+			<Visee Dep="L3" Long="1.14" Az="224.20" Pte="87.70" Ref="99"/>
+			<Visee Dep="L3" Long="0.80" Az="150.00" Pte="-83.80" Ref="99"/>
+			<Visee Dep="L3" Arr="L4" Long="3.31" Az="182.00" Pte="-1.70" G="2.22" D="1.50" H="1.36" B="0.80" Ref="99" Suiv="109"/>
+			<Visee Dep="L4" Long="4.94" Az="88.10" Pte="-11.70" Ref="104"/>
+			<Visee Dep="L4" Long="5.02" Az="275.60" Pte="42.30" Ref="104"/>
+			<Visee Dep="L4" Long="0.82" Az="102.70" Pte="79.50" Ref="104"/>
+			<Visee Dep="L4" Long="2.07" Az="106.70" Pte="-59.00" Ref="104"/>
+			<Visee Dep="L4" Arr="L5" Long="4.20" Az="170.30" Pte="13.20" G="4.78" D="4.50" H="3.38" B="1.78" Ref="104" Suiv="114"/>
+			<Visee Dep="L5" Long="2.71" Az="99.40" Pte="-27.20" Ref="109"/>
+			<Visee Dep="L5" Long="5.53" Az="288.70" Pte="38.20" Ref="109"/>
+			<Visee Dep="L5" Long="0.98" Az="291.70" Pte="81.30" Ref="109"/>
+			<Visee Dep="L5" Long="1.05" Az="188.00" Pte="-79.10" Ref="109"/>
+			<Visee Dep="L5" Arr="L6" Long="3.97" Az="257.90" Pte="23.80" G="2.00" D="4.50" H="1.00" B="1.24" Ref="109" Suiv="119">
+				<Commentaire>sur seuil, marqué</Commentaire>
+			</Visee>
+			<Visee Dep="L6" Long="1.85" Az="104.80" Pte="-17.70" Ref="114"/>
+			<Visee Dep="L6" Long="2.75" Az="277.80" Pte="44.70" Ref="114"/>
+			<Visee Dep="L6" Long="1.02" Az="172.90" Pte="80.20" Ref="114"/>
+			<Visee Dep="L6" Long="0.41" Az="206.90" Pte="-73.20" Ref="114"/>
+			<Visee Dep="L6" Arr="L7" Long="6.23" Az="136.00" Pte="-26.40" G="1.80" D="2.00" H="1.00" B="1.40" Exc="EE" Ref="114" Suiv="120">
+				<Commentaire>Arrêt topo sur siphon en crue</Commentaire>
+			</Visee>
+			<Visee Dep="L7" Arr="L7bis" Long="0.00" Az="136.00" Pte="-26.00" G="1.50" D="3.20" H="0.90" B="0.80" Exc="EE" Ref="119"/>
+			<Visee Dep="L7" Long="1.46" Az="58.60" Pte="-7.90" Ref="119"/>
+			<Visee Dep="L7" Long="3.19" Az="240.00" Pte="35.50" Ref="119"/>
+			<Visee Dep="L7" Long="1.06" Az="101.20" Pte="71.00" Ref="119"/>
+			<Visee Dep="L7" Long="0.86" Az="52.90" Pte="-68.30" Ref="119"/>
+			<Visee Dep="L7" Long="1.46" Az="58.60" Pte="-7.90" Ref="119"/>
+			<Visee Dep="L7" Long="3.19" Az="240.00" Pte="35.50" Ref="119"/>
+			<Visee Dep="L7" Long="1.06" Az="101.20" Pte="71.00" Ref="119"/>
+			<Visee Dep="L7" Long="0.86" Az="52.90" Pte="-68.30" Ref="119"/>
+		</Param>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="2.1844" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Dep" Coul="Std" Date="01/07/2021" DeclinAuto="A">
+			<Commentaire>Explo 2 : DistoX Alex / Guy Lamure / Alex</Commentaire>
+			<Visee Dep="13" Long="0.76" Az="181.10" Pte="20.50" Ref="66"/>
+			<Visee Dep="13" Long="1.87" Az="346.50" Pte="-0.70" Ref="66"/>
+			<Visee Dep="13" Long="0.63" Az="231.10" Pte="84.70" Ref="66"/>
+			<Visee Dep="13" Long="0.32" Az="71.40" Pte="-63.90" Ref="66"/>
+			<Visee Dep="13" Arr="L8" Long="3.16" Az="275.20" Pte="-35.70" G="1.50" D="1.77" H="1.85" B="0.80" Ref="66" Suiv="139">
+				<Commentaire>Départ point 13 du 06/05/2021 - Pas d'eau ce jour !</Commentaire>
+			</Visee>
+			<Visee Dep="L8" Long="0.65" Az="168.80" Pte="8.20" Ref="134"/>
+			<Visee Dep="L8" Long="0.76" Az="343.30" Pte="14.50" Ref="134"/>
+			<Visee Dep="L8" Long="0.78" Az="221.20" Pte="88.90" Ref="134"/>
+			<Visee Dep="L8" Long="0.20" Az="87.50" Pte="-62.20" Ref="134"/>
+			<Visee Dep="L8" Arr="L9" Long="4.17" Az="264.30" Pte="1.60" G="0.64" D="0.73" H="0.78" B="0.18" Ref="134" Suiv="144"/>
+			<Visee Dep="L9" Long="1.82" Az="214.00" Pte="19.00" Ref="139"/>
+			<Visee Dep="L9" Long="2.31" Az="29.10" Pte="2.20" Ref="139"/>
+			<Visee Dep="L9" Long="1.32" Az="303.70" Pte="79.70" Ref="139"/>
+			<Visee Dep="L9" Long="0.18" Az="336.60" Pte="-80.60" Ref="139"/>
+			<Visee Dep="L9" Arr="L10" Long="5.61" Az="335.60" Pte="3.20" G="1.46" D="2.41" H="1.64" B="0.20" Ref="139" Suiv="149"/>
+			<Visee Dep="L10" Long="2.98" Az="238.50" Pte="10.00" Ref="144"/>
+			<Visee Dep="L10" Long="0.19" Az="43.40" Pte="19.80" Ref="144"/>
+			<Visee Dep="L10" Long="0.19" Az="262.60" Pte="85.40" Ref="144"/>
+			<Visee Dep="L10" Long="0.63" Az="138.00" Pte="-88.70" Ref="144"/>
+			<Visee Dep="L10" Arr="L11" Long="2.50" Az="298.50" Pte="1.50" G="2.54" D="0.17" H="0.52" B="0.63" Ref="144" Suiv="154"/>
+			<Visee Dep="L11" Long="1.66" Az="69.10" Pte="1.60" Ref="149"/>
+			<Visee Dep="L11" Long="0.99" Az="256.70" Pte="2.30" Ref="149"/>
+			<Visee Dep="L11" Long="1.42" Az="158.00" Pte="89.10" Ref="149"/>
+			<Visee Dep="L11" Long="0.27" Az="307.80" Pte="-78.80" Ref="149"/>
+			<Visee Dep="L11" Arr="M1" Long="10.62" Az="161.90" Pte="2.20" G="1.66" D="0.99" H="1.42" B="0.27" Ref="149" Suiv="159"/>
+			<Visee Dep="M1" Long="1.10" Az="70.00" Pte="4.60" Ref="154"/>
+			<Visee Dep="M1" Long="1.24" Az="250.20" Pte="3.30" Ref="154"/>
+			<Visee Dep="M1" Long="1.12" Az="183.60" Pte="79.50" Ref="154"/>
+			<Visee Dep="M1" Long="0.71" Az="25.50" Pte="-81.60" Ref="154"/>
+			<Visee Dep="M1" Arr="M2" Long="0.00" Az="0.00" Pte="0.00" G="1.10" D="1.24" H="1.12" B="0.71" Ref="154"/>
+			<Visee Dep="L11" Long="0.81" Az="251.80" Pte="10.20" Ref="149"/>
+			<Visee Dep="L11" Long="1.64" Az="50.60" Pte="8.00" Ref="149"/>
+			<Visee Dep="L11" Long="1.36" Az="86.30" Pte="84.20" Ref="149"/>
+			<Visee Dep="L11" Long="0.26" Az="123.00" Pte="-81.60" Ref="149"/>
+			<Visee Dep="L11" Arr="L12" Long="7.83" Az="357.90" Pte="0.80" G="0.97" D="1.57" H="1.42" B="0.27" Ref="149" Suiv="169"/>
+			<Visee Dep="L12" Long="0.51" Az="258.30" Pte="-6.90" Ref="164"/>
+			<Visee Dep="L12" Long="0.22" Az="73.30" Pte="7.00" Ref="164"/>
+			<Visee Dep="L12" Long="0.57" Az="183.50" Pte="85.00" Ref="164"/>
+			<Visee Dep="L12" Long="0.21" Az="182.10" Pte="-68.40" Ref="164"/>
+			<Visee Dep="L12" Arr="L13" Long="8.78" Az="353.30" Pte="0.60" G="0.50" D="0.21" H="0.57" B="0.19" Ref="164" Suiv="174"/>
+			<Visee Dep="L13" Long="2.02" Az="259.20" Pte="25.90" Ref="169"/>
+			<Visee Dep="L13" Long="0.44" Az="69.40" Pte="-2.50" Ref="169"/>
+			<Visee Dep="L13" Long="0.66" Az="77.60" Pte="88.40" Ref="169"/>
+			<Visee Dep="L13" Long="0.22" Az="211.10" Pte="-81.90" Ref="169"/>
+			<Visee Dep="L13" Arr="L14" Long="4.49" Az="342.80" Pte="9.10" G="1.80" D="0.44" H="0.88" B="0.22" Ref="169" Suiv="179"/>
+			<Visee Dep="L14" Long="0.73" Az="253.40" Pte="7.90" Ref="174"/>
+			<Visee Dep="L14" Long="1.88" Az="66.30" Pte="-21.40" Ref="174"/>
+			<Visee Dep="L14" Long="0.65" Az="227.20" Pte="87.90" Ref="174"/>
+			<Visee Dep="L14" Long="0.36" Az="162.10" Pte="-77.00" Ref="174"/>
+			<Visee Dep="L14" Arr="L15" Long="7.51" Az="10.50" Pte="-6.80" G="0.64" D="1.44" H="0.65" B="0.68" Ref="174" Suiv="184"/>
+			<Visee Dep="L15" Long="0.92" Az="262.30" Pte="14.40" Ref="179"/>
+			<Visee Dep="L15" Long="1.06" Az="69.90" Pte="-22.00" Ref="179"/>
+			<Visee Dep="L15" Long="0.56" Az="22.00" Pte="79.60" Ref="179"/>
+			<Visee Dep="L15" Long="0.23" Az="196.70" Pte="-82.20" Ref="179"/>
+			<Visee Dep="L15" Arr="L16" Long="6.24" Az="351.70" Pte="2.90" G="0.89" D="0.96" H="0.55" B="0.40" Ref="179" Suiv="192"/>
+			<Visee Dep="L16" Long="0.60" Az="70.90" Pte="0.30" Ref="184"/>
+			<Visee Dep="L16" Long="0.51" Az="251.20" Pte="83.30" Ref="184"/>
+			<Visee Dep="L16" Long="0.20" Az="175.80" Pte="-80.60" Ref="184"/>
+			<Visee Dep="L16" Long="0.71" Az="250.50" Pte="18.60" Ref="184"/>
+			<Visee Dep="L16" Long="0.58" Az="80.60" Pte="-3.70" Ref="184"/>
+			<Visee Dep="L16" Long="0.51" Az="306.10" Pte="83.90" Ref="184"/>
+			<Visee Dep="L16" Long="0.24" Az="194.10" Pte="-80.90" Ref="184"/>
+			<Visee Dep="L16" Arr="L17" Long="3.86" Az="1.50" Pte="-3.90" G="0.63" D="0.57" H="0.51" B="0.24" Ref="184" Suiv="197"/>
+			<Visee Dep="L17" Long="0.70" Az="253.70" Pte="7.10" Ref="192"/>
+			<Visee Dep="L17" Long="0.99" Az="67.40" Pte="-20.10" Ref="192"/>
+			<Visee Dep="L17" Long="0.53" Az="279.10" Pte="80.70" Ref="192"/>
+			<Visee Dep="L17" Long="0.75" Az="99.40" Pte="-82.00" Ref="192"/>
+			<Visee Dep="L17" Arr="L18" Long="7.72" Az="353.90" Pte="3.90" G="0.68" D="0.88" H="0.52" B="0.74" Ref="192" Suiv="202"/>
+			<Visee Dep="L18" Long="0.35" Az="239.10" Pte="4.00" Ref="197"/>
+			<Visee Dep="L18" Long="0.61" Az="82.10" Pte="-2.90" Ref="197"/>
+			<Visee Dep="L18" Long="0.26" Az="22.00" Pte="79.00" Ref="197"/>
+			<Visee Dep="L18" Long="0.23" Az="233.60" Pte="-82.00" Ref="197"/>
+			<Visee Dep="L18" Arr="L19" Long="4.75" Az="355.90" Pte="2.50" G="0.31" D="0.61" H="0.26" B="0.22" Ref="197" Suiv="207"/>
+			<Visee Dep="L19" Long="0.49" Az="246.70" Pte="10.20" Ref="202"/>
+			<Visee Dep="L19" Long="1.02" Az="68.00" Pte="-22.60" Ref="202"/>
+			<Visee Dep="L19" Long="0.29" Az="335.00" Pte="78.10" Ref="202"/>
+			<Visee Dep="L19" Long="0.20" Az="238.00" Pte="-83.70" Ref="202"/>
+			<Visee Dep="L19" Arr="L20" Long="2.55" Az="348.70" Pte="-1.90" G="0.47" D="0.93" H="0.28" B="0.39" Ref="202" Suiv="212"/>
+			<Visee Dep="L20" Long="0.53" Az="252.00" Pte="0.60" Ref="207"/>
+			<Visee Dep="L20" Long="0.45" Az="86.20" Pte="2.70" Ref="207"/>
+			<Visee Dep="L20" Long="0.30" Az="6.30" Pte="76.00" Ref="207"/>
+			<Visee Dep="L20" Long="0.40" Az="119.30" Pte="-81.30" Ref="207"/>
+			<Visee Dep="L20" Arr="L21" Long="3.82" Az="60.60" Pte="-33.40" G="3.00" D="0.90" H="0.29" B="0.40" Ref="207" Suiv="217">
+				<Commentaire>L21: Sortie Grotte du Jallier basse</Commentaire>
+			</Visee>
+			<Visee Dep="L21" Long="0.56" Az="76.80" Pte="9.30" Ref="212"/>
+			<Visee Dep="L21" Long="4.49" Az="274.90" Pte="33.90" Ref="212"/>
+			<Visee Dep="L21" Long="1.87" Az="259.70" Pte="79.70" Ref="212"/>
+			<Visee Dep="L21" Long="0.41" Az="182.00" Pte="-75.60" Ref="212"/>
+			<Visee Dep="L21" Arr="L22" Long="0.00" Az="0.00" Pte="0.00" G="4.00" D="0.50" H="2.00" B="0.40" Ref="212"/>
+			<Visee Dep="L9" Long="2.42" Az="66.70" Pte="-3.60" Ref="139"/>
+			<Visee Dep="L9" Long="1.54" Az="258.20" Pte="21.30" Ref="139"/>
+			<Visee Dep="L9" Long="1.65" Az="212.20" Pte="82.30" Ref="139"/>
+			<Visee Dep="L9" Long="0.20" Az="340.20" Pte="-80.50" Ref="139"/>
+			<Visee Dep="L9" Arr="P1" Long="4.45" Az="186.50" Pte="12.70" G="2.09" D="1.36" H="1.64" B="0.20" Ref="139" Suiv="227">
+				<Commentaire>Série P: Vers arrivé de l'eau (en crue)</Commentaire>
+			</Visee>
+			<Visee Dep="P1" Long="1.60" Az="76.80" Pte="7.80" Ref="222"/>
+			<Visee Dep="P1" Long="1.65" Az="248.40" Pte="13.20" Ref="222"/>
+			<Visee Dep="P1" Long="1.37" Az="172.20" Pte="83.20" Ref="222"/>
+			<Visee Dep="P1" Long="0.69" Az="252.40" Pte="-87.80" Ref="222"/>
+			<Visee Dep="P1" Arr="P2" Long="5.32" Az="159.20" Pte="-1.20" G="1.57" D="1.61" H="1.41" B="0.69" Ref="222" Suiv="232"/>
+			<Visee Dep="P2" Long="0.23" Az="65.20" Pte="19.90" Ref="227"/>
+			<Visee Dep="P2" Long="1.35" Az="253.40" Pte="11.50" Ref="227"/>
+			<Visee Dep="P2" Long="0.53" Az="221.90" Pte="83.90" Ref="227"/>
+			<Visee Dep="P2" Long="0.48" Az="307.90" Pte="-75.70" Ref="227"/>
+			<Visee Dep="P2" Arr="P3" Long="5.23" Az="166.60" Pte="-1.40" G="0.21" D="1.32" H="0.53" B="0.47" Ref="227" Suiv="237"/>
+			<Visee Dep="P3" Long="1.13" Az="85.70" Pte="-5.00" Ref="232"/>
+			<Visee Dep="P3" Long="1.11" Az="286.70" Pte="10.70" Ref="232"/>
+			<Visee Dep="P3" Long="0.78" Az="287.70" Pte="80.90" Ref="232"/>
+			<Visee Dep="P3" Long="0.36" Az="357.60" Pte="-78.20" Ref="232"/>
+			<Visee Dep="P3" Arr="P4" Long="7.26" Az="201.90" Pte="24.50" G="1.01" D="1.09" H="0.77" B="0.35" Ref="232" Suiv="242"/>
+			<Visee Dep="P4" Long="0.26" Az="46.60" Pte="15.00" Ref="237"/>
+			<Visee Dep="P4" Long="1.11" Az="279.00" Pte="16.10" Ref="237"/>
+			<Visee Dep="P4" Long="0.21" Az="176.40" Pte="78.60" Ref="237"/>
+			<Visee Dep="P4" Long="0.58" Az="31.00" Pte="-79.80" Ref="237"/>
+			<Visee Dep="P4" Arr="P5" Long="7.83" Az="144.70" Pte="-14.20" G="0.25" D="0.76" H="0.31" B="0.57" Ref="237" Suiv="247"/>
+			<Visee Dep="P5" Long="0.26" Az="60.00" Pte="27.50" Ref="242"/>
+			<Visee Dep="P5" Long="0.94" Az="278.10" Pte="3.80" Ref="242"/>
+			<Visee Dep="P5" Long="0.86" Az="270.20" Pte="73.70" Ref="242"/>
+			<Visee Dep="P5" Long="0.20" Az="16.00" Pte="-79.70" Ref="242"/>
+			<Visee Dep="P5" Arr="P6" Long="4.51" Az="177.10" Pte="3.60" G="0.21" D="0.93" H="0.83" B="0.20" Ref="242" Suiv="252"/>
+			<Visee Dep="P6" Long="0.39" Az="86.60" Pte="3.00" Ref="247"/>
+			<Visee Dep="P6" Long="0.25" Az="274.70" Pte="-2.20" Ref="247"/>
+			<Visee Dep="P6" Long="0.45" Az="220.30" Pte="82.70" Ref="247"/>
+			<Visee Dep="P6" Long="0.40" Az="349.40" Pte="-77.30" Ref="247"/>
+			<Visee Dep="P6" Arr="P7" Long="5.93" Az="155.20" Pte="-1.90" G="0.36" D="0.22" H="0.45" B="0.39" Ref="247" Suiv="257"/>
+			<Visee Dep="P7" Long="0.22" Az="66.60" Pte="33.30" Ref="252"/>
+			<Visee Dep="P7" Long="0.20" Az="259.90" Pte="-8.60" Ref="252"/>
+			<Visee Dep="P7" Long="0.60" Az="208.20" Pte="70.30" Ref="252"/>
+			<Visee Dep="P7" Long="0.40" Az="42.90" Pte="-84.00" Ref="252"/>
+			<Visee Dep="P7" Arr="P8" Long="0.00" Az="0.00" Pte="0.00" G="0.22" D="0.20" H="0.60" B="0.40" Ref="252"/>
+			<Visee Dep="P1" Long="1.49" Az="85.20" Pte="6.90" Ref="222"/>
+			<Visee Dep="P1" Long="1.65" Az="280.30" Pte="22.20" Ref="222"/>
+			<Visee Dep="P1" Long="1.42" Az="188.20" Pte="86.70" Ref="222"/>
+			<Visee Dep="P1" Long="0.67" Az="159.10" Pte="-83.30" Ref="222"/>
+			<Visee Dep="P1" Arr="Q1" Long="1.64" Az="172.20" Pte="37.70" G="1.58" D="1.56" H="1.41" B="0.69" Ref="222" Suiv="267">
+				<Commentaire>Série Q: Vers amont (ligne de tir en place)</Commentaire>
+			</Visee>
+			<Visee Dep="Q1" Long="2.21" Az="131.10" Pte="-13.10" Ref="262"/>
+			<Visee Dep="Q1" Long="1.69" Az="326.30" Pte="10.60" Ref="262"/>
+			<Visee Dep="Q1" Long="0.35" Az="220.40" Pte="80.60" Ref="262"/>
+			<Visee Dep="Q1" Long="1.19" Az="43.20" Pte="-80.80" Ref="262"/>
+			<Visee Dep="Q1" Arr="Q2" Long="9.79" Az="239.80" Pte="30.80" G="2.05" D="1.66" H="0.35" B="1.18" Ref="262" Suiv="272"/>
+			<Visee Dep="Q2" Long="0.63" Az="103.70" Pte="17.30" Ref="267"/>
+			<Visee Dep="Q2" Long="0.25" Az="316.30" Pte="-7.00" Ref="267"/>
+			<Visee Dep="Q2" Long="0.53" Az="165.10" Pte="87.10" Ref="267"/>
+			<Visee Dep="Q2" Long="0.61" Az="55.20" Pte="-76.50" Ref="267"/>
+			<Visee Dep="Q2" Arr="Q3" Long="5.85" Az="218.90" Pte="17.90" G="0.54" D="0.24" H="0.53" B="0.59" Ref="267" Suiv="277"/>
+			<Visee Dep="Q3" Long="0.65" Az="83.00" Pte="2.90" Ref="272"/>
+			<Visee Dep="Q3" Long="0.81" Az="282.50" Pte="11.10" Ref="272"/>
+			<Visee Dep="Q3" Long="0.61" Az="229.00" Pte="76.40" Ref="272"/>
+			<Visee Dep="Q3" Long="0.24" Az="42.00" Pte="-86.10" Ref="272"/>
+			<Visee Dep="Q3" Arr="Q4" Long="10.68" Az="183.20" Pte="9.10" G="0.64" D="0.78" H="0.59" B="0.24" Ref="272" Suiv="282"/>
+			<Visee Dep="Q4" Long="0.20" Az="83.40" Pte="19.90" Ref="277"/>
+			<Visee Dep="Q4" Long="0.82" Az="284.40" Pte="-0.50" Ref="277"/>
+			<Visee Dep="Q4" Long="0.63" Az="222.10" Pte="75.90" Ref="277"/>
+			<Visee Dep="Q4" Long="0.28" Az="14.70" Pte="-78.70" Ref="277"/>
+			<Visee Dep="Q4" Arr="Q5" Long="7.29" Az="179.20" Pte="3.20" G="0.19" D="0.79" H="0.61" B="0.28" Ref="277" Suiv="287"/>
+			<Visee Dep="Q5" Long="0.72" Az="75.30" Pte="9.80" Ref="282"/>
+			<Visee Dep="Q5" Long="0.23" Az="308.10" Pte="4.70" Ref="282"/>
+			<Visee Dep="Q5" Long="0.63" Az="333.30" Pte="87.90" Ref="282"/>
+			<Visee Dep="Q5" Long="0.41" Az="5.60" Pte="-83.20" Ref="282"/>
+			<Visee Dep="Q5" Arr="Q6" Long="4.23" Az="225.60" Pte="28.30" G="0.35" D="0.22" H="0.63" B="0.41" Ref="282" Suiv="292"/>
+			<Visee Dep="Q6" Long="0.90" Az="124.00" Pte="-1.30" Ref="287"/>
+			<Visee Dep="Q6" Long="0.47" Az="326.80" Pte="2.00" Ref="287"/>
+			<Visee Dep="Q6" Long="0.48" Az="15.10" Pte="80.90" Ref="287"/>
+			<Visee Dep="Q6" Long="0.28" Az="343.30" Pte="-83.30" Ref="287"/>
+			<Visee Dep="Q6" Arr="Q7" Long="6.85" Az="254.70" Pte="37.40" G="0.68" D="0.45" H="0.47" B="0.28" Ref="287" Suiv="297"/>
+			<Visee Dep="Q7" Long="0.63" Az="250.50" Pte="13.80" Ref="292"/>
+			<Visee Dep="Q7" Long="1.64" Az="61.10" Pte="-15.60" Ref="292"/>
+			<Visee Dep="Q7" Long="0.21" Az="284.90" Pte="88.30" Ref="292"/>
+			<Visee Dep="Q7" Long="1.04" Az="64.80" Pte="-78.30" Ref="292"/>
+			<Visee Dep="Q7" Arr="R1" Long="3.16" Az="33.00" Pte="-23.40" G="0.37" D="1.45" H="0.24" B="1.25" Ref="292" Suiv="302">
+				<Commentaire>Série R: petit départ à gauche</Commentaire>
+			</Visee>
+			<Visee Dep="R1" Long="0.87" Az="280.10" Pte="8.50" Ref="297"/>
+			<Visee Dep="R1" Long="0.40" Az="76.70" Pte="5.30" Ref="297"/>
+			<Visee Dep="R1" Long="1.09" Az="346.70" Pte="83.60" Ref="297"/>
+			<Visee Dep="R1" Long="0.29" Az="193.80" Pte="-83.50" Ref="297"/>
+			<Visee Dep="R1" Arr="R2" Long="5.20" Az="0.90" Pte="0.30" G="0.84" D="0.38" H="1.09" B="0.29" Ref="297" Suiv="307"/>
+			<Visee Dep="R2" Long="0.57" Az="279.10" Pte="-4.50" Ref="302"/>
+			<Visee Dep="R2" Long="1.23" Az="93.50" Pte="-12.00" Ref="302"/>
+			<Visee Dep="R2" Long="0.31" Az="340.70" Pte="74.80" Ref="302"/>
+			<Visee Dep="R2" Long="0.81" Az="165.40" Pte="-75.30" Ref="302"/>
+			<Visee Dep="R2" Arr="R3" Long="2.79" Az="2.00" Pte="-6.90" G="0.56" D="1.20" H="0.30" B="0.79" Ref="302" Suiv="312"/>
+			<Visee Dep="R3" Long="1.57" Az="255.00" Pte="32.40" Ref="307"/>
+			<Visee Dep="R3" Long="0.70" Az="43.00" Pte="7.70" Ref="307"/>
+			<Visee Dep="R3" Long="0.84" Az="296.30" Pte="84.70" Ref="307"/>
+			<Visee Dep="R3" Long="0.43" Az="118.00" Pte="-88.40" Ref="307"/>
+			<Visee Dep="R3" Arr="R4" Long="8.59" Az="320.30" Pte="33.00" G="1.20" D="0.69" H="0.84" B="0.43" Ref="307" Suiv="318">
+				<Commentaire>Arrêt sur étroiture.... Imp</Commentaire>
+			</Visee>
+			<Visee Dep="R3" Long="8.20" Az="319.20" Pte="33.60" Ref="307"/>
+			<Visee Dep="R4" Long="0.25" Az="199.50" Pte="8.00" Ref="312"/>
+			<Visee Dep="R4" Long="0.26" Az="354.00" Pte="0.40" Ref="312"/>
+			<Visee Dep="R4" Long="0.32" Az="40.30" Pte="85.50" Ref="312"/>
+			<Visee Dep="R4" Long="0.20" Az="310.70" Pte="-83.20" Ref="312"/>
+			<Visee Dep="R4" Arr="R5" Long="0.00" Az="0.00" Pte="0.00" G="0.25" D="0.26" H="0.32" B="0.20" Ref="312"/>
+			<Visee Dep="Q7" Long="1.80" Az="94.50" Pte="-23.50" Ref="292"/>
+			<Visee Dep="Q7" Long="0.24" Az="292.50" Pte="10.70" Ref="292"/>
+			<Visee Dep="Q7" Long="0.24" Az="225.70" Pte="86.20" Ref="292"/>
+			<Visee Dep="Q7" Long="1.27" Az="46.20" Pte="-77.70" Ref="292"/>
+			<Visee Dep="Q7" Arr="Q8" Long="4.36" Az="182.90" Pte="-0.70" G="1.65" D="0.56" H="0.24" B="1.25" Ref="292" Suiv="328"/>
+			<Visee Dep="Q8" Long="0.66" Az="57.70" Pte="-2.30" Ref="323"/>
+			<Visee Dep="Q8" Long="1.83" Az="281.60" Pte="9.50" Ref="323"/>
+			<Visee Dep="Q8" Long="0.85" Az="235.60" Pte="73.30" Ref="323"/>
+			<Visee Dep="Q8" Long="0.48" Az="38.30" Pte="-78.70" Ref="323"/>
+			<Visee Dep="Q8" Arr="Q9" Long="8.13" Az="196.50" Pte="21.80" G="0.44" D="1.80" H="0.82" B="0.47" Ref="323" Suiv="333"/>
+			<Visee Dep="Q9" Long="0.72" Az="55.50" Pte="-5.80" Ref="328"/>
+			<Visee Dep="Q9" Long="0.54" Az="260.30" Pte="11.10" Ref="328"/>
+			<Visee Dep="Q9" Long="0.68" Az="169.30" Pte="82.90" Ref="328"/>
+			<Visee Dep="Q9" Long="0.51" Az="47.50" Pte="-76.90" Ref="328"/>
+			<Visee Dep="Q9" Arr="Q10" Long="3.72" Az="181.80" Pte="12.80" G="0.57" D="0.52" H="0.67" B="0.50" Ref="328" Suiv="338"/>
+			<Visee Dep="Q10" Long="0.21" Az="72.50" Pte="19.50" Ref="333"/>
+			<Visee Dep="Q10" Long="0.84" Az="267.70" Pte="6.80" Ref="333"/>
+			<Visee Dep="Q10" Long="0.58" Az="239.00" Pte="80.80" Ref="333"/>
+			<Visee Dep="Q10" Long="0.61" Az="50.70" Pte="-79.40" Ref="333"/>
+			<Visee Dep="Q10" Arr="Q11" Long="6.31" Az="195.00" Pte="17.90" G="0.17" D="0.80" H="0.57" B="0.60" Ref="333" Suiv="343"/>
+			<Visee Dep="Q11" Long="0.67" Az="63.00" Pte="16.80" Ref="338"/>
+			<Visee Dep="Q11" Long="0.65" Az="262.40" Pte="-1.50" Ref="338"/>
+			<Visee Dep="Q11" Long="0.87" Az="182.60" Pte="83.50" Ref="338"/>
+			<Visee Dep="Q11" Long="0.26" Az="306.10" Pte="-85.50" Ref="338"/>
+			<Visee Dep="Q11" Arr="Q12" Long="5.49" Az="173.90" Pte="-3.20" G="0.59" D="0.65" H="0.86" B="0.26" Ref="338" Suiv="349">
+				<Commentaire>Arrêt topo le 01/07/2021</Commentaire>
+			</Visee>
+		</Param>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="2.2101" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Dep" Coul="Std" Date="24/09/2021" DeclinAuto="A">
+			<Commentaire>Explo 3 : eTopo 005 Alex / Guy Lamure / Romain / Alex</Commentaire>
+			<Visee Dep="Q12" Long="4.10" Az="160.60" Pte="-7.30" Ref="343"/>
+			<Visee Dep="Q12" Long="3.82" Az="356.70" Pte="-3.20" Ref="343"/>
+			<Visee Dep="Q12" Long="0.92" Az="312.00" Pte="80.50" Ref="343"/>
+			<Visee Dep="Q12" Long="0.23" Az="249.50" Pte="-77.00" Ref="343"/>
+			<Visee Dep="Q12" Arr="QA1" Long="4.78" Az="307.60" Pte="29.10" G="3.73" D="2.85" H="0.91" B="0.52" Ref="343" Suiv="354">
+				<Commentaire>Départ topo le 24/09/2021</Commentaire>
+			</Visee>
+			<Visee Dep="QA1" Long="1.96" Az="175.80" Pte="1.70" Ref="349"/>
+			<Visee Dep="QA1" Long="1.20" Az="357.10" Pte="22.10" Ref="349"/>
+			<Visee Dep="QA1" Long="0.94" Az="89.60" Pte="87.60" Ref="349"/>
+			<Visee Dep="QA1" Long="0.41" Az="59.20" Pte="-82.80" Ref="349"/>
+			<Visee Dep="QA1" Arr="QA2" Long="2.08" Az="219.60" Pte="5.90" G="1.36" D="0.76" H="0.94" B="0.40" Ref="349" Suiv="357"/>
+			<Visee Dep="QA2" Long="0.60" Az="166.80" Pte="5.30" Ref="354"/>
+			<Visee Dep="QA2" Long="3.00" Az="303.10" Pte="-3.60" Ref="354"/>
+			<Visee Dep="QA2" Arr="QA3" Long="2.23" Az="282.20" Pte="-15.20" G="0.53" D="3.00" H="0.34" B="1.08" Ref="354" Suiv="364"/>
+			<Visee Dep="QA2" Long="0.34" Az="282.60" Pte="82.10" Ref="354"/>
+			<Visee Dep="QA2" Long="0.24" Az="50.80" Pte="-82.80" Ref="354"/>
+			<Visee Dep="QA3" Long="2.43" Az="244.80" Pte="-3.00" Ref="357"/>
+			<Visee Dep="QA3" Long="1.44" Az="210.60" Pte="4.60" Ref="357"/>
+			<Visee Dep="QA3" Long="0.23" Az="352.30" Pte="2.20" Ref="357"/>
+			<Visee Dep="QA3" Long="0.34" Az="247.60" Pte="83.40" Ref="357"/>
+			<Visee Dep="QA3" Arr="QA4" Long="2.42" Az="244.20" Pte="-3.10" G="0.81" D="0.22" H="0.34" B="0.13" Ref="357" Suiv="369">
+				<Commentaire>QA3 Marqué</Commentaire>
+			</Visee>
+			<Visee Dep="QA4" Long="0.32" Az="137.00" Pte="-5.30" Ref="364"/>
+			<Visee Dep="QA4" Long="1.89" Az="337.00" Pte="6.00" Ref="364"/>
+			<Visee Dep="QA4" Long="0.39" Az="263.50" Pte="82.30" Ref="364"/>
+			<Visee Dep="QA4" Long="0.36" Az="277.20" Pte="-82.20" Ref="364"/>
+			<Visee Dep="QA4" Arr="QA5" Long="0.00" Az="277.00" Pte="-82.00" G="0.30" D="1.80" H="0.40" B="2.00" Ref="364">
+				<Commentaire>Petit réseau (d'ou arrive actif en crue), suite etroite en laminoir</Commentaire>
+			</Visee>
+			<Visee Dep="Q12" Arr="Q13" Long="6.01" Az="107.20" Pte="-30.60" G="3.58" D="4.94" H="0.91" B="0.52" Ref="343" Suiv="375"/>
+			<Visee Dep="Q13" Long="5.58" Az="6.50" Pte="1.20" Ref="370"/>
+			<Visee Dep="Q13" Long="3.85" Az="181.60" Pte="9.30" Ref="370"/>
+			<Visee Dep="Q13" Long="0.39" Az="92.90" Pte="63.30" Ref="370"/>
+			<Visee Dep="Q13" Long="0.24" Az="290.60" Pte="-83.80" Ref="370"/>
+			<Visee Dep="Q13" Arr="Q14" Long="5.49" Az="89.00" Pte="-35.60" G="5.53" D="3.80" H="0.62" B="0.24" Ref="370" Suiv="380"/>
+			<Visee Dep="Q14" Long="6.00" Az="17.90" Pte="-6.00" Ref="375"/>
+			<Visee Dep="Q14" Long="5.60" Az="160.80" Pte="-1.50" Ref="375"/>
+			<Visee Dep="Q14" Long="0.38" Az="60.40" Pte="76.60" Ref="375"/>
+			<Visee Dep="Q14" Long="0.22" Az="256.40" Pte="-86.10" Ref="375"/>
+			<Visee Dep="Q14" Arr="QB1" Long="8.66" Az="56.00" Pte="-36.60" G="6.00" D="5.40" H="0.37" B="3.49" Ref="375" Suiv="385"/>
+			<Visee Dep="QB1" Long="2.06" Az="12.10" Pte="-5.80" Ref="380"/>
+			<Visee Dep="QB1" Long="2.43" Az="165.00" Pte="-5.20" Ref="380"/>
+			<Visee Dep="QB1" Long="0.21" Az="66.80" Pte="71.00" Ref="380"/>
+			<Visee Dep="QB1" Long="0.50" Az="329.70" Pte="-79.70" Ref="380"/>
+			<Visee Dep="QB1" Arr="QB2" Long="5.85" Az="45.40" Pte="-36.30" G="2.11" D="2.10" H="0.20" B="0.49" Ref="380" Suiv="390"/>
+			<Visee Dep="QB2" Long="5.12" Az="8.60" Pte="-4.30" Ref="385"/>
+			<Visee Dep="QB2" Long="4.36" Az="166.40" Pte="-1.90" Ref="385"/>
+			<Visee Dep="QB2" Long="0.43" Az="88.60" Pte="75.30" Ref="385"/>
+			<Visee Dep="QB2" Long="0.36" Az="2.80" Pte="-85.80" Ref="385"/>
+			<Visee Dep="QB2" Arr="QB3" Long="0.00" Az="329.00" Pte="-36.00" G="3.00" D="3.00" H="0.20" B="0.30" Ref="385">
+				<Commentaire>Suite laminoir descendant (raide !) et etroit...</Commentaire>
+			</Visee>
+			<Visee Dep="Q14" Long="1.51" Az="327.00" Pte="4.20" Ref="375"/>
+			<Visee Dep="Q14" Long="0.84" Az="77.70" Pte="-16.00" Ref="375"/>
+			<Visee Dep="Q14" Long="0.23" Az="63.60" Pte="78.00" Ref="375"/>
+			<Visee Dep="Q14" Long="0.29" Az="278.10" Pte="-83.90" Ref="375"/>
+			<Visee Dep="Q14" Arr="Q15" Long="8.04" Az="167.00" Pte="1.90" G="16.98" D="0.52" H="0.37" B="3.49" Ref="375" Suiv="400"/>
+			<Visee Dep="Q15" Long="0.97" Az="72.60" Pte="-7.80" Ref="395"/>
+			<Visee Dep="Q15" Long="0.86" Az="289.00" Pte="1.70" Ref="395"/>
+			<Visee Dep="Q15" Long="0.37" Az="97.30" Pte="79.40" Ref="395"/>
+			<Visee Dep="Q15" Long="0.30" Az="245.10" Pte="-82.30" Ref="395"/>
+			<Visee Dep="Q15" Arr="Q16" Long="3.64" Az="202.90" Pte="13.40" G="0.74" D="0.86" H="0.36" B="0.30" Ref="395" Suiv="405"/>
+			<Visee Dep="Q16" Long="2.10" Az="357.70" Pte="4.60" Ref="400"/>
+			<Visee Dep="Q16" Long="2.42" Az="148.60" Pte="-4.00" Ref="400"/>
+			<Visee Dep="Q16" Long="1.05" Az="106.80" Pte="76.10" Ref="400"/>
+			<Visee Dep="Q16" Long="0.22" Az="258.90" Pte="-72.50" Ref="400"/>
+			<Visee Dep="Q16" Arr="QC1" Long="4.90" Az="56.90" Pte="-32.00" G="1.80" D="2.41" H="1.70" B="1.35" Ref="400" Suiv="410">
+				<Commentaire>Q16 Marqué</Commentaire>
+			</Visee>
+			<Visee Dep="QC1" Long="1.87" Az="329.70" Pte="0.00" Ref="405"/>
+			<Visee Dep="QC1" Long="1.49" Az="96.30" Pte="3.40" Ref="405"/>
+			<Visee Dep="QC1" Long="2.30" Az="33.10" Pte="78.80" Ref="405"/>
+			<Visee Dep="QC1" Long="0.52" Az="86.00" Pte="-83.80" Ref="405"/>
+			<Visee Dep="QC1" Arr="QC2" Long="8.78" Az="6.60" Pte="41.70" G="1.14" D="1.49" H="2.25" B="0.52" Ref="405" Suiv="415"/>
+			<Visee Dep="QC2" Long="3.86" Az="272.30" Pte="9.70" Ref="410"/>
+			<Visee Dep="QC2" Long="1.30" Az="54.70" Pte="-2.20" Ref="410"/>
+			<Visee Dep="QC2" Long="1.08" Az="279.80" Pte="83.40" Ref="410"/>
+			<Visee Dep="QC2" Long="1.03" Az="271.50" Pte="-85.80" Ref="410"/>
+			<Visee Dep="QC2" Arr="QC3" Long="0.00" Az="6.00" Pte="41.00" G="1.00" D="1.00" H="1.00" B="1.00" Ref="410">
+				<Commentaire>Escalade (glaiseuse) à suivre ?</Commentaire>
+			</Visee>
+			<Visee Dep="Q16" Long="2.49" Az="19.20" Pte="5.20" Ref="400"/>
+			<Visee Dep="Q16" Long="2.34" Az="185.90" Pte="2.50" Ref="400"/>
+			<Visee Dep="Q16" Long="1.72" Az="36.30" Pte="81.30" Ref="400"/>
+			<Visee Dep="Q16" Long="1.35" Az="274.10" Pte="-85.70" Ref="400"/>
+			<Visee Dep="Q16" Arr="Q17" Long="7.11" Az="74.20" Pte="43.10" G="2.04" D="3.32" H="1.70" B="1.35" Ref="400" Suiv="425">
+				<Commentaire>Escalade, corde C5 en place</Commentaire>
+			</Visee>
+			<Visee Dep="Q17" Long="3.33" Az="21.00" Pte="-9.10" Ref="420"/>
+			<Visee Dep="Q17" Long="1.07" Az="182.90" Pte="-3.50" Ref="420"/>
+			<Visee Dep="Q17" Long="0.61" Az="71.10" Pte="81.50" Ref="420"/>
+			<Visee Dep="Q17" Long="0.26" Az="266.20" Pte="-84.50" Ref="420"/>
+			<Visee Dep="Q17" Arr="Q18" Long="2.33" Az="145.00" Pte="9.40" G="2.73" D="0.66" H="0.60" B="0.52" Ref="420" Suiv="430"/>
+			<Visee Dep="Q18" Long="0.36" Az="70.00" Pte="0.50" Ref="425"/>
+			<Visee Dep="Q18" Long="1.00" Az="298.70" Pte="1.60" Ref="425"/>
+			<Visee Dep="Q18" Long="0.31" Az="96.40" Pte="76.30" Ref="425"/>
+			<Visee Dep="Q18" Long="0.46" Az="80.50" Pte="-85.70" Ref="425"/>
+			<Visee Dep="Q18" Arr="Q19" Long="4.88" Az="206.30" Pte="9.50" G="0.25" D="1.00" H="0.30" B="0.46" Ref="425" Suiv="435"/>
+			<Visee Dep="Q19" Long="0.62" Az="39.20" Pte="-9.00" Ref="430"/>
+			<Visee Dep="Q19" Long="0.68" Az="209.10" Pte="-5.90" Ref="430"/>
+			<Visee Dep="Q19" Long="3.03" Az="78.50" Pte="76.90" Ref="430"/>
+			<Visee Dep="Q19" Long="0.40" Az="277.80" Pte="-82.80" Ref="430"/>
+			<Visee Dep="Q19" Arr="Q20" Long="3.19" Az="76.80" Pte="5.60" G="0.37" D="0.49" H="2.95" B="0.39" Ref="430" Suiv="440"/>
+			<Visee Dep="Q20" Long="1.62" Az="37.20" Pte="-2.90" Ref="435"/>
+			<Visee Dep="Q20" Long="0.34" Az="204.20" Pte="-8.20" Ref="435"/>
+			<Visee Dep="Q20" Long="0.68" Az="92.70" Pte="79.40" Ref="435"/>
+			<Visee Dep="Q20" Long="1.54" Az="87.40" Pte="-84.60" Ref="435"/>
+			<Visee Dep="Q20" Arr="Q21" Long="8.52" Az="75.60" Pte="-12.50" G="1.00" D="0.26" H="0.67" B="1.53" Ref="435" Suiv="445"/>
+			<Visee Dep="Q21" Long="0.36" Az="31.40" Pte="-3.00" Ref="440"/>
+			<Visee Dep="Q21" Long="0.98" Az="189.60" Pte="1.30" Ref="440"/>
+			<Visee Dep="Q21" Long="1.20" Az="88.60" Pte="83.80" Ref="440"/>
+			<Visee Dep="Q21" Long="1.08" Az="100.50" Pte="-85.30" Ref="440"/>
+			<Visee Dep="Q21" Arr="Q22" Long="4.00" Az="59.90" Pte="-34.40" G="0.17" D="0.75" H="1.20" B="1.08" Ref="440" Suiv="450"/>
+			<Visee Dep="Q22" Long="0.30" Az="30.70" Pte="-0.10" Ref="445"/>
+			<Visee Dep="Q22" Long="1.40" Az="220.10" Pte="-0.10" Ref="445"/>
+			<Visee Dep="Q22" Long="2.17" Az="130.70" Pte="76.00" Ref="445"/>
+			<Visee Dep="Q22" Long="1.59" Az="108.80" Pte="-87.80" Ref="445"/>
+			<Visee Dep="Q22" Arr="Q23" Long="6.53" Az="103.70" Pte="-54.60" G="0.50" D="1.27" H="2.10" B="2.27" Ref="445" Suiv="455"/>
+			<Visee Dep="Q23" Long="1.77" Az="43.70" Pte="1.20" Ref="450"/>
+			<Visee Dep="Q23" Long="0.32" Az="203.60" Pte="-7.20" Ref="450"/>
+			<Visee Dep="Q23" Long="5.11" Az="115.40" Pte="77.90" Ref="450"/>
+			<Visee Dep="Q23" Long="1.21" Az="231.50" Pte="-89.20" Ref="450"/>
+			<Visee Dep="Q23" Arr="Q24" Long="7.88" Az="70.50" Pte="-25.20" G="0.80" D="0.76" H="5.00" B="1.21" Ref="450" Suiv="460">
+				<Commentaire>Descente sur siphon, glaise de décantation</Commentaire>
+			</Visee>
+			<Visee Dep="Q24" Long="0.29" Az="25.30" Pte="-4.20" Ref="455"/>
+			<Visee Dep="Q24" Long="1.15" Az="202.10" Pte="-1.60" Ref="455"/>
+			<Visee Dep="Q24" Long="5.14" Az="106.10" Pte="82.90" Ref="455"/>
+			<Visee Dep="Q24" Long="0.85" Az="65.10" Pte="-87.30" Ref="455"/>
+			<Visee Dep="Q24" Arr="Q25" Long="9.10" Az="98.60" Pte="-21.30" G="0.28" D="1.11" H="5.10" B="0.85" Ref="455" Suiv="465"/>
+			<Visee Dep="Q25" Long="1.55" Az="17.80" Pte="-1.90" Ref="460"/>
+			<Visee Dep="Q25" Long="0.29" Az="170.40" Pte="-2.20" Ref="460"/>
+			<Visee Dep="Q25" Long="2.88" Az="42.70" Pte="76.70" Ref="460"/>
+			<Visee Dep="Q25" Long="1.10" Az="58.70" Pte="-85.60" Ref="460"/>
+			<Visee Dep="Q25" Arr="Q26" Long="3.67" Az="60.30" Pte="-8.30" G="1.04" D="0.50" H="2.80" B="3.33" Ref="460" Suiv="470"/>
+			<Visee Dep="Q26" Long="2.14" Az="359.20" Pte="10.10" Ref="465"/>
+			<Visee Dep="Q26" Long="1.26" Az="149.80" Pte="-3.10" Ref="465"/>
+			<Visee Dep="Q26" Long="3.06" Az="98.70" Pte="83.00" Ref="465"/>
+			<Visee Dep="Q26" Long="0.23" Az="186.10" Pte="-86.20" Ref="465"/>
+			<Visee Dep="Q26" Arr="Q27" Long="5.05" Az="79.50" Pte="-17.80" G="2.07" D="1.18" H="3.03" B="0.23" Ref="465" Suiv="475"/>
+			<Visee Dep="Q27" Long="0.49" Az="35.80" Pte="-2.10" Ref="470"/>
+			<Visee Dep="Q27" Long="1.46" Az="246.20" Pte="-5.90" Ref="470"/>
+			<Visee Dep="Q27" Long="2.71" Az="154.10" Pte="87.60" Ref="470"/>
+			<Visee Dep="Q27" Long="1.15" Az="125.20" Pte="-87.40" Ref="470"/>
+			<Visee Dep="Q27" Arr="Q28" Long="9.15" Az="167.60" Pte="-31.60" G="0.37" D="0.50" H="2.71" B="1.15" Ref="470" Suiv="480">
+				<Commentaire>Q28, arrêt fil d'ariane</Commentaire>
+			</Visee>
+			<Visee Dep="Q28" Long="0.49" Az="66.10" Pte="4.60" Ref="475"/>
+			<Visee Dep="Q28" Long="0.36" Az="274.10" Pte="-4.70" Ref="475"/>
+			<Visee Dep="Q28" Long="4.11" Az="148.00" Pte="78.90" Ref="475"/>
+			<Visee Dep="Q28" Long="1.25" Az="179.40" Pte="-82.60" Ref="475"/>
+			<Visee Dep="Q28" Arr="Q29" Long="6.45" Az="143.80" Pte="-20.00" G="0.48" D="1.00" H="4.04" B="4.81" Ref="475" Suiv="485"/>
+			<Visee Dep="Q29" Long="1.48" Az="64.00" Pte="5.00" Ref="480"/>
+			<Visee Dep="Q29" Long="0.31" Az="260.30" Pte="-4.20" Ref="480"/>
+			<Visee Dep="Q29" Long="2.95" Az="130.70" Pte="76.10" Ref="480"/>
+			<Visee Dep="Q29" Long="1.09" Az="117.50" Pte="-85.90" Ref="480"/>
+			<Visee Dep="Q29" Arr="Q30" Long="5.63" Az="136.50" Pte="-13.80" G="1.41" D="0.97" H="2.87" B="2.19" Ref="480" Suiv="490">
+				<Commentaire>Q30 sur bequet amarrage fil d'ariane</Commentaire>
+			</Visee>
+			<Visee Dep="Q30" Long="0.78" Az="70.30" Pte="3.90" Ref="485"/>
+			<Visee Dep="Q30" Long="1.94" Az="295.10" Pte="-6.10" Ref="485"/>
+			<Visee Dep="Q30" Long="1.94" Az="145.70" Pte="76.80" Ref="485"/>
+			<Visee Dep="Q30" Long="1.48" Az="298.30" Pte="-80.50" Ref="485"/>
+			<Visee Dep="Q30" Arr="Q31" Long="5.48" Az="145.40" Pte="-13.40" G="0.75" D="0.96" H="1.89" B="1.45" Ref="485" Suiv="495"/>
+			<Visee Dep="Q31" Long="1.13" Az="64.30" Pte="1.10" Ref="490"/>
+			<Visee Dep="Q31" Long="1.48" Az="284.30" Pte="-3.40" Ref="490"/>
+			<Visee Dep="Q31" Long="0.31" Az="117.10" Pte="79.20" Ref="490"/>
+			<Visee Dep="Q31" Long="1.99" Az="303.70" Pte="-81.70" Ref="490"/>
+			<Visee Dep="Q31" Arr="Q32" Long="0.00" Az="145.00" Pte="-13.00" G="1.00" D="1.50" H="0.30" B="2.00" Ref="490">
+				<Commentaire>Sortie siphon 1, Au plafond au dessus de l'eau (2 m)</Commentaire>
+			</Visee>
+			<Visee Dep="Q12" Arr="A1" Long="7.09" Az="1.50" Pte="6.20" G="0.39" D="1.48" H="0.91" B="0.52" Exc="EE" Ref="343" Suiv="501">
+				<Commentaire>Invisible, en double</Commentaire>
+			</Visee>
+			<Visee Dep="A1" Long="0.83" Az="299.90" Pte="4.90" Ref="496"/>
+			<Visee Dep="A1" Long="0.29" Az="55.80" Pte="-1.10" Ref="496"/>
+			<Visee Dep="A1" Long="1.06" Az="30.20" Pte="79.90" Ref="496"/>
+			<Visee Dep="A1" Long="0.79" Az="33.90" Pte="-80.50" Ref="496"/>
+			<Visee Dep="A1" Arr="A2" Long="4.99" Az="13.60" Pte="0.90" G="0.79" D="0.20" H="1.04" B="0.78" Ref="496" Suiv="506">
+				<Commentaire>Serie A vers étage sup... CA soufflant fort !</Commentaire>
+			</Visee>
+			<Visee Dep="A2" Long="0.69" Az="273.00" Pte="4.10" Ref="501"/>
+			<Visee Dep="A2" Long="0.29" Az="42.30" Pte="-1.70" Ref="501"/>
+			<Visee Dep="A2" Long="0.90" Az="342.50" Pte="75.70" Ref="501"/>
+			<Visee Dep="A2" Long="1.25" Az="326.30" Pte="-88.10" Ref="501"/>
+			<Visee Dep="A2" Arr="A3" Long="4.06" Az="354.40" Pte="-0.10" G="0.68" D="0.22" H="0.87" B="1.25" Ref="501" Suiv="511"/>
+			<Visee Dep="A3" Long="0.26" Az="298.50" Pte="-1.30" Ref="506"/>
+			<Visee Dep="A3" Long="0.81" Az="67.50" Pte="1.60" Ref="506"/>
+			<Visee Dep="A3" Long="0.80" Az="40.70" Pte="85.40" Ref="506"/>
+			<Visee Dep="A3" Long="0.92" Az="41.30" Pte="-82.30" Ref="506"/>
+			<Visee Dep="A3" Arr="A4" Long="3.28" Az="23.40" Pte="-8.00" G="0.26" D="0.56" H="0.80" B="0.91" Ref="506" Suiv="516"/>
+			<Visee Dep="A4" Long="0.72" Az="300.90" Pte="2.10" Ref="511"/>
+			<Visee Dep="A4" Long="0.65" Az="57.70" Pte="-9.30" Ref="511"/>
+			<Visee Dep="A4" Long="0.74" Az="55.80" Pte="86.40" Ref="511"/>
+			<Visee Dep="A4" Long="1.13" Az="315.40" Pte="-85.80" Ref="511"/>
+			<Visee Dep="A4" Arr="A5" Long="6.39" Az="354.30" Pte="15.30" G="0.58" D="0.57" H="0.74" B="1.12" Ref="511" Suiv="521"/>
+			<Visee Dep="A5" Long="1.20" Az="229.50" Pte="12.40" Ref="516"/>
+			<Visee Dep="A5" Long="2.98" Az="35.00" Pte="-6.50" Ref="516"/>
+			<Visee Dep="A5" Long="0.40" Az="112.10" Pte="79.00" Ref="516"/>
+			<Visee Dep="A5" Long="0.27" Az="260.80" Pte="-84.60" Ref="516"/>
+			<Visee Dep="A5" Arr="A6" Long="5.03" Az="285.30" Pte="30.70" G="0.98" D="5.79" H="1.72" B="0.34" Ref="516" Suiv="526"/>
+			<Visee Dep="A6" Long="0.27" Az="148.20" Pte="12.80" Ref="521"/>
+			<Visee Dep="A6" Long="1.15" Az="5.90" Pte="-3.20" Ref="521"/>
+			<Visee Dep="A6" Long="1.35" Az="285.40" Pte="86.00" Ref="521"/>
+			<Visee Dep="A6" Long="1.14" Az="218.40" Pte="-85.20" Ref="521"/>
+			<Visee Dep="A6" Arr="A7" Long="4.08" Az="355.80" Pte="-3.40" G="0.09" D="0.20" H="1.35" B="1.14" Ref="521" Suiv="531">
+				<Commentaire>A7, Trémie bas du puits de connection des étages 2 &amp; 3</Commentaire>
+			</Visee>
+			<Visee Dep="A7" Long="0.41" Az="205.10" Pte="11.20" Ref="526"/>
+			<Visee Dep="A7" Long="0.27" Az="13.50" Pte="-5.30" Ref="526"/>
+			<Visee Dep="A7" Long="0.76" Az="195.20" Pte="84.50" Ref="526"/>
+			<Visee Dep="A7" Long="0.79" Az="226.10" Pte="-84.20" Ref="526"/>
+			<Visee Dep="A7" Arr="AA1" Long="1.64" Az="276.00" Pte="-8.80" G="0.41" D="0.27" H="1.06" B="0.78" Ref="526" Suiv="536"/>
+			<Visee Dep="AA1" Long="0.25" Az="142.90" Pte="4.60" Ref="531"/>
+			<Visee Dep="AA1" Long="1.24" Az="318.40" Pte="-6.60" Ref="531"/>
+			<Visee Dep="AA1" Long="0.86" Az="290.10" Pte="81.80" Ref="531"/>
+			<Visee Dep="AA1" Long="0.32" Az="82.70" Pte="-80.20" Ref="531"/>
+			<Visee Dep="AA1" Arr="AA2" Long="5.41" Az="199.90" Pte="-46.40" G="0.21" D="1.08" H="0.85" B="0.32" Ref="531" Suiv="541"/>
+			<Visee Dep="AA2" Long="0.33" Az="91.60" Pte="6.00" Ref="536"/>
+			<Visee Dep="AA2" Long="0.36" Az="294.40" Pte="-0.80" Ref="536"/>
+			<Visee Dep="AA2" Long="0.28" Az="174.70" Pte="63.50" Ref="536"/>
+			<Visee Dep="AA2" Long="0.52" Az="142.20" Pte="-80.30" Ref="536"/>
+			<Visee Dep="AA2" Arr="AA3" Long="3.87" Az="228.70" Pte="-47.90" G="0.22" D="0.33" H="0.25" B="0.51" Ref="536" Suiv="546">
+				<Commentaire>AA3: Boyau etroit et gras (désob) avec gros CA soufflant</Commentaire>
+			</Visee>
+			<Visee Dep="AA3" Long="0.26" Az="94.20" Pte="-8.20" Ref="541"/>
+			<Visee Dep="AA3" Long="0.28" Az="291.20" Pte="1.90" Ref="541"/>
+			<Visee Dep="AA3" Long="0.26" Az="166.40" Pte="71.70" Ref="541"/>
+			<Visee Dep="AA3" Long="0.43" Az="146.10" Pte="-84.60" Ref="541"/>
+			<Visee Dep="AA3" Arr="AA4" Long="0.00" Az="228.00" Pte="-47.00" G="0.20" D="0.30" H="0.40" B="0.00" Ref="541">
+				<Commentaire>a désober</Commentaire>
+			</Visee>
+			<Visee Dep="A7" Long="0.43" Az="203.80" Pte="7.60" Ref="526"/>
+			<Visee Dep="A7" Long="0.22" Az="359.70" Pte="-8.80" Ref="526"/>
+			<Visee Dep="A7" Long="1.06" Az="90.70" Pte="88.90" Ref="526"/>
+			<Visee Dep="A7" Long="0.72" Az="248.20" Pte="-78.70" Ref="526"/>
+			<Visee Dep="A7" Arr="A8" Long="2.88" Az="311.40" Pte="74.60" G="0.41" D="0.24" H="1.06" B="0.78" Ref="526" Suiv="556">
+				<Commentaire>A8 Marqué, bas du puits de jonction des étages (au dessus trémie)</Commentaire>
+			</Visee>
+			<Visee Dep="A8" Long="1.81" Az="39.40" Pte="6.00" Ref="551"/>
+			<Visee Dep="A8" Long="3.09" Az="207.90" Pte="2.20" Ref="551"/>
+			<Visee Dep="A8" Long="3.71" Az="111.00" Pte="77.70" Ref="551"/>
+			<Visee Dep="A8" Long="1.33" Az="65.10" Pte="-79.60" Ref="551"/>
+			<Visee Dep="A8" Arr="A9" Long="7.00" Az="108.10" Pte="41.90" G="5.00" D="3.05" H="20.00" B="1.31" Ref="551" Suiv="561">
+				<Commentaire>Escalade corde en place</Commentaire>
+			</Visee>
+			<Visee Dep="A9" Long="6.07" Az="14.00" Pte="6.60" Ref="556"/>
+			<Visee Dep="A9" Long="0.25" Az="178.90" Pte="3.30" Ref="556"/>
+			<Visee Dep="A9" Long="3.67" Az="31.60" Pte="77.70" Ref="556"/>
+			<Visee Dep="A9" Long="0.85" Az="91.50" Pte="-82.70" Ref="556"/>
+			<Visee Dep="A9" Arr="A10" Long="3.97" Az="67.30" Pte="69.40" G="8.00" D="0.24" H="15.00" B="4.00" Ref="556" Suiv="565">
+				<Commentaire>Escalade corde en place</Commentaire>
+			</Visee>
+			<Visee Dep="A10" Long="0.22" Az="292.70" Pte="-4.70" Ref="561"/>
+			<Visee Dep="A10" Long="0.97" Az="226.50" Pte="86.60" Ref="561"/>
+			<Visee Dep="A10" Long="4.80" Az="133.80" Pte="-86.90" Ref="561"/>
+			<Visee Dep="A10" Arr="A11" Long="5.83" Az="256.80" Pte="40.70" G="2.00" D="2.00" H="15.00" B="7.00" Ref="561" Suiv="570">
+				<Commentaire>A11: Sommet escalade</Commentaire>
+			</Visee>
+			<Visee Dep="A11" Long="1.35" Az="77.30" Pte="4.60" Ref="565"/>
+			<Visee Dep="A11" Long="0.34" Az="323.70" Pte="1.10" Ref="565"/>
+			<Visee Dep="A11" Long="1.09" Az="214.60" Pte="76.40" Ref="565"/>
+			<Visee Dep="A11" Long="0.85" Az="311.90" Pte="-82.50" Ref="565"/>
+			<Visee Dep="A11" Arr="A12" Long="6.42" Az="250.90" Pte="-35.80" G="0.15" D="0.33" H="1.06" B="0.84" Ref="565" Suiv="575"/>
+			<Visee Dep="A12" Long="0.92" Az="61.20" Pte="-1.60" Ref="570"/>
+			<Visee Dep="A12" Long="0.23" Az="310.60" Pte="0.50" Ref="570"/>
+			<Visee Dep="A12" Long="1.89" Az="191.30" Pte="83.90" Ref="570"/>
+			<Visee Dep="A12" Long="0.73" Az="79.10" Pte="-87.90" Ref="570"/>
+			<Visee Dep="A12" Arr="A13" Long="3.07" Az="285.00" Pte="-16.30" G="0.80" D="0.64" H="1.88" B="3.70" Ref="570" Suiv="580">
+				<Commentaire>Belle marmite avec galets</Commentaire>
+			</Visee>
+			<Visee Dep="A13" Long="0.84" Az="122.00" Pte="9.50" Ref="575"/>
+			<Visee Dep="A13" Long="1.14" Az="344.20" Pte="0.90" Ref="575"/>
+			<Visee Dep="A13" Long="0.39" Az="144.00" Pte="83.70" Ref="575"/>
+			<Visee Dep="A13" Long="0.81" Az="230.30" Pte="-81.00" Ref="575"/>
+			<Visee Dep="A13" Arr="A14" Long="3.60" Az="290.10" Pte="35.00" G="0.39" D="0.92" H="0.39" B="0.86" Ref="575" Suiv="585"/>
+			<Visee Dep="A14" Long="0.58" Az="213.80" Pte="13.00" Ref="580"/>
+			<Visee Dep="A14" Long="1.31" Az="359.40" Pte="-2.30" Ref="580"/>
+			<Visee Dep="A14" Long="0.47" Az="282.60" Pte="83.00" Ref="580"/>
+			<Visee Dep="A14" Long="0.57" Az="342.60" Pte="-81.20" Ref="580"/>
+			<Visee Dep="A14" Arr="A15" Long="1.36" Az="355.40" Pte="-7.10" G="0.60" D="0.10" H="0.47" B="0.56" Ref="580" Suiv="590"/>
+			<Visee Dep="A15" Long="0.82" Az="160.30" Pte="6.10" Ref="585"/>
+			<Visee Dep="A15" Long="0.69" Az="353.90" Pte="10.50" Ref="585"/>
+			<Visee Dep="A15" Long="0.72" Az="149.70" Pte="88.00" Ref="585"/>
+			<Visee Dep="A15" Long="0.38" Az="14.90" Pte="-81.50" Ref="585"/>
+			<Visee Dep="A15" Arr="A16" Long="7.01" Az="259.60" Pte="-45.30" G="0.81" D="0.67" H="0.72" B="0.37" Ref="585" Suiv="595"/>
+			<Visee Dep="A16" Long="1.03" Az="72.60" Pte="3.90" Ref="590"/>
+			<Visee Dep="A16" Long="0.36" Az="319.30" Pte="-3.90" Ref="590"/>
+			<Visee Dep="A16" Long="1.09" Az="188.60" Pte="80.50" Ref="590"/>
+			<Visee Dep="A16" Long="1.21" Az="199.30" Pte="-86.30" Ref="590"/>
+			<Visee Dep="A16" Arr="A17" Long="2.07" Az="288.60" Pte="-22.40" G="0.18" D="0.61" H="1.08" B="1.21" Ref="590" Suiv="600">
+				<Commentaire>A17 Marqué, arrivée étage 2 galarie du siphon 2</Commentaire>
+			</Visee>
+			<Visee Dep="A17" Long="1.16" Az="297.60" Pte="1.20" Ref="595"/>
+			<Visee Dep="A17" Long="1.06" Az="23.50" Pte="0.50" Ref="595"/>
+			<Visee Dep="A17" Long="0.99" Az="277.80" Pte="84.70" Ref="595"/>
+			<Visee Dep="A17" Long="0.36" Az="352.70" Pte="-83.20" Ref="595"/>
+			<Visee Dep="A17" Arr="AB1" Long="5.66" Az="338.50" Pte="18.60" G="0.76" D="1.98" H="0.99" B="0.67" Ref="595" Suiv="605"/>
+			<Visee Dep="AB1" Long="1.69" Az="282.30" Pte="6.10" Ref="600"/>
+			<Visee Dep="AB1" Long="0.71" Az="27.20" Pte="-9.00" Ref="600"/>
+			<Visee Dep="AB1" Long="0.83" Az="243.90" Pte="85.40" Ref="600"/>
+			<Visee Dep="AB1" Long="0.48" Az="56.80" Pte="-84.40" Ref="600"/>
+			<Visee Dep="AB1" Arr="AB2" Long="5.11" Az="359.30" Pte="-10.10" G="1.64" D="0.33" H="1.90" B="0.48" Ref="600" Suiv="610"/>
+			<Visee Dep="AB2" Long="2.62" Az="12.10" Pte="1.40" Ref="605"/>
+			<Visee Dep="AB2" Long="2.60" Az="160.40" Pte="5.60" Ref="605"/>
+			<Visee Dep="AB2" Long="1.66" Az="38.60" Pte="84.80" Ref="605"/>
+			<Visee Dep="AB2" Long="0.87" Az="102.40" Pte="-83.80" Ref="605"/>
+			<Visee Dep="AB2" Arr="ABA1" Long="7.78" Az="49.60" Pte="30.20" G="1.67" D="2.45" H="1.90" B="1.09" Ref="605" Suiv="615"/>
+			<Visee Dep="ABA1" Long="2.38" Az="347.90" Pte="-6.60" Ref="610"/>
+			<Visee Dep="ABA1" Long="0.44" Az="67.90" Pte="0.10" Ref="610"/>
+			<Visee Dep="ABA1" Long="1.46" Az="324.60" Pte="81.50" Ref="610"/>
+			<Visee Dep="ABA1" Long="0.82" Az="64.40" Pte="-82.20" Ref="610"/>
+			<Visee Dep="ABA1" Arr="ABA2" Long="6.71" Az="28.10" Pte="35.40" G="1.53" D="2.47" H="2.00" B="0.81" Ref="610" Suiv="620"/>
+			<Visee Dep="ABA2" Long="1.34" Az="349.00" Pte="13.20" Ref="615"/>
+			<Visee Dep="ABA2" Long="1.37" Az="85.90" Pte="-6.60" Ref="615"/>
+			<Visee Dep="ABA2" Long="1.04" Az="205.80" Pte="86.40" Ref="615"/>
+			<Visee Dep="ABA2" Long="1.07" Az="38.30" Pte="-87.00" Ref="615"/>
+			<Visee Dep="ABA2" Arr="ABA3" Long="8.69" Az="95.00" Pte="-29.90" G="1.06" D="0.92" H="1.04" B="1.07" Ref="615" Suiv="625">
+				<Commentaire>Erreur de visée, 37 deg remplacé par 95 deg</Commentaire>
+			</Visee>
+			<Visee Dep="ABA3" Long="2.59" Az="349.20" Pte="13.10" Ref="620"/>
+			<Visee Dep="ABA3" Long="2.16" Az="86.40" Pte="-3.00" Ref="620"/>
+			<Visee Dep="ABA3" Long="1.59" Az="80.60" Pte="78.90" Ref="620"/>
+			<Visee Dep="ABA3" Long="1.23" Az="94.40" Pte="-84.10" Ref="620"/>
+			<Visee Dep="ABA3" Arr="ABA4" Long="0.00" Az="43.00" Pte="-30.00" G="5.00" D="5.00" H="15.00" B="7.00" Ref="620" Suiv="626">
+				<Commentaire>Sur spit départ escalade 3 dans puits de jonction des étages</Commentaire>
+			</Visee>
+			<Visee Dep="ABA4" Arr="AC1" Long="0.00" Az="0.00" Pte="0.00" G="5.00" D="5.00" H="15.00" B="7.00" Ref="625" Suiv="711">
+				<Commentaire>Fermeture boucle</Commentaire>
+			</Visee>
+			<Visee Dep="AB2" Long="1.90" Az="308.80" Pte="-1.90" Ref="605"/>
+			<Visee Dep="AB2" Long="2.32" Az="31.30" Pte="-2.30" Ref="605"/>
+			<Visee Dep="AB2" Long="1.91" Az="331.60" Pte="82.00" Ref="605"/>
+			<Visee Dep="AB2" Long="1.09" Az="359.00" Pte="-84.40" Ref="605"/>
+			<Visee Dep="AB2" Arr="AB3" Long="4.67" Az="3.90" Pte="-2.30" G="0.14" D="1.03" H="1.90" B="1.09" Ref="605" Suiv="636"/>
+			<Visee Dep="AB3" Long="1.91" Az="312.40" Pte="2.30" Ref="631"/>
+			<Visee Dep="AB3" Long="0.70" Az="45.60" Pte="-0.00" Ref="631"/>
+			<Visee Dep="AB3" Long="0.61" Az="327.50" Pte="77.90" Ref="631"/>
+			<Visee Dep="AB3" Long="0.36" Az="32.20" Pte="-82.00" Ref="631"/>
+			<Visee Dep="AB3" Arr="AB4" Long="5.14" Az="1.40" Pte="-3.50" G="1.50" D="1.17" H="0.60" B="0.36" Ref="631" Suiv="641"/>
+			<Visee Dep="AB4" Long="1.00" Az="316.00" Pte="20.80" Ref="636"/>
+			<Visee Dep="AB4" Long="0.25" Az="41.20" Pte="-5.00" Ref="636"/>
+			<Visee Dep="AB4" Long="0.43" Az="13.70" Pte="80.10" Ref="636"/>
+			<Visee Dep="AB4" Long="0.47" Az="149.70" Pte="-88.70" Ref="636"/>
+			<Visee Dep="AB4" Arr="AB5" Long="6.09" Az="348.50" Pte="5.60" G="0.51" D="0.19" H="0.42" B="0.47" Ref="636" Suiv="646"/>
+			<Visee Dep="AB5" Long="0.54" Az="319.30" Pte="0.60" Ref="641"/>
+			<Visee Dep="AB5" Long="0.80" Az="31.70" Pte="-1.50" Ref="641"/>
+			<Visee Dep="AB5" Long="0.38" Az="28.80" Pte="83.60" Ref="641"/>
+			<Visee Dep="AB5" Long="0.41" Az="277.10" Pte="-81.10" Ref="641"/>
+			<Visee Dep="AB5" Arr="AB6" Long="9.70" Az="351.20" Pte="-6.40" G="0.28" D="0.52" H="0.38" B="0.40" Ref="641" Suiv="651">
+				<Commentaire>CA soufflant sensible</Commentaire>
+			</Visee>
+			<Visee Dep="AB6" Long="0.30" Az="312.30" Pte="-2.20" Ref="646"/>
+			<Visee Dep="AB6" Long="0.84" Az="41.90" Pte="2.30" Ref="646"/>
+			<Visee Dep="AB6" Long="0.54" Az="27.20" Pte="83.40" Ref="646"/>
+			<Visee Dep="AB6" Long="0.27" Az="359.90" Pte="-83.10" Ref="646"/>
+			<Visee Dep="AB6" Arr="AB7" Long="4.91" Az="356.20" Pte="6.00" G="1.48" D="0.60" H="0.54" B="1.09" Ref="646" Suiv="656">
+				<Commentaire>Suite étroit, AB7 marqué</Commentaire>
+			</Visee>
+			<Visee Dep="AB7" Long="0.90" Az="330.90" Pte="10.40" Ref="651"/>
+			<Visee Dep="AB7" Long="0.26" Az="46.10" Pte="-3.90" Ref="651"/>
+			<Visee Dep="AB7" Long="0.21" Az="65.20" Pte="78.80" Ref="651"/>
+			<Visee Dep="AB7" Long="0.27" Az="320.00" Pte="-79.90" Ref="651"/>
+			<Visee Dep="AB7" Arr="AB8" Long="6.42" Az="1.70" Pte="-12.60" G="0.45" D="0.18" H="0.21" B="0.27" Ref="651" Suiv="657">
+				<Commentaire>Etroiture</Commentaire>
+			</Visee>
+			<Visee Dep="AB8" Arr="AB9" Long="0.00" Az="2.00" Pte="-12.00" G="0.50" D="0.20" H="0.20" B="0.30" Ref="656"/>
+			<Visee Dep="A17" Long="2.00" Az="60.00" Pte="1.10" Ref="595"/>
+			<Visee Dep="A17" Long="1.05" Az="300.60" Pte="-0.00" Ref="595"/>
+			<Visee Dep="A17" Long="0.88" Az="162.60" Pte="85.80" Ref="595"/>
+			<Visee Dep="A17" Long="0.67" Az="11.50" Pte="-85.40" Ref="595"/>
+			<Visee Dep="A17" Arr="A18" Long="7.84" Az="186.50" Pte="5.80" G="1.60" D="1.09" H="0.99" B="0.67" Ref="595" Suiv="667"/>
+			<Visee Dep="A18" Long="1.20" Az="55.60" Pte="-0.50" Ref="662"/>
+			<Visee Dep="A18" Long="1.12" Az="293.90" Pte="9.30" Ref="662"/>
+			<Visee Dep="A18" Long="0.39" Az="158.60" Pte="79.40" Ref="662"/>
+			<Visee Dep="A18" Long="0.21" Az="168.30" Pte="-86.90" Ref="662"/>
+			<Visee Dep="A18" Arr="A19" Long="20.14" Az="144.00" Pte="1.40" G="1.20" D="0.40" H="0.79" B="0.21" Ref="662" Suiv="672"/>
+			<Visee Dep="A19" Long="0.38" Az="59.50" Pte="1.10" Ref="667"/>
+			<Visee Dep="A19" Long="1.24" Az="284.60" Pte="0.40" Ref="667"/>
+			<Visee Dep="A19" Long="1.03" Az="194.10" Pte="78.20" Ref="667"/>
+			<Visee Dep="A19" Long="0.39" Az="213.70" Pte="-77.80" Ref="667"/>
+			<Visee Dep="A19" Arr="A20" Long="7.94" Az="173.10" Pte="1.30" G="0.35" D="1.15" H="1.01" B="0.38" Ref="667" Suiv="677"/>
+			<Visee Dep="A20" Long="0.71" Az="69.70" Pte="5.00" Ref="672"/>
+			<Visee Dep="A20" Long="0.55" Az="305.40" Pte="-9.00" Ref="672"/>
+			<Visee Dep="A20" Long="0.65" Az="197.60" Pte="80.20" Ref="672"/>
+			<Visee Dep="A20" Long="0.91" Az="176.10" Pte="-75.40" Ref="672"/>
+			<Visee Dep="A20" Arr="A21" Long="4.05" Az="141.40" Pte="-0.70" G="0.67" D="0.15" H="0.64" B="0.88" Ref="672" Suiv="682"/>
+			<Visee Dep="A21" Long="0.29" Az="73.70" Pte="3.00" Ref="677"/>
+			<Visee Dep="A21" Long="1.52" Az="303.40" Pte="-4.70" Ref="677"/>
+			<Visee Dep="A21" Long="0.91" Az="236.20" Pte="78.40" Ref="677"/>
+			<Visee Dep="A21" Long="1.33" Az="306.40" Pte="-83.30" Ref="677"/>
+			<Visee Dep="A21" Arr="A22" Long="7.49" Az="228.60" Pte="-4.90" G="0.12" D="1.46" H="0.89" B="1.32" Ref="677" Suiv="683"/>
+			<Visee Dep="A22" Arr="A23" Long="0.00" Az="230.00" Pte="-5.00" G="0.80" D="0.80" H="1.00" B="1.50" Ref="682">
+				<Commentaire>Arrêt topo explo 3</Commentaire>
+			</Visee>
+		</Param>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="2.2133" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Dep" Coul="Std" Date="14/10/2021" DeclinAuto="A">
+			<Commentaire>Explo 4: distoX Alex / Guy Lamure / Olivier Venaut / Alex</Commentaire>
+			<Visee Dep="A17" Arr="ABBIS1" Long="5.24" Az="315.60" Pte="27.70" G="0.76" D="1.08" H="0.73" B="0.69" Exc="EE" Ref="595" Suiv="690">
+				<Commentaire>En double</Commentaire>
+			</Visee>
+			<Visee Dep="ABBIS1" Long="1.53" Az="281.00" Pte="28.50" Exc="EE" Ref="685"/>
+			<Visee Dep="ABBIS1" Long="1.26" Az="76.90" Pte="-0.60" Exc="EE" Ref="685"/>
+			<Visee Dep="ABBIS1" Long="0.74" Az="29.60" Pte="80.10" Exc="EE" Ref="685"/>
+			<Visee Dep="ABBIS1" Long="0.69" Az="215.60" Pte="-86.00" Exc="EE" Ref="685"/>
+			<Visee Dep="ABBIS1" Arr="ABBIS2" Long="3.40" Az="347.10" Pte="-7.50" G="0.50" D="1.63" H="0.87" B="0.43" Exc="EE" Ref="685" Suiv="695"/>
+			<Visee Dep="ABBIS2" Long="1.02" Az="317.60" Pte="3.20" Exc="EE" Ref="690"/>
+			<Visee Dep="ABBIS2" Long="1.78" Az="96.10" Pte="14.60" Exc="EE" Ref="690"/>
+			<Visee Dep="ABBIS2" Long="0.90" Az="55.30" Pte="76.50" Exc="EE" Ref="690"/>
+			<Visee Dep="ABBIS2" Long="0.43" Az="216.60" Pte="-86.50" Exc="EE" Ref="690"/>
+			<Visee Dep="ABBIS2" Arr="ABBIS3" Long="4.46" Az="39.90" Pte="4.00" G="2.70" D="1.49" H="3.53" B="0.67" Exc="EE" Ref="690" Suiv="700"/>
+			<Visee Dep="ABBIS3" Long="2.89" Az="321.50" Pte="17.70" Exc="EE" Ref="695"/>
+			<Visee Dep="ABBIS3" Long="1.55" Az="145.70" Pte="-0.10" Exc="EE" Ref="695"/>
+			<Visee Dep="ABBIS3" Long="3.55" Az="75.20" Pte="84.60" Exc="EE" Ref="695"/>
+			<Visee Dep="ABBIS3" Long="0.68" Az="223.50" Pte="-80.20" Exc="EE" Ref="695"/>
+			<Visee Dep="ABBIS3" Arr="ABBIS4" Long="12.23" Az="41.50" Pte="39.50" G="2.02" D="1.71" H="1.17" B="1.69" Exc="EE" Ref="695" Suiv="705"/>
+			<Visee Dep="ABBIS4" Long="2.62" Az="342.00" Pte="26.50" Exc="EE" Ref="700"/>
+			<Visee Dep="ABBIS4" Long="2.53" Az="179.00" Pte="3.90" Exc="EE" Ref="700"/>
+			<Visee Dep="ABBIS4" Long="1.18" Az="241.70" Pte="78.90" Exc="EE" Ref="700"/>
+			<Visee Dep="ABBIS4" Long="1.69" Az="147.70" Pte="-85.80" Exc="EE" Ref="700"/>
+			<Visee Dep="ABBIS4" Arr="ABBIS5" Long="12.50" Az="82.00" Pte="-27.20" G="0.00" D="0.00" H="0.00" B="0.00" Exc="EE" Ref="700"/>
+			<Visee Dep="A8" Long="0.52" Az="325.90" Pte="12.90" Ref="551"/>
+			<Visee Dep="A8" Long="3.50" Az="125.00" Pte="12.10" Ref="551"/>
+			<Visee Dep="A8" Long="3.56" Az="127.00" Pte="13.30" Ref="551"/>
+			<Visee Dep="A8" Long="3.49" Az="127.70" Pte="11.10" Ref="551"/>
+			<Visee Dep="A8" Long="6.77" Az="106.80" Pte="67.40" Ref="551"/>
+			<Visee Dep="A8" Arr="AC1" Long="11.56" Az="64.20" Pte="49.10" G="0.50" D="3.00" H="15.00" B="1.45" Ref="626" Suiv="763" InvV1V2="1">
+				<Commentaire>Vers escalade 2</Commentaire>
+			</Visee>
+			<Visee Dep="AC1" Long="0.44" Az="54.30" Pte="12.20" Ref="626"/>
+			<Visee Dep="AC1" Long="5.53" Az="247.60" Pte="-5.20" Ref="626"/>
+			<Visee Dep="AC1" Long="3.91" Az="222.20" Pte="76.70" Ref="626"/>
+			<Visee Dep="AC1" Long="1.47" Az="262.00" Pte="-81.90" Ref="626"/>
+			<Visee Dep="AC1" Arr="AC2" Long="3.54" Az="306.70" Pte="21.80" G="0.20" D="5.00" H="15.00" B="10.00" Ref="626" Suiv="721"/>
+			<Visee Dep="AC2" Long="0.41" Az="305.00" Pte="2.20" Ref="716"/>
+			<Visee Dep="AC2" Long="3.20" Az="103.10" Pte="16.00" Ref="716"/>
+			<Visee Dep="AC2" Long="2.88" Az="80.90" Pte="53.10" Ref="716"/>
+			<Visee Dep="AC2" Long="1.24" Az="91.70" Pte="-70.20" Ref="716"/>
+			<Visee Dep="AC2" Arr="AC3" Long="5.95" Az="38.30" Pte="23.60" G="0.40" D="3.20" H="2.88" B="1.24" Ref="716" Suiv="726">
+				<Commentaire>Haut de l'escalade</Commentaire>
+			</Visee>
+			<Visee Dep="AC3" Long="1.43" Az="295.10" Pte="3.40" Ref="721"/>
+			<Visee Dep="AC3" Long="1.48" Az="107.80" Pte="5.10" Ref="721"/>
+			<Visee Dep="AC3" Long="1.87" Az="221.10" Pte="84.70" Ref="721"/>
+			<Visee Dep="AC3" Long="0.64" Az="341.90" Pte="-87.60" Ref="721"/>
+			<Visee Dep="AC3" Arr="AC4" Long="5.98" Az="22.40" Pte="26.20" G="1.27" D="1.50" H="1.90" B="1.00" Ref="721" Suiv="731"/>
+			<Visee Dep="AC4" Long="1.44" Az="291.10" Pte="28.40" Ref="726"/>
+			<Visee Dep="AC4" Long="3.12" Az="107.30" Pte="9.10" Ref="726"/>
+			<Visee Dep="AC4" Long="2.61" Az="87.10" Pte="77.20" Ref="726"/>
+			<Visee Dep="AC4" Long="0.76" Az="222.60" Pte="-86.00" Ref="726"/>
+			<Visee Dep="AC4" Arr="AC5" Long="7.41" Az="35.90" Pte="25.90" G="1.44" D="3.00" H="2.70" B="1.00" Ref="726" Suiv="737"/>
+			<Visee Dep="AC5" Long="7.41" Az="34.00" Pte="25.50" Ref="731"/>
+			<Visee Dep="AC5" Long="3.42" Az="272.70" Pte="20.70" Ref="731"/>
+			<Visee Dep="AC5" Long="1.08" Az="107.50" Pte="17.60" Ref="731"/>
+			<Visee Dep="AC5" Long="3.54" Az="263.70" Pte="89.10" Ref="731"/>
+			<Visee Dep="AC5" Long="0.96" Az="265.10" Pte="-87.20" Ref="731"/>
+			<Visee Dep="AC5" Arr="AC6" Long="7.11" Az="339.20" Pte="22.50" G="2.50" D="1.25" H="3.01" B="0.57" Ref="731" Suiv="742"/>
+			<Visee Dep="AC6" Long="1.64" Az="286.70" Pte="13.00" Ref="737"/>
+			<Visee Dep="AC6" Long="3.60" Az="98.20" Pte="3.20" Ref="737"/>
+			<Visee Dep="AC6" Long="3.11" Az="89.00" Pte="75.40" Ref="737"/>
+			<Visee Dep="AC6" Long="0.57" Az="153.00" Pte="-83.20" Ref="737"/>
+			<Visee Dep="AC6" Arr="AC7" Long="11.68" Az="32.40" Pte="32.70" G="1.60" D="3.00" H="3.63" B="0.50" Ref="737" Suiv="747"/>
+			<Visee Dep="AC7" Long="2.37" Az="8.80" Pte="31.40" Ref="742"/>
+			<Visee Dep="AC7" Long="3.26" Az="161.60" Pte="13.30" Ref="742"/>
+			<Visee Dep="AC7" Long="3.65" Az="65.10" Pte="83.80" Ref="742"/>
+			<Visee Dep="AC7" Long="1.14" Az="332.20" Pte="-86.90" Ref="742"/>
+			<Visee Dep="AC7" Arr="AC8" Long="7.98" Az="97.30" Pte="28.30" G="3.00" D="2.50" H="4.05" B="0.55" Ref="742" Suiv="753"/>
+			<Visee Dep="AC8" Long="3.21" Az="348.20" Pte="26.70" Ref="747"/>
+			<Visee Dep="AC8" Long="0.92" Az="193.30" Pte="-7.30" Ref="747"/>
+			<Visee Dep="AC8" Long="1.35" Az="263.20" Pte="78.80" Ref="747"/>
+			<Visee Dep="AC8" Long="0.55" Az="309.30" Pte="-84.20" Ref="747"/>
+			<Visee Dep="AC8" Long="6.47" Az="56.80" Pte="38.70" Ref="747"/>
+			<Visee Dep="AC8" Arr="AC9" Long="5.11" Az="56.80" Pte="38.50" G="1.65" D="0.80" H="3.00" B="0.65" Ref="747" Suiv="758">
+				<Commentaire>Arrêt, PT marqué, raçines !</Commentaire>
+			</Visee>
+			<Visee Dep="AC9" Long="2.02" Az="351.10" Pte="26.20" Ref="753"/>
+			<Visee Dep="AC9" Long="0.81" Az="138.80" Pte="1.60" Ref="753"/>
+			<Visee Dep="AC9" Long="1.85" Az="317.50" Pte="74.60" Ref="753"/>
+			<Visee Dep="AC9" Long="0.65" Az="231.70" Pte="-83.70" Ref="753"/>
+			<Visee Dep="AC9" Arr="AC10" Long="0.00" Az="0.00" Pte="0.00" G="2.00" D="0.80" H="1.85" B="0.65" Ref="753">
+				<Commentaire>AC9 - Marqué - Dépôt ARVA 04/05/2023</Commentaire>
+			</Visee>
+			<Visee Dep="A8" Long="0.65" Az="351.80" Pte="23.80" Ref="711"/>
+			<Visee Dep="A8" Long="3.47" Az="135.30" Pte="7.20" Ref="711"/>
+			<Visee Dep="A8" Long="2.88" Az="132.40" Pte="72.30" Ref="711"/>
+			<Visee Dep="A8" Long="1.49" Az="36.60" Pte="-84.90" Ref="711"/>
+			<Visee Dep="A8" Arr="C1" Long="18.07" Az="88.40" Pte="51.30" G="8.46" D="1.19" H="4.78" B="0.57" Ref="711" Suiv="768">
+				<Commentaire>Vers étage 3</Commentaire>
+			</Visee>
+			<Visee Dep="C1" Long="9.81" Az="334.30" Pte="17.90" Ref="763"/>
+			<Visee Dep="C1" Long="1.22" Az="184.90" Pte="10.30" Ref="763"/>
+			<Visee Dep="C1" Long="4.88" Az="30.40" Pte="78.20" Ref="763"/>
+			<Visee Dep="C1" Long="0.58" Az="70.30" Pte="-84.60" Ref="763"/>
+			<Visee Dep="C1" Arr="C2" Long="8.16" Az="119.90" Pte="57.70" G="1.50" D="1.20" H="5.00" B="0.50" Ref="763" Suiv="773"/>
+			<Visee Dep="C2" Long="1.57" Az="355.10" Pte="3.70" Ref="768"/>
+			<Visee Dep="C2" Long="0.33" Az="191.00" Pte="6.70" Ref="768"/>
+			<Visee Dep="C2" Long="1.35" Az="25.10" Pte="48.50" Ref="768"/>
+			<Visee Dep="C2" Long="1.35" Az="95.70" Pte="-68.40" Ref="768"/>
+			<Visee Dep="C2" Arr="C3" Long="5.38" Az="74.40" Pte="29.10" G="1.60" D="0.30" H="1.35" B="1.00" Ref="768" Suiv="777">
+				<Commentaire>C2: Haut de l'escalade 3</Commentaire>
+			</Visee>
+			<Visee Dep="C3" Long="0.50" Az="56.20" Pte="26.70" Ref="773"/>
+			<Visee Dep="C3" Long="1.31" Az="166.00" Pte="-9.10" Ref="773"/>
+			<Visee Dep="C3" Long="0.98" Az="78.40" Pte="-86.00" Ref="773"/>
+			<Visee Dep="C3" Arr="C4" Long="5.38" Az="90.40" Pte="6.10" G="0.50" D="1.30" H="0.20" B="1.00" Ref="773" Suiv="782"/>
+			<Visee Dep="C4" Long="0.46" Az="40.80" Pte="3.80" Ref="777"/>
+			<Visee Dep="C4" Long="1.02" Az="218.30" Pte="-3.10" Ref="777"/>
+			<Visee Dep="C4" Long="0.71" Az="3.00" Pte="83.30" Ref="777"/>
+			<Visee Dep="C4" Long="1.17" Az="166.30" Pte="-83.50" Ref="777"/>
+			<Visee Dep="C4" Arr="C5" Long="4.10" Az="180.60" Pte="4.30" G="0.37" D="1.00" H="0.70" B="1.20" Ref="777" Suiv="787">
+				<Commentaire>C4 Marqué</Commentaire>
+			</Visee>
+			<Visee Dep="C5" Long="0.64" Az="37.10" Pte="-2.80" Ref="782"/>
+			<Visee Dep="C5" Long="0.42" Az="228.40" Pte="3.50" Ref="782"/>
+			<Visee Dep="C5" Long="0.38" Az="149.40" Pte="84.50" Ref="782"/>
+			<Visee Dep="C5" Long="1.30" Az="194.60" Pte="-89.20" Ref="782"/>
+			<Visee Dep="C5" Arr="C6" Long="3.52" Az="129.00" Pte="-21.20" G="0.60" D="0.40" H="0.30" B="1.30" Ref="782" Suiv="792"/>
+			<Visee Dep="C6" Long="0.59" Az="81.00" Pte="0.70" Ref="787"/>
+			<Visee Dep="C6" Long="1.17" Az="232.60" Pte="-10.70" Ref="787"/>
+			<Visee Dep="C6" Long="1.33" Az="4.40" Pte="76.30" Ref="787"/>
+			<Visee Dep="C6" Long="1.31" Az="49.10" Pte="-87.80" Ref="787"/>
+			<Visee Dep="C6" Arr="C7" Long="4.38" Az="178.20" Pte="-23.00" G="0.60" D="1.20" H="1.30" B="1.30" Ref="787" Suiv="797"/>
+			<Visee Dep="C7" Long="1.68" Az="36.30" Pte="29.50" Ref="792"/>
+			<Visee Dep="C7" Long="1.08" Az="222.20" Pte="-10.40" Ref="792"/>
+			<Visee Dep="C7" Long="1.12" Az="41.20" Pte="69.70" Ref="792"/>
+			<Visee Dep="C7" Long="1.13" Az="295.20" Pte="-80.80" Ref="792"/>
+			<Visee Dep="C7" Arr="C8" Long="6.76" Az="141.40" Pte="-13.20" G="1.70" D="1.10" H="1.20" B="1.20" Ref="792" Suiv="802"/>
+			<Visee Dep="C8" Long="0.62" Az="80.50" Pte="8.90" Ref="797"/>
+			<Visee Dep="C8" Long="1.22" Az="256.20" Pte="8.00" Ref="797"/>
+			<Visee Dep="C8" Long="0.63" Az="126.80" Pte="78.10" Ref="797"/>
+			<Visee Dep="C8" Long="1.00" Az="104.20" Pte="-83.20" Ref="797"/>
+			<Visee Dep="C8" Arr="C9" Long="3.53" Az="172.10" Pte="-9.10" G="0.65" D="1.22" H="0.63" B="1.00" Ref="797" Suiv="807"/>
+			<Visee Dep="C9" Long="0.60" Az="152.40" Pte="6.20" Ref="802"/>
+			<Visee Dep="C9" Long="1.07" Az="29.90" Pte="3.90" Ref="802"/>
+			<Visee Dep="C9" Long="1.01" Az="43.60" Pte="85.40" Ref="802"/>
+			<Visee Dep="C9" Long="0.73" Az="97.90" Pte="-82.00" Ref="802"/>
+			<Visee Dep="C9" Arr="CA1" Long="3.68" Az="104.70" Pte="-13.30" G="0.60" D="1.00" H="1.00" B="0.70" Ref="802" Suiv="808">
+				<Commentaire>Perte de l'actif, imp</Commentaire>
+			</Visee>
+			<Visee Dep="CA1" Arr="CA2" Long="0.00" Az="0.00" Pte="0.00" G="0.20" D="0.20" H="0.50" B="0.00" Ref="807"/>
+			<Visee Dep="C9" Long="0.56" Az="176.50" Pte="9.80" Ref="802"/>
+			<Visee Dep="C9" Long="2.98" Az="5.40" Pte="17.10" Ref="802"/>
+			<Visee Dep="C9" Long="1.23" Az="344.60" Pte="81.80" Ref="802"/>
+			<Visee Dep="C9" Long="0.88" Az="192.30" Pte="-83.80" Ref="802"/>
+			<Visee Dep="C9" Arr="C10" Long="7.00" Az="276.10" Pte="36.70" G="0.60" D="3.00" H="1.30" B="0.80" Ref="802" Suiv="818"/>
+			<Visee Dep="C10" Long="0.94" Az="221.00" Pte="5.90" Ref="813"/>
+			<Visee Dep="C10" Long="1.15" Az="30.10" Pte="11.90" Ref="813"/>
+			<Visee Dep="C10" Long="1.07" Az="6.10" Pte="78.20" Ref="813"/>
+			<Visee Dep="C10" Long="1.29" Az="129.50" Pte="-80.20" Ref="813"/>
+			<Visee Dep="C10" Arr="C11" Long="7.03" Az="302.00" Pte="37.30" G="0.94" D="0.94" H="1.00" B="1.00" Ref="813" Suiv="823"/>
+			<Visee Dep="C11" Long="0.97" Az="199.30" Pte="1.80" Ref="818"/>
+			<Visee Dep="C11" Long="1.07" Az="3.10" Pte="-0.20" Ref="818"/>
+			<Visee Dep="C11" Long="2.29" Az="253.90" Pte="77.70" Ref="818"/>
+			<Visee Dep="C11" Long="1.11" Az="196.40" Pte="-81.00" Ref="818"/>
+			<Visee Dep="C11" Arr="C12" Long="5.65" Az="268.10" Pte="36.80" G="1.00" D="1.00" H="2.30" B="1.22" Ref="818" Suiv="828"/>
+			<Visee Dep="C12" Long="0.61" Az="197.20" Pte="17.20" Ref="823"/>
+			<Visee Dep="C12" Long="1.68" Az="21.00" Pte="11.90" Ref="823"/>
+			<Visee Dep="C12" Long="1.58" Az="333.80" Pte="78.30" Ref="823"/>
+			<Visee Dep="C12" Long="1.22" Az="170.30" Pte="-84.90" Ref="823"/>
+			<Visee Dep="C12" Arr="C12B1" Long="8.65" Az="13.70" Pte="56.10" G="0.60" D="1.70" H="1.50" B="1.20" Ref="823" Suiv="829"/>
+			<Visee Dep="C12B1" Arr="C12B2" Long="0.00" Az="0.00" Pte="0.00" G="0.80" D="0.80" H="0.50" B="8.00" Ref="828">
+				<Commentaire>Escalde à faire ?</Commentaire>
+			</Visee>
+			<Visee Dep="C12" Arr="C13" Long="3.45" Az="312.50" Pte="36.30" G="1.22" D="0.65" H="0.63" B="1.55" Ref="823" Suiv="891">
+				<Commentaire>C13 Arrêt Topoexplo 4, marqué sur petite concrétion au plafond</Commentaire>
+			</Visee>
+			<Visee Dep="C13" Long="1.57" Az="182.80" Pte="-0.70" Ref="830"/>
+			<Visee Dep="C13" Long="0.75" Az="14.50" Pte="9.00" Ref="830"/>
+			<Visee Dep="C13" Long="0.63" Az="249.60" Pte="85.70" Ref="830"/>
+			<Visee Dep="C13" Long="1.55" Az="246.90" Pte="-88.00" Ref="830">
+				<Commentaire>Fin topo du 14/10/2021</Commentaire>
+			</Visee>
+		</Param>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="2.2239" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Dep" Coul="Std" Date="24/11/2021" DeclinAuto="A">
+			<Commentaire>Topo le 24/11/2021: Nathan &amp; Laurent CADILHAC, Olivier VENEAU, Alexandre PONT</Commentaire>
+			<Visee Dep="L6" Long="0.83" Az="52.30" Pte="9.60" Ref="114">
+				<Commentaire>Reprise le 24 11 2021 vers siphon Laffaille</Commentaire>
+			</Visee>
+			<Visee Dep="L6" Long="2.63" Az="194.80" Pte="23.60" Ref="114"/>
+			<Visee Dep="L6" Long="0.86" Az="264.60" Pte="83.70" Ref="114"/>
+			<Visee Dep="L6" Long="0.37" Az="224.70" Pte="-83.00" Ref="114"/>
+			<Visee Dep="L6" Arr="LL7" Long="7.54" Az="137.80" Pte="-26.80" G="1.46" D="1.26" H="1.22" B="0.57" Ref="114" Suiv="845">
+				<Commentaire>Reprise le 24 11 2021 vers siphon Laffaille</Commentaire>
+			</Visee>
+			<Visee Dep="LL7" Long="1.60" Az="24.10" Pte="-2.70" Ref="840"/>
+			<Visee Dep="LL7" Long="2.42" Az="172.00" Pte="23.30" Ref="840"/>
+			<Visee Dep="LL7" Long="1.26" Az="91.30" Pte="74.70" Ref="840"/>
+			<Visee Dep="LL7" Long="0.58" Az="328.60" Pte="-82.10" Ref="840"/>
+			<Visee Dep="LL7" Arr="LL8" Long="6.06" Az="115.60" Pte="-21.60" G="1.50" D="2.50" H="0.38" B="1.37" Ref="840" Suiv="850"/>
+			<Visee Dep="LL8" Long="1.62" Az="345.20" Pte="-14.60" Ref="845"/>
+			<Visee Dep="LL8" Long="1.45" Az="163.80" Pte="-19.20" Ref="845"/>
+			<Visee Dep="LL8" Long="0.38" Az="71.70" Pte="80.10" Ref="845"/>
+			<Visee Dep="LL8" Long="1.38" Az="161.40" Pte="-83.70" Ref="845"/>
+			<Visee Dep="LL8" Arr="LL9" Long="7.44" Az="96.50" Pte="-35.00" G="1.60" D="1.76" H="0.47" B="1.41" Ref="845" Suiv="855"/>
+			<Visee Dep="LL9" Long="3.47" Az="342.00" Pte="-12.10" Ref="850"/>
+			<Visee Dep="LL9" Long="1.83" Az="171.40" Pte="1.40" Ref="850"/>
+			<Visee Dep="LL9" Long="0.51" Az="90.80" Pte="65.80" Ref="850"/>
+			<Visee Dep="LL9" Long="1.42" Az="8.30" Pte="-84.20" Ref="850"/>
+			<Visee Dep="LL9" Arr="LL10" Long="4.13" Az="88.20" Pte="-33.30" G="3.00" D="2.08" H="1.56" B="1.27" Ref="850" Suiv="860"/>
+			<Visee Dep="LL10" Long="0.82" Az="61.20" Pte="-42.40" Ref="855"/>
+			<Visee Dep="LL10" Long="4.46" Az="238.50" Pte="20.50" Ref="855"/>
+			<Visee Dep="LL10" Long="1.42" Az="266.50" Pte="56.80" Ref="855"/>
+			<Visee Dep="LL10" Long="1.13" Az="92.90" Pte="-85.30" Ref="855"/>
+			<Visee Dep="LL10" Arr="LL11" Long="1.89" Az="242.10" Pte="-55.90" G="1.11" D="2.00" H="0.86" B="0.30" Ref="855" Suiv="861">
+				<Commentaire>Vasque entrée Siphon 1 de la grotte Laffaille</Commentaire>
+			</Visee>
+			<Visee Dep="LL11" Arr="LL11Bis" Long="0.00" Az="0.00" Pte="0.00" G="1.14" D="0.65" H="1.26" B="0.30" Ref="860"/>
+			<Visee Dep="LL11" Long="1.14" Az="158.40" Pte="10.90" Ref="860"/>
+			<Visee Dep="LL11" Long="0.65" Az="287.40" Pte="8.70" Ref="860"/>
+			<Visee Dep="LL11" Long="1.26" Az="220.10" Pte="43.10" Ref="860"/>
+			<Visee Dep="LL11" Long="0.30" Az="150.60" Pte="-80.00" Ref="860"/>
+			<Visee Dep="LL10" Long="0.51" Az="11.60" Pte="-3.60" Ref="855"/>
+			<Visee Dep="LL10" Long="2.72" Az="224.80" Pte="10.10" Ref="855"/>
+			<Visee Dep="LL10" Long="0.55" Az="198.90" Pte="61.70" Ref="855"/>
+			<Visee Dep="LL10" Long="1.32" Az="114.20" Pte="-74.60" Ref="855"/>
+			<Visee Dep="LL10" Arr="LLB1" Long="6.06" Az="169.90" Pte="1.80" G="0.37" D="0.21" H="0.64" B="0.33" Ref="855" Suiv="875"/>
+			<Visee Dep="LLB1" Long="0.81" Az="18.40" Pte="16.40" Ref="870"/>
+			<Visee Dep="LLB1" Long="0.25" Az="252.70" Pte="32.40" Ref="870"/>
+			<Visee Dep="LLB1" Long="0.64" Az="64.50" Pte="80.70" Ref="870"/>
+			<Visee Dep="LLB1" Long="0.34" Az="276.90" Pte="-81.50" Ref="870"/>
+			<Visee Dep="LLB1" Arr="LB2" Long="8.97" Az="93.60" Pte="-30.50" G="0.33" D="0.43" H="0.55" B="0.50" Ref="870" Suiv="876">
+				<Commentaire>Déversoir du Siphon 1</Commentaire>
+			</Visee>
+			<Visee Dep="LB2" Arr="LB2Bis" Long="0.00" Az="0.00" Pte="0.00" G="0.35" D="0.46" H="0.56" B="0.52" Ref="875"/>
+			<Visee Dep="LLB1" Arr="LC1" Long="3.86" Az="301.50" Pte="33.20" G="0.37" D="1.19" H="0.36" B="0.19" Ref="870" Suiv="878"/>
+			<Visee Dep="LC1" Arr="LC1Bis" Long="0.00" Az="0.00" Pte="0.00" G="0.45" D="1.30" H="0.34" B="0.19" Ref="877"/>
+			<Visee Dep="LB2" Long="0.35" Az="346.30" Pte="-6.00" Ref="875"/>
+			<Visee Dep="LB2" Long="0.46" Az="164.80" Pte="9.50" Ref="875"/>
+			<Visee Dep="LB2" Long="0.56" Az="339.70" Pte="77.70" Ref="875"/>
+			<Visee Dep="LB2" Long="0.52" Az="271.60" Pte="-77.40" Ref="875"/>
+			<Visee Dep="LC1" Long="0.45" Az="179.60" Pte="14.70" Ref="877"/>
+			<Visee Dep="LC1" Long="1.30" Az="13.60" Pte="16.20" Ref="877"/>
+			<Visee Dep="LC1" Long="0.34" Az="166.50" Pte="88.10" Ref="877"/>
+			<Visee Dep="LC1" Long="0.19" Az="153.50" Pte="-86.70" Ref="877"/>
+			<Visee Dep="C13" Long="1.10" Az="131.20" Pte="-9.40" Ref="830"/>
+			<Visee Dep="C13" Long="1.46" Az="278.70" Pte="20.10" Ref="830"/>
+			<Visee Dep="C13" Long="0.63" Az="147.70" Pte="65.20" Ref="830"/>
+			<Visee Dep="C13" Long="1.82" Az="112.20" Pte="-75.10" Ref="830"/>
+			<Visee Dep="C13" Arr="C14" Long="7.16" Az="169.70" Pte="3.20" G="0.84" D="0.85" H="0.49" B="0.34" Ref="830" Suiv="896">
+				<Commentaire>Reprise topo étage 3</Commentaire>
+			</Visee>
+			<Visee Dep="C14" Long="0.88" Az="97.30" Pte="-2.10" Ref="891"/>
+			<Visee Dep="C14" Long="0.85" Az="262.40" Pte="4.00" Ref="891"/>
+			<Visee Dep="C14" Long="0.50" Az="58.80" Pte="78.30" Ref="891"/>
+			<Visee Dep="C14" Long="0.36" Az="155.50" Pte="-73.00" Ref="891"/>
+			<Visee Dep="C14" Arr="C15" Long="4.78" Az="206.40" Pte="12.50" G="0.56" D="1.07" H="1.41" B="0.38" Ref="891" Suiv="901"/>
+			<Visee Dep="C15" Long="1.03" Az="172.40" Pte="16.00" Ref="896"/>
+			<Visee Dep="C15" Long="2.18" Az="353.40" Pte="26.80" Ref="896"/>
+			<Visee Dep="C15" Long="1.47" Az="254.80" Pte="72.90" Ref="896"/>
+			<Visee Dep="C15" Long="0.41" Az="308.60" Pte="-68.30" Ref="896"/>
+			<Visee Dep="C15" Arr="C16" Long="9.00" Az="284.90" Pte="42.50" G="1.04" D="1.88" H="1.53" B="0.33" Ref="896" Suiv="906"/>
+			<Visee Dep="C16" Long="1.07" Az="195.10" Pte="12.20" Ref="901"/>
+			<Visee Dep="C16" Long="1.89" Az="16.10" Pte="4.70" Ref="901"/>
+			<Visee Dep="C16" Long="1.53" Az="348.00" Pte="83.90" Ref="901"/>
+			<Visee Dep="C16" Long="0.33" Az="211.70" Pte="-84.50" Ref="901"/>
+			<Visee Dep="C16" Arr="C17" Long="5.32" Az="286.70" Pte="42.40" G="1.00" D="1.50" H="1.29" B="0.39" Ref="901" Suiv="911"/>
+			<Visee Dep="C17" Long="0.56" Az="209.90" Pte="16.40" Ref="906"/>
+			<Visee Dep="C17" Long="1.00" Az="25.50" Pte="3.70" Ref="906"/>
+			<Visee Dep="C17" Long="1.31" Az="343.00" Pte="81.20" Ref="906"/>
+			<Visee Dep="C17" Long="0.42" Az="190.90" Pte="-68.00" Ref="906"/>
+			<Visee Dep="C17" Arr="C18" Long="4.21" Az="295.80" Pte="45.30" G="0.52" D="1.03" H="0.64" B="0.80" Ref="906" Suiv="916"/>
+			<Visee Dep="C18" Long="0.60" Az="178.40" Pte="-11.00" Ref="911"/>
+			<Visee Dep="C18" Long="1.38" Az="345.50" Pte="-13.00" Ref="911"/>
+			<Visee Dep="C18" Long="0.67" Az="6.70" Pte="74.10" Ref="911"/>
+			<Visee Dep="C18" Long="0.80" Az="20.10" Pte="-88.70" Ref="911"/>
+			<Visee Dep="C18" Arr="C19" Long="4.97" Az="300.00" Pte="25.30" G="0.60" D="1.30" H="0.58" B="0.31" Ref="911" Suiv="921"/>
+			<Visee Dep="C19" Long="2.12" Az="213.70" Pte="14.40" Ref="916"/>
+			<Visee Dep="C19" Long="1.64" Az="48.40" Pte="3.10" Ref="916"/>
+			<Visee Dep="C19" Long="0.59" Az="59.40" Pte="77.40" Ref="916"/>
+			<Visee Dep="C19" Long="0.37" Az="213.30" Pte="-56.70" Ref="916"/>
+			<Visee Dep="C19" Arr="C20" Long="5.90" Az="315.20" Pte="38.30" G="1.79" D="1.00" H="1.05" B="0.42" Ref="916" Suiv="926"/>
+			<Visee Dep="C20" Long="1.80" Az="223.10" Pte="5.20" Ref="921"/>
+			<Visee Dep="C20" Long="0.32" Az="35.60" Pte="20.20" Ref="921"/>
+			<Visee Dep="C20" Long="1.25" Az="243.30" Pte="56.80" Ref="921"/>
+			<Visee Dep="C20" Long="0.43" Az="340.70" Pte="-80.50" Ref="921"/>
+			<Visee Dep="C20" Arr="C21" Long="7.93" Az="290.80" Pte="42.00" G="1.36" D="0.20" H="0.26" B="0.59" Ref="921" Suiv="931"/>
+			<Visee Dep="C21" Long="1.36" Az="202.30" Pte="0.50" Ref="926"/>
+			<Visee Dep="C21" Long="1.01" Az="19.10" Pte="-16.30" Ref="926"/>
+			<Visee Dep="C21" Long="0.27" Az="34.70" Pte="72.70" Ref="926"/>
+			<Visee Dep="C21" Long="0.60" Az="284.00" Pte="-83.60" Ref="926"/>
+			<Visee Dep="C21" Arr="C22" Long="5.06" Az="262.70" Pte="33.90" G="1.16" D="1.51" H="0.46" B="0.51" Ref="926" Suiv="936"/>
+			<Visee Dep="C22" Long="0.63" Az="262.40" Pte="30.00" Ref="931"/>
+			<Visee Dep="C22" Long="1.93" Az="30.70" Pte="-5.10" Ref="931"/>
+			<Visee Dep="C22" Long="0.46" Az="225.00" Pte="87.20" Ref="931"/>
+			<Visee Dep="C22" Long="0.54" Az="14.40" Pte="-70.90" Ref="931"/>
+			<Visee Dep="C22" Arr="CB1" Long="4.74" Az="329.40" Pte="17.60" G="1.07" D="1.50" H="0.76" B="0.49" Ref="931" Suiv="941">
+				<Commentaire>Carrefour, Point marqué</Commentaire>
+			</Visee>
+			<Visee Dep="CB1" Long="1.27" Az="212.20" Pte="19.10" Ref="936"/>
+			<Visee Dep="CB1" Long="0.51" Az="38.20" Pte="13.70" Ref="936"/>
+			<Visee Dep="CB1" Long="0.76" Az="152.60" Pte="86.10" Ref="936"/>
+			<Visee Dep="CB1" Long="0.51" Az="218.30" Pte="-72.50" Ref="936"/>
+			<Visee Dep="CB1" Arr="CB2" Long="7.87" Az="291.30" Pte="35.30" G="0.70" D="1.00" H="0.55" B="0.30" Ref="936" Suiv="946"/>
+			<Visee Dep="CB2" Long="0.66" Az="227.20" Pte="27.50" Ref="941"/>
+			<Visee Dep="CB2" Long="1.89" Az="9.20" Pte="3.20" Ref="941"/>
+			<Visee Dep="CB2" Long="0.58" Az="196.30" Pte="70.50" Ref="941"/>
+			<Visee Dep="CB2" Long="0.31" Az="5.70" Pte="-76.40" Ref="941"/>
+			<Visee Dep="CB2" Arr="CB3" Long="4.85" Az="274.00" Pte="48.50" G="0.50" D="1.89" H="0.53" B="0.33" Ref="941" Suiv="947">
+				<Commentaire>CA souffant (mode hivers) le 24/11/2021 Suite imp....</Commentaire>
+			</Visee>
+			<Visee Dep="CB3" Arr="CB3bis" Long="0.00" Az="0.00" Pte="0.00" G="0.95" D="0.63" H="0.53" B="0.33" Ref="946"/>
+			<Visee Dep="CB3" Long="0.95" Az="170.00" Pte="0.20" Ref="946"/>
+			<Visee Dep="CB3" Long="0.63" Az="1.60" Pte="1.60" Ref="946"/>
+			<Visee Dep="CB3" Long="0.53" Az="202.40" Pte="81.40" Ref="946"/>
+			<Visee Dep="CB3" Long="0.33" Az="290.90" Pte="-86.60" Ref="946"/>
+			<Visee Dep="C22" Long="1.29" Az="146.70" Pte="7.20" Ref="931"/>
+			<Visee Dep="C22" Long="0.67" Az="253.00" Pte="28.20" Ref="931"/>
+			<Visee Dep="C22" Long="0.47" Az="180.00" Pte="87.30" Ref="931"/>
+			<Visee Dep="C22" Long="0.34" Az="121.80" Pte="-81.10" Ref="931"/>
+			<Visee Dep="C22" Arr="C23" Long="4.34" Az="207.20" Pte="21.20" G="1.29" D="1.00" H="0.47" B="0.34" Ref="931" Suiv="957">
+				<Commentaire>CA souffant (mode hivers) le 24/11/2021 Arrêt chatière étroite...</Commentaire>
+			</Visee>
+			<Visee Dep="C23" Arr="C23bis" Long="0.00" Az="0.00" Pte="0.00" G="0.30" D="0.30" H="0.10" B="0.10" Ref="956"/>
+		</Param>
+		<Param InstrDist="Deca" UnitDir="Gra" InstrPte="Clino" UnitPte="Gra" Declin="2.3016" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Dep" Coul="Std" Date="05/09/2022" DeclinAuto="A">
+			<Commentaire>Le 05/ 09/2022 Guy Lamure &amp; Alex... Topo de surface, le réseau siphone. Topo eTopo015 Gr/Gr</Commentaire>
+			<Visee Dep="EXT0" Arr="EXT1" Long="3.08" Az="153.20" Pte="6.20" Exc="EE" Ref="960" InvV1V2="1">
+				<Commentaire>Point EXT0 pointé GPS</Commentaire>
+			</Visee>
+			<Visee Arr="EXT2" Long="9.83" Az="136.80" Pte="-14.80" Exc="EE" Ref="961" Suiv="959" InvV1V2="1">
+				<Commentaire>Spit  entrée Grotte Laffaille</Commentaire>
+			</Visee>
+			<Visee Arr="EXT3" Long="2.01" Az="136.70" Pte="-88.90" Exc="EE" Ref="962" Suiv="960" InvV1V2="1">
+				<Commentaire>Seuil déversoir sous spit entrée Laffaille</Commentaire>
+			</Visee>
+			<Visee Arr="EXT4" Long="7.90" Az="225.40" Pte="8.80" Exc="EE" Ref="963" Suiv="961" InvV1V2="1"/>
+			<Visee Arr="EXT5" Long="7.50" Az="153.30" Pte="-23.10" Exc="EE" Ref="964" Suiv="962" InvV1V2="1"/>
+			<Visee Arr="L6" Long="9.26" Az="265.60" Pte="29.60" Exc="EE" Ref="114" Suiv="963" InvV1V2="1">
+				<Commentaire>Raccord point L6 (seuil déversoir au dessus du siphon de la grotte Laffaille)</Commentaire>
+			</Visee>
+			<Visee Dep="EXTB2" Arr="EXT0" Long="7.37" Az="82.70" Pte="-32.70" Exc="EE" Ref="966">
+				<Commentaire>Vers Jallier</Commentaire>
+			</Visee>
+			<Visee Dep="EXTB2" Arr="EXTB3" Long="5.77" Az="298.50" Pte="26.90" Exc="EE" Ref="967" Suiv="965" InvV1V2="1"/>
+			<Visee Arr="EXTB4" Long="3.87" Az="364.90" Pte="-46.50" Exc="EE" Ref="968" Suiv="966" InvV1V2="1"/>
+			<Visee Arr="EXTB5" Long="6.93" Az="349.60" Pte="-29.80" Exc="EE" Ref="969" Suiv="967" InvV1V2="1"/>
+			<Visee Arr="EXTB6" Long="6.65" Az="242.80" Pte="31.50" Exc="EE" Ref="974" Suiv="968" InvV1V2="1">
+				<Commentaire>B6 Point Marqué, entrée Grotte Jallier</Commentaire>
+			</Visee>
+			<Visee Arr="EXTB7" Long="4.45" Az="208.70" Pte="13.30" Exc="EE" Ref="974" Suiv="971">
+				<Commentaire>Sur bloc</Commentaire>
+			</Visee>
+			<Visee Arr="EXTB8" Long="3.27" Az="196.40" Pte="8.70" Exc="EE" Ref="970" Suiv="972">
+				<Commentaire>Sur bloc</Commentaire>
+			</Visee>
+			<Visee Arr="EXTB9" Long="5.32" Az="211.50" Pte="-0.10" Exc="EE" Ref="971"/>
+			<Visee Dep="EXTB6" Arr="EXTC1" Long="6.75" Az="338.70" Pte="23.70" Exc="EE" Ref="974">
+				<Commentaire>Point GPS C1</Commentaire>
+			</Visee>
+			<Visee Dep="EXTB6" Arr="00" Long="0.00" Az="0.00" Pte="0.00" Exc="EE" Ref="7" Suiv="973" InvV1V2="1"/>
+			<Visee Dep="EXTB3" Arr="EXTD1" Long="5.95" Az="271.20" Pte="79.40" Exc="EE" Ref="967" Suiv="976"/>
+			<Visee Arr="EXTD2" Long="7.10" Az="291.70" Pte="29.10" Exc="EE" Ref="975" Suiv="977"/>
+			<Visee Arr="EXTD3" Long="5.84" Az="345.20" Pte="16.50" Exc="EE" Ref="976" Suiv="978"/>
+			<Visee Arr="EXTD4" Long="6.77" Az="323.30" Pte="23.10" Exc="EE" Ref="977" Suiv="979"/>
+			<Visee Arr="EXTD5" Long="4.95" Az="297.90" Pte="55.00" Exc="EE" Ref="978" Suiv="980"/>
+			<Visee Arr="EXTD6" Long="4.15" Az="286.70" Pte="43.00" Exc="EE" Ref="979" Suiv="981"/>
+			<Visee Arr="EXTD7" Long="5.60" Az="281.40" Pte="56.50" Exc="EE" Ref="980" Suiv="982"/>
+			<Visee Arr="EXTD8" Long="4.35" Az="162.30" Pte="18.80" Exc="EE" Ref="981" Suiv="983">
+				<Commentaire>EXTD8 Entrée baume sup, sur spit, marqué en rouge</Commentaire>
+			</Visee>
+			<Visee Dep="EXTD8" Arr="BaumeE0" Long="0.00" Az="237.00" Pte="2.30" Exc="E" Ref="982" Suiv="984">
+				<Commentaire>Baume sur le chemin de la descente...</Commentaire>
+			</Visee>
+			<Visee Arr="BaumeE1" Long="4.28" Az="237.60" Pte="2.30" G="0.00" D="5.50" H="1.50" B="1.20" Exc="E" Ref="983" Suiv="985"/>
+			<Visee Arr="BaumeE2" Long="4.04" Az="129.90" Pte="-13.90" G="2.00" D="1.60" H="1.00" B="0.80" Exc="E" Ref="984" Suiv="986"/>
+			<Visee Arr="BaumeE3" Long="1.57" Az="218.50" Pte="-19.50" G="0.20" D="1.10" H="0.80" B="0.10" Exc="E" Ref="985" Suiv="987"/>
+			<Visee Arr="BaumeE4" Long="3.52" Az="210.40" Pte="-1.90" G="0.25" D="0.60" H="0.40" B="0.10" Exc="E" Ref="986" Suiv="988">
+				<Commentaire>Désob</Commentaire>
+			</Visee>
+			<Visee Arr="BaumeE5" Long="0.00" Az="210.40" Pte="-1.90" G="0.20" D="0.40" H="0.30" B="0.10" Exc="E" Ref="987"/>
+			<Visee Dep="EXTD7" Arr="EXTF1" Long="5.11" Az="347.90" Pte="7.70" Exc="EE" Ref="981"/>
+		</Param>
+	</Mesures>
+	<Configuration>
+		<Application Position="2,3,-1,-1,-1,-1,322,99,1762,971">
+			<Toolbar>1</Toolbar>
+			<Statusbar>1</Statusbar>
+			<Commentaires>1</Commentaires>
+		</Application>
+		<Calcul Position="2,3,-1,-1,-10,-42,801,0,1276,1054">
+			<Entree0>1</Entree0>
+			<Bissectrices>1</Bissectrices>
+			<Perpendiculaires>0</Perpendiculaires>
+			<Hauteurs>1</Hauteurs>
+			<Boucles>1</Boucles>
+			<Controles>1</Controles>
+			<Nord>2</Nord>
+			<Commentaires>0</Commentaires>
+			<Calcul>1</Calcul>
+			<Active>1</Active>
+		</Calcul>
+		<ExportDxf>
+			<Topo>0</Topo>
+			<Equidistance>100</Equidistance>
+			<Theta>0</Theta>
+			<Phi>0</Phi>
+			<Cheminement Couleur="1">1</Cheminement>
+			<Points Couleur="6">1</Points>
+			<Stations Couleur="7">1</Stations>
+			<Largeurs Couleur="4">1</Largeurs>
+			<Hauteurs Couleur="4">0</Hauteurs>
+			<ContoursLargeurs Couleur="3">0</ContoursLargeurs>
+			<ContoursHauteurs Couleur="3">0</ContoursHauteurs>
+			<Profondeurs Couleur="2">0</Profondeurs>
+			<Echelle Couleur="7">1</Echelle>
+			<Quadrillage Couleur="9">0</Quadrillage>
+			<Radiales Couleur="9">1</Radiales>
+			<Contours3D Couleur="3">0</Contours3D>
+		</ExportDxf>
+		<ExportSvg>
+			<Topo>0</Topo>
+			<Equidistance>100</Equidistance>
+			<Theta>0</Theta>
+			<Phi>0</Phi>
+			<Cheminement Couleur="165,42,0">1</Cheminement>
+			<Points Couleur="127,127,127">1</Points>
+			<Stations Couleur="0,0,255">1</Stations>
+			<Largeurs Couleur="0,147,0">1</Largeurs>
+			<Hauteurs Couleur="0,147,0">0</Hauteurs>
+			<ContoursLargeurs Couleur="0,0,139">0</ContoursLargeurs>
+			<ContoursHauteurs Couleur="0,0,139">0</ContoursHauteurs>
+			<Profondeurs Couleur="255,0,0">1</Profondeurs>
+			<Echelle Couleur="0,0,0">1</Echelle>
+			<Quadrillage Couleur="127,127,127">0</Quadrillage>
+			<Radiales Couleur="60,179,113">1</Radiales>
+			<Remplissage Couleur="255,173,91">0</Remplissage>
+			<Fond Couleur="192,192,192">0</Fond>
+			<Contours3D Couleur="0,0,139">0</Contours3D>
+		</ExportSvg>
+		<ExportKml>
+			<TypeCouleur>3</TypeCouleur>
+			<TypeKml>1</TypeKml>
+			<Altitudes>0</Altitudes>
+		</ExportKml>
+		<ExportShp>
+			<Coordonnees>0</Coordonnees>
+			<TypeFichier>0</TypeFichier>
+			<Forme3D>0</Forme3D>
+		</ExportShp>
+		<Colonnes>
+			<Départ>85</Départ>
+			<Arrivée>85</Arrivée>
+			<DepTopofil>70</DepTopofil>
+			<ArrTopofil>70</ArrTopofil>
+			<Longueur>70</Longueur>
+			<Azimut>70</Azimut>
+			<Pente>70</Pente>
+			<Gauche>70</Gauche>
+			<Droite>70</Droite>
+			<Haut>70</Haut>
+			<Bas>70</Bas>
+			<Inverse>15</Inverse>
+			<Exclusion>20</Exclusion>
+			<Detail>15</Detail>
+			<Section>15</Section>
+			<ComPhot>30</ComPhot>
+			<Separ1>0</Separ1>
+			<X>70</X>
+			<Y>70</Y>
+			<Z>70</Z>
+			<LDev>70</LDev>
+			<Dist>70</Dist>
+			<Separ2>0</Separ2>
+			<Commentaire>0</Commentaire>
+			<Photo>0</Photo>
+		</Colonnes>
+		<Rendu3D Position="1,1,-1,-1,-10,-42,1276,0,1914,1054">
+			<Cheminement>0</Cheminement>
+			<Points>0</Points>
+			<Stations>0</Stations>
+			<Largeurs>0</Largeurs>
+			<ContoursLargeurs>0</ContoursLargeurs>
+			<Hauteurs>0</Hauteurs>
+			<ContoursHauteurs>0</ContoursHauteurs>
+			<Cube>0</Cube>
+			<Contours3D>1</Contours3D>
+			<Epaisseurs>0</Epaisseurs>
+			<Echelle>0</Echelle>
+			<Zoom>0</Zoom>
+			<Maillage>0</Maillage>
+			<Courbes>0</Courbes>
+			<Profondeurs>0</Profondeurs>
+			<Marqueurs>0</Marqueurs>
+			<Radiales>0</Radiales>
+			<Remplissage>0</Remplissage>
+			<Exclues>0</Exclues>
+			<Dilatation>1.00</Dilatation>
+			<TypeCouleur>0</TypeCouleur>
+			<TypeProjection>1</TypeProjection>
+			<Forme>0</Forme>
+			<Style>6914</Style>
+			<Active>0</Active>
+		</Rendu3D>
+		<Plan Position="0,2,0,897,-10,-42,70,70,1710,724">
+			<Cheminement>1</Cheminement>
+			<Points>1</Points>
+			<Stations>1</Stations>
+			<Largeurs>0</Largeurs>
+			<ContoursLargeurs>0</ContoursLargeurs>
+			<Hauteurs>0</Hauteurs>
+			<ContoursHauteurs>0</ContoursHauteurs>
+			<Cube>0</Cube>
+			<Contours3D>0</Contours3D>
+			<Epaisseurs>0</Epaisseurs>
+			<Echelle>1</Echelle>
+			<Zoom>1</Zoom>
+			<Maillage>0</Maillage>
+			<Courbes>0</Courbes>
+			<Profondeurs>1</Profondeurs>
+			<Marqueurs>1</Marqueurs>
+			<Radiales>1</Radiales>
+			<Remplissage>0</Remplissage>
+			<Exclues>0</Exclues>
+			<Dilatation>1.00</Dilatation>
+			<Equidistance>25</Equidistance>
+			<Quadrillage>0</Quadrillage>
+			<TypeCouleur>0</TypeCouleur>
+			<DateMin>0</DateMin>
+			<DateMax>0</DateMax>
+			<Impression>
+				<Type>0</Type>
+				<Pages>1</Pages>
+				<Echelle>0</Echelle>
+			</Impression>
+			<Active>0</Active>
+		</Plan>
+	</Configuration>
+</VisualTopo>

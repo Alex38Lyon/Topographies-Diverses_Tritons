@@ -1,0 +1,28 @@
+encoding  utf-8
+ 
+ #input layout.th
+ 
+ survey main \
+   -title "Grotte Roche Garot (Cornod 39)" \
+   
+#   input dessins/Roche_Garot-p.th2
+   input dessins/Roche_Garot-Entree-p.th2
+   
+   input data/Roche_Garot_Entree.th
+
+   centerline
+
+   endcenterline
+ 
+   map MP_RGarot -title "Grotte de Roche Garot (Cornod 39)"
+     scrap2
+#preview below chamb
+   endmap
+ 
+#   map chamb -title "End Chamber"
+#     scrap2
+#     preview above entr
+#   endmap
+ 
+ endsurvey
+ 

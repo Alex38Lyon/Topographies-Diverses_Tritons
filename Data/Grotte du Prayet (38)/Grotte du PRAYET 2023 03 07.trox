@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VisualTopo>
+	<Version>5.20</Version>
+	<Verification>1</Verification>
+	<Lignes>66</Lignes>
+	<Cavite>
+		<Nom>Grotte du PRAYET (38)</Nom>
+		<Coordonnees X="724.24900" Y="5023.61900" Z="1487.00" Projection="UTM31"/>
+		<Club>Alex / Clan des Tritons Lyon</Club>
+		<Entree>00</Entree>
+		<Toporobot>0</Toporobot>
+		<Couleur>0,0,0</Couleur>
+	</Cavite>
+	<Mesures>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="0.0000" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Arr" Coul="0,0,0" DeclinAuto="M">
+			<Commentaire>DistoX Alex Calibré 2023 03 06 - Participants Guy L, Arigitte A, Alex</Commentaire>
+			<Photo>C:\Users\alexa\Desktop\Grotte du Prayet 2023_03_07\20230307_114610.jpg</Photo>
+			<Visee Dep="00" Arr="00" Long="0.00" Az="0.00" Pte="0.00" G="3.72" D="1.44" H="3.98" B="0.57" Ref="1" Suiv="2">
+				<Commentaire>Entrée disto Alex</Commentaire>
+			</Visee>
+			<Visee Dep="00" Arr="ENT1" Long="12.52" Az="39.50" Pte="-1.10" G="2.06" D="16.43" H="6.16" B="2.31" Ref="1" Suiv="7">
+				<Commentaire>Entrée disto Alex</Commentaire>
+			</Visee>
+			<Visee Dep="00" Long="2.00" Az="353.20" Pte="-5.70" Ref="1"/>
+			<Visee Dep="00" Long="4.26" Az="146.50" Pte="24.10" Ref="1"/>
+			<Visee Dep="00" Long="4.15" Az="92.10" Pte="73.60" Ref="1"/>
+			<Visee Dep="00" Long="0.57" Az="147.40" Pte="-86.10" Ref="1"/>
+			<Visee Dep="ENT1" Arr="ENT2" Long="6.74" Az="41.00" Pte="-2.50" G="2.07" D="15.77" H="4.06" B="1.97" Ref="2" Suiv="16"/>
+			<Visee Dep="ENT1" Long="3.15" Az="322.90" Pte="47.80" Ref="2"/>
+			<Visee Dep="ENT1" Long="18.47" Az="145.20" Pte="23.00" Ref="2"/>
+			<Visee Dep="ENT1" Long="6.26" Az="100.90" Pte="79.60" Ref="2"/>
+			<Visee Dep="ENT1" Long="2.33" Az="104.10" Pte="-82.00" Ref="2"/>
+			<Visee Dep="ENT2" Long="2.24" Az="319.90" Pte="22.40" Ref="7"/>
+			<Visee Dep="ENT2" Long="16.18" Az="132.10" Pte="7.70" Ref="7"/>
+			<Visee Dep="ENT2" Long="4.11" Az="83.80" Pte="80.70" Ref="7"/>
+			<Visee Dep="ENT2" Long="1.99" Az="100.90" Pte="-82.20" Ref="7"/>
+			<Visee Dep="ENT2" Arr="ENT3" Long="9.26" Az="64.20" Pte="-27.30" G="2.64" D="7.92" H="2.59" B="0.60" Ref="7" Suiv="21"/>
+			<Visee Dep="ENT3" Long="2.66" Az="339.20" Pte="5.80" Ref="16"/>
+			<Visee Dep="ENT3" Long="8.57" Az="134.10" Pte="5.60" Ref="16"/>
+			<Visee Dep="ENT3" Long="2.61" Az="78.20" Pte="82.60" Ref="16"/>
+			<Visee Dep="ENT3" Long="0.61" Az="290.30" Pte="-81.60" Ref="16"/>
+			<Visee Dep="ENT3" Arr="ENT4" Long="7.33" Az="67.50" Pte="-0.10" G="1.40" D="6.58" H="0.92" B="1.12" Ref="16" Suiv="26">
+				<Commentaire>bas grotte</Commentaire>
+			</Visee>
+			<Visee Dep="ENT4" Long="1.52" Az="3.20" Pte="10.10" Ref="21"/>
+			<Visee Dep="ENT4" Long="7.83" Az="171.40" Pte="4.80" Ref="21"/>
+			<Visee Dep="ENT4" Long="0.92" Az="201.20" Pte="85.70" Ref="21"/>
+			<Visee Dep="ENT4" Long="1.12" Az="62.80" Pte="-87.80" Ref="21"/>
+			<Visee Dep="ENT4" Arr="ENT5" Long="5.35" Az="160.40" Pte="-0.00" G="1.30" D="7.29" H="2.55" B="0.27" Ref="21" Suiv="31"/>
+			<Visee Dep="ENT5" Long="1.99" Az="145.40" Pte="24.90" Ref="26"/>
+			<Visee Dep="ENT5" Long="8.12" Az="307.40" Pte="0.90" Ref="26"/>
+			<Visee Dep="ENT5" Long="2.57" Az="262.50" Pte="83.40" Ref="26"/>
+			<Visee Dep="ENT5" Long="0.27" Az="269.10" Pte="-84.40" Ref="26"/>
+			<Visee Dep="ENT5" Arr="ENT6" Long="11.26" Az="222.10" Pte="17.30" G="4.66" D="13.75" H="8.27" B="0.72" Ref="26" Suiv="36"/>
+			<Visee Dep="ENT6" Long="5.27" Az="91.10" Pte="25.10" Ref="31"/>
+			<Visee Dep="ENT6" Long="13.96" Az="279.50" Pte="9.20" Ref="31"/>
+			<Visee Dep="ENT6" Long="8.55" Az="281.00" Pte="75.20" Ref="31"/>
+			<Visee Dep="ENT6" Long="0.73" Az="319.80" Pte="-78.60" Ref="31"/>
+			<Visee Dep="ENT6" Arr="ENT7" Long="8.48" Az="164.70" Pte="34.90" G="0.18" D="17.75" H="0.80" B="1.57" Ref="31" Suiv="41"/>
+			<Visee Dep="ENT7" Long="0.19" Az="108.90" Pte="18.40" Ref="36"/>
+			<Visee Dep="ENT7" Long="17.77" Az="285.50" Pte="1.70" Ref="36"/>
+			<Visee Dep="ENT7" Long="0.81" Az="244.80" Pte="83.50" Ref="36"/>
+			<Visee Dep="ENT7" Long="1.59" Az="200.40" Pte="-81.90" Ref="36"/>
+			<Visee Dep="ENT7" Arr="ENT8" Long="12.58" Az="222.40" Pte="6.60" G="2.32" D="3.34" H="0.88" B="0.37" Ref="36" Suiv="46">
+				<Commentaire>départ galerie</Commentaire>
+			</Visee>
+			<Visee Dep="ENT8" Long="2.32" Az="120.30" Pte="3.00" Ref="41"/>
+			<Visee Dep="ENT8" Long="3.53" Az="279.40" Pte="-3.00" Ref="41"/>
+			<Visee Dep="ENT8" Long="0.93" Az="218.60" Pte="71.60" Ref="41"/>
+			<Visee Dep="ENT8" Long="0.37" Az="291.80" Pte="-85.80" Ref="41"/>
+			<Visee Dep="ENT8" Arr="G1" Long="6.12" Az="193.70" Pte="-27.90" G="3.37" D="2.85" H="0.85" B="0.78" Ref="41" Suiv="51"/>
+			<Visee Dep="G1" Long="3.40" Az="104.10" Pte="-6.60" Ref="46"/>
+			<Visee Dep="G1" Long="3.16" Az="271.70" Pte="-21.10" Ref="46"/>
+			<Visee Dep="G1" Long="0.86" Az="229.20" Pte="81.20" Ref="46"/>
+			<Visee Dep="G1" Long="0.78" Az="48.00" Pte="-84.00" Ref="46"/>
+			<Visee Dep="G1" Arr="G2" Long="7.19" Az="199.00" Pte="-24.20" G="3.41" D="1.77" H="2.08" B="1.26" Ref="46">
+				<Commentaire>fin galerie annexe, eau et racines</Commentaire>
+			</Visee>
+			<Visee Dep="G2" Long="3.55" Az="93.90" Pte="-6.50" Ref="51"/>
+			<Visee Dep="G2" Long="2.31" Az="249.60" Pte="7.60" Ref="51"/>
+			<Visee Dep="G2" Long="2.13" Az="158.90" Pte="77.60" Ref="51"/>
+			<Visee Dep="G2" Long="1.26" Az="128.50" Pte="-88.40" Ref="51"/>
+			<Visee Dep="ENT8" Long="3.43" Az="259.00" Pte="-10.00" Ref="41"/>
+			<Visee Dep="ENT8" Long="2.08" Az="85.30" Pte="4.70" Ref="41"/>
+			<Visee Dep="ENT8" Long="0.96" Az="210.30" Pte="61.30" Ref="41"/>
+			<Visee Dep="ENT8" Long="1.22" Az="153.20" Pte="-81.80" Ref="41"/>
+			<Visee Dep="ENT8" Arr="ENT9" Long="7.74" Az="305.10" Pte="-9.50" G="3.74" D="12.49" H="3.81" B="1.08" Ref="41" Suiv="65"/>
+			<Visee Dep="ENT9" Long="3.75" Az="203.30" Pte="2.30" Ref="60"/>
+			<Visee Dep="ENT9" Long="14.41" Az="358.10" Pte="-4.20" Ref="60"/>
+			<Visee Dep="ENT9" Long="3.87" Az="303.40" Pte="79.50" Ref="60"/>
+			<Visee Dep="ENT9" Long="1.09" Az="107.70" Pte="-82.00" Ref="60"/>
+			<Visee Dep="ENT9" Arr="00" Long="8.34" Az="290.40" Pte="-23.30" G="0.00" D="0.00" H="0.00" B="0.00" Ref="60">
+				<Commentaire>Fermeture de la boucle : 00</Commentaire>
+			</Visee>
+		</Param>
+	</Mesures>
+	<Configuration>
+		<Application Position="2,3,-1,-1,-1,-1,57,0,1048,1052">
+			<Toolbar>1</Toolbar>
+			<Statusbar>1</Statusbar>
+			<Commentaires>1</Commentaires>
+		</Application>
+		<Calcul Position="2,3,-1,-1,-10,-42,653,226,1340,832">
+			<Entree0>1</Entree0>
+			<Bissectrices>1</Bissectrices>
+			<Perpendiculaires>0</Perpendiculaires>
+			<Hauteurs>1</Hauteurs>
+			<Boucles>1</Boucles>
+			<Controles>1</Controles>
+			<Nord>2</Nord>
+			<Commentaires>0</Commentaires>
+			<Calcul>1</Calcul>
+			<Active>1</Active>
+		</Calcul>
+		<ExportDxf>
+			<Topo>0</Topo>
+			<Equidistance>100</Equidistance>
+			<Theta>0</Theta>
+			<Phi>0</Phi>
+			<Cheminement Couleur="1">1</Cheminement>
+			<Points Couleur="6">1</Points>
+			<Stations Couleur="7">1</Stations>
+			<Largeurs Couleur="4">1</Largeurs>
+			<Hauteurs Couleur="4">0</Hauteurs>
+			<ContoursLargeurs Couleur="3">0</ContoursLargeurs>
+			<ContoursHauteurs Couleur="3">0</ContoursHauteurs>
+			<Profondeurs Couleur="2">0</Profondeurs>
+			<Echelle Couleur="7">1</Echelle>
+			<Quadrillage Couleur="9">0</Quadrillage>
+			<Radiales Couleur="9">1</Radiales>
+			<Contours3D Couleur="3">0</Contours3D>
+		</ExportDxf>
+		<ExportSvg>
+			<Topo>0</Topo>
+			<Equidistance>100</Equidistance>
+			<Theta>0</Theta>
+			<Phi>0</Phi>
+			<Cheminement Couleur="165,42,0">1</Cheminement>
+			<Points Couleur="127,127,127">1</Points>
+			<Stations Couleur="0,0,255">1</Stations>
+			<Largeurs Couleur="0,147,0">1</Largeurs>
+			<Hauteurs Couleur="0,147,0">0</Hauteurs>
+			<ContoursLargeurs Couleur="0,0,139">0</ContoursLargeurs>
+			<ContoursHauteurs Couleur="0,0,139">0</ContoursHauteurs>
+			<Profondeurs Couleur="255,0,0">1</Profondeurs>
+			<Echelle Couleur="0,0,0">1</Echelle>
+			<Quadrillage Couleur="127,127,127">0</Quadrillage>
+			<Radiales Couleur="60,179,113">1</Radiales>
+			<Remplissage Couleur="255,173,91">0</Remplissage>
+			<Fond Couleur="192,192,192">0</Fond>
+			<Contours3D Couleur="0,0,139">0</Contours3D>
+		</ExportSvg>
+		<ExportKml>
+			<TypeCouleur>0</TypeCouleur>
+			<TypeKml>1</TypeKml>
+			<Altitudes>0</Altitudes>
+		</ExportKml>
+		<ExportShp>
+			<Coordonnees>0</Coordonnees>
+			<TypeFichier>0</TypeFichier>
+			<Forme3D>0</Forme3D>
+		</ExportShp>
+		<Colonnes>
+			<Départ>85</Départ>
+			<Arrivée>85</Arrivée>
+			<DepTopofil>70</DepTopofil>
+			<ArrTopofil>70</ArrTopofil>
+			<Longueur>70</Longueur>
+			<Azimut>70</Azimut>
+			<Pente>70</Pente>
+			<Gauche>70</Gauche>
+			<Droite>70</Droite>
+			<Haut>70</Haut>
+			<Bas>70</Bas>
+			<Inverse>15</Inverse>
+			<Exclusion>20</Exclusion>
+			<Detail>15</Detail>
+			<Section>15</Section>
+			<ComPhot>30</ComPhot>
+			<Separ1>0</Separ1>
+			<X>70</X>
+			<Y>70</Y>
+			<Z>70</Z>
+			<LDev>70</LDev>
+			<Dist>70</Dist>
+			<Separ2>0</Separ2>
+			<Commentaire>0</Commentaire>
+			<Photo>0</Photo>
+		</Colonnes>
+		<Plan Position="0,1,-1,-1,-10,-42,70,70,1640,774">
+			<Cheminement>1</Cheminement>
+			<Points>0</Points>
+			<Stations>0</Stations>
+			<Largeurs>0</Largeurs>
+			<ContoursLargeurs>0</ContoursLargeurs>
+			<Hauteurs>0</Hauteurs>
+			<ContoursHauteurs>0</ContoursHauteurs>
+			<Cube>0</Cube>
+			<Contours3D>0</Contours3D>
+			<Epaisseurs>0</Epaisseurs>
+			<Echelle>1</Echelle>
+			<Zoom>1</Zoom>
+			<Maillage>0</Maillage>
+			<Courbes>0</Courbes>
+			<Profondeurs>0</Profondeurs>
+			<Marqueurs>1</Marqueurs>
+			<Radiales>1</Radiales>
+			<Remplissage>0</Remplissage>
+			<Exclues>0</Exclues>
+			<Dilatation>1.00</Dilatation>
+			<Equidistance>25</Equidistance>
+			<Quadrillage>0</Quadrillage>
+			<TypeCouleur>0</TypeCouleur>
+			<DateMin>0</DateMin>
+			<DateMax>0</DateMax>
+			<Impression>
+				<Type>0</Type>
+				<Pages>1</Pages>
+				<Echelle>0</Echelle>
+			</Impression>
+			<Active>0</Active>
+		</Plan>
+		<Plan Position="0,1,-1,-1,-10,-42,70,70,1640,774">
+			<Cheminement>1</Cheminement>
+			<Points>0</Points>
+			<Stations>0</Stations>
+			<Largeurs>0</Largeurs>
+			<ContoursLargeurs>0</ContoursLargeurs>
+			<Hauteurs>0</Hauteurs>
+			<ContoursHauteurs>0</ContoursHauteurs>
+			<Cube>0</Cube>
+			<Contours3D>0</Contours3D>
+			<Epaisseurs>0</Epaisseurs>
+			<Echelle>1</Echelle>
+			<Zoom>1</Zoom>
+			<Maillage>0</Maillage>
+			<Courbes>0</Courbes>
+			<Profondeurs>0</Profondeurs>
+			<Marqueurs>1</Marqueurs>
+			<Radiales>1</Radiales>
+			<Remplissage>0</Remplissage>
+			<Exclues>0</Exclues>
+			<Dilatation>1.00</Dilatation>
+			<Equidistance>25</Equidistance>
+			<Quadrillage>0</Quadrillage>
+			<TypeCouleur>0</TypeCouleur>
+			<DateMin>0</DateMin>
+			<DateMax>0</DateMax>
+			<Impression>
+				<Type>0</Type>
+				<Pages>1</Pages>
+				<Echelle>0</Echelle>
+			</Impression>
+			<Active>0</Active>
+		</Plan>
+	</Configuration>
+</VisualTopo>
