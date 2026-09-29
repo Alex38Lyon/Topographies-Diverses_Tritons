@@ -39,7 +39,7 @@ cs UTM30
 source Praletang-tot.th
 
 ## Add config file
-# input config.thc
+input config.thc
 
 
 ###############################################################################################
@@ -408,7 +408,7 @@ endlayout
 
 ## Export du fichier 3d pour Loch
 	export model -enable all -o Outputs/Praletang.lox
-	# export model -enable all -o Outputs/Praletang.kml
+	export model -enable all -o Outputs/Praletang.kml
 	# export model -enable all -o Outputs/Praletang.plt
 
 ## Export des fichiers ESRI
