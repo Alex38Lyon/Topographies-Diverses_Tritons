@@ -1,31 +1,31 @@
 encoding utf-8
 # 2026.09.29 created by TopoDroid 6.4.102
 
-survey Praletang -title "Grotte de Praletang"
+survey Praletang -title "Grotte de Prélétang"
 
   centerline
     date 2026.09.29 
 	 
 	 cs long-lat
     fix 0 5.423477 45.089076 1241  # Pointage Alex +/- 5m 
-	 station 0 "Grotte de Praletang" entrance
+	 station 0 "Grotte de Prélétang" entrance
 	 
 	 team "Serge Caillault"
 	 team "Jean-Philippe Grandcolas"
 	 team "Alexandre Pont"
 	 
 	 explo-date 2026
-	 explo-team "Clan\des Tritons"
+	 explo-team "Clan/des Tritons"
 	 
-	 explo-team "G.S.\des Coulmes"
-	 explo-team "Groupes\des Cyclopes"
+	 explo-team "G.S./des Coulmes"
+	 explo-team "Groupes/des Cyclopes"
 	 
 	 
     units length meter
     units compass clino degree
     data normal from to length compass clino
 	 
-     extend left
+    extend left
     0 . 2.10 89.4 5.7
     0 . 3.73 171.5 -0.3
     0 . 4.08 210.7 -2.0
@@ -623,7 +623,7 @@ survey Praletang -title "Grotte de Praletang"
     25 . 0.38 98.2 45.2
     25 . 0.96 69.9 -73.3
     25 . 1.27 116.0 -15.4
- 
+	 extend right
     25 26 1.78 119.2 -5.9
      
     26 . 0.29 32.3 50.1
@@ -655,7 +655,8 @@ survey Praletang -title "Grotte de Praletang"
     28 . 0.68 141.3 -70.5
 
     28 29 2.23 91.4 -14.2 # Arrêt topo dans cette branche, encore 20m belle désob
-   
+    
+	 extend left
     24 30 12.11 230.7 1.6
      
     30 . 2.65 160.9 1.8

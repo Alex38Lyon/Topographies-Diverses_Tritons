@@ -36,7 +36,7 @@ encoding  utf-8
 
 cs UTM30
 
-source Praletang-tot.th
+source Preletang-tot.th
 
 ## Add config file
 input config.thc
@@ -68,23 +68,23 @@ layout layout-Plan
 	## après avoir dessiné la topo sur un cheminement exporté avec le layout "xviexport".
 	## Jouer avec le ration base-scale/scale permet de jouer globalement sur les tailles
 	## des caractères et des traits.
-	base-scale 1 1000
+	base-scale 1 550
 	
 	## Maintenant on va mettre une ligne "scale" pour spécifier l'échelle pour imprimer la topo.
 	## La combinaison entre scale et base-scale contrôle l'épaisseur des lignes, rotation, etc, convenable
 	## pour faire l'ampliation-réduction entre dessin et le résultat de l'imprimante
 	## C'est très important s'assurer que la configuration de l'imprimante ne spécifie pas l'option "Fit in page"
 	## ou similaire, sinon, l'échelle sera changée pendant l'impression!
-	scale 1 1000
+	scale 1 250
 	
 	## Échelle graphique 100 m ampleur (Généralement, le choix scale/10 est plutôt pas mal)
-	scale-bar 100 m
+	scale-bar 50 m
 	
 	## Voici une ligne pour spécifier qu'il faut imprimer une grille au dessous de la topo
-	grid bottom
+	grid off
 	
 	## Défini la rotation de la topographie
-	#rotate -65
+	rotate -90
 	
 	## Une ligne pour spécifier que la grille est 1000x1000x1000 m
 	## (Trois dimensions, oui, ça sert pour la coupe aussi)
@@ -112,9 +112,9 @@ layout layout-Plan
 	
 	## Auteur, titre du pdf
 	doc-author "Alexandre Pont"
-	doc-title "Praletang Plan - 1:1000"
-	doc-subject  "Praletang, topographie en plan"
-	doc-keywords "Cave, Survey, Praletang, Massif du Vercors"
+	doc-title "La grotte de Prélétang (Presles, Isère) Plan"
+	doc-subject  "Prélétang, topographie en plan"
+	doc-keywords "Cave, Survey, La grotte de Prélétang (Presles, Isère), Massif du Vercors"
 	
 	## Maintenant on spécifie la position de la manchette, dont l'intérieur est occupé par le titre, auteurs, etc.
 	## Nous pouvons indiquer les cordonnées du point de la topo ou l'on veut la manchette :
@@ -123,7 +123,7 @@ layout layout-Plan
 	## Il faut spécifier un de ces points comme ce que sera placé sur les cordonnées.
 	## Alors nous pouvons spécifier que le sud-ouest de la manchette soit placé en bas, a gauche,
 	## ou une autre combinaison...
-	map-header 2 -98 nw
+	map-header 2 0 nw
 	
 	## Arrière plan de la manchette
 	map-header-bg on
@@ -135,11 +135,11 @@ layout layout-Plan
 	
 	## Par défaut, la légende est de 14 cm de largeur
 	# legend-width 15 cm
-	legend-columns 3
+	legend-columns 6
 	
 	## Un commentaire à ajouter au titre, on pourrait indiquer ici la mairie où est placée la cavité
 	## dont le nom est probablement le titre de la topo.
-	map-comment "Massif du Vercors"
+	map-comment "Massif du Vercors (Presles, Isère)"
 	#map-comment "Massif du Vercors<br>Coordonnées : (UTM30/WGS84) xxx.xxx xxxx.xxx, Alt.: xxxx m"
 	
 	## Afficher les statistiques d'explo/topo par équipe/nom. C'est lourd
@@ -154,7 +154,7 @@ layout layout-Plan
 	symbol-hide point u:symbol_plan
 	symbol-hide point u:symbol_extend
 	symbol-hide point station-name
-	symbol-hide point station
+	# symbol-hide point station
 	symbol-hide line survey
 	
 	# symbol-hide group water
@@ -195,12 +195,12 @@ layout layout-Plan
 	overlap 2 cm
 	
 	code tex-map
-		\legendwidth=15cm                          %%% Largeur de la légende
-		\legendtextsize={\size[10]}                %%% Taille des polices 
-		\legendtextheadersize={\size[20]}          %%% Taille du titre
-		\legendtextsectionsize={\size[14]}         %%% Taille des sections 
-		\legendtextlicencesize={\size[8]}          %%% Taille de la licence 
-		\cavename={Praletang, Plan 1:1000}     
+		\legendwidth=55cm                          %%% Largeur de la légende
+		\legendtextsize={\size[25]}                %%% Taille des polices 
+		\legendtextheadersize={\size[40]}          %%% Taille du titre
+		\legendtextsectionsize={\size[32]}         %%% Taille des sections 
+		\legendtextlicencesize={\size[10]}          %%% Taille de la licence 
+		\cavename={Grotte de Prélétang, plan / coupe}     
 		\newtoks\club \club={Clan des Tritons}
 		%\cavelength={}
 		%\cavedepth={}
@@ -210,12 +210,12 @@ layout layout-Plan
 		%\thanksto={Merci à tout le monde}
 	   \wpage={https://clandestritons.fr/}
 		\datat={https://github.com/Alex38Lyon/Topographies-Diverses\_Tritons}
-		\synth={Alexandre Pont}
+		%\synth={Alexandre Pont}
 		\framethickness=0.5mm
 	endcode
 	
 	# map-image 0 -100 nw ./../../Logos/Logo-ARSIP-Synthese-Topographique_XL.png
-	# map-image 0 -100 nw Outputs/C108-Sima_H-Cave-list.html
+	map-image 0 105 sw Outputs/Preletang-Elevation.pdf
 	
 endlayout
 
@@ -283,9 +283,9 @@ layout layout-Extended
 	
 	## Auteur, titre du pdf
 	doc-author "Alexandre Pont"
-	doc-title "Praletang Coupe développée - 1:1000"
-	doc-subject  "Praletang, topographie en coupe développée"
-	doc-keywords "Cave, Survey, Praletang, Massif du Vercors"
+	doc-title "La grotte de Prélétang (Presles, Isère) coupe développée"
+	doc-subject  "Prélétang, topographie coupe développée"
+	doc-keywords "Cave, Survey, La grotte de Prélétang (Presles, Isère), Massif du Vercors"
 	
 	## Maintenant on spécifie la position de la manchette, dont l'intérieur est occupé par le titre, auteurs, etc.
 	## Nous pouvons indiquer les cordonnées du point de la topo ou l'on veut la manchette :
@@ -309,7 +309,7 @@ layout layout-Extended
 	legend-columns 2
 	## Un commentaire à ajouter au titre, on pourrait indiquer ici la mairie où est placée la cavité
 	## dont le nom est probablement le titre de la topo.
-	map-comment "Massif du Vercors"
+	map-comment "Massif du Vercors (Presles, Isère)"
 	#map-comment "Massif du Vercors<br>Coordonnées : (UTM30/WGS84) xxx.xxx xxxx.xxx, Alt.: xxxx m"
 	
 	## Afficher les statistiques d'explo/topo par équipe/nom. C'est lourd
@@ -341,22 +341,21 @@ layout layout-Extended
 		\legendtextheadersize={\size[20]}   %%% Taille du titre
 		\legendtextsectionsize={\size[14]}  %%% Taille des sections 
 		\legendtextlicencesize={\size[8]}   %%% Taille de la licence 
-		\cavename={Praletang, Coupe développée 1:1000}   
+		\cavename={grotte de Prélétang, Coupe développée}   
 		\club={Clan des Tritons}
-		%\cavelength={}
-		%\cavedepth={}
-		%\cavemaxz={}
-		%\cartoteam={}
+		\cavelength={}
+		\cavedepth={}
+		\cavemaxz={}
+		\cartoteam={}
 		%\ECoordinates={\inputrel{Outputs/Praletang_Cave-list.txt}} 
 		%\thanksto={Merci à tout le monde}
-	   \wpage={https://clandestritons.fr/}
-		\datat={https://github.com/Alex38Lyon/Topographies-Diverses\_Tritons}
+	   %\wpage={https://clandestritons.fr/}
+		%\datat={https://github.com/Alex38Lyon/Topographies-Diverses\_Tritons}
 		\synth={Alexandre Pont}
 		\framethickness=0.5mm
 	endcode
 	
 endlayout
-
 
 ###############################################################################################
 ## 2.3 Début de la définition du Layout "layout-kml"                                         ##
@@ -371,6 +370,8 @@ layout layout-kml
 	## Bleu --> 0, 0 255
 	color map-fg [0 0 100]
 endlayout
+
+
 
 ###############################################################################################
 ## 2.4 Début de la définition du Layout "xviexport"                                          ##
@@ -387,6 +388,147 @@ layout xviexport
 	grid bottom
 endlayout
 
+
+###############################################################################################
+## 2.5 Début de la définition du layout "layout-Elevation"                                    ##
+###############################################################################################
+layout layout-Elevation
+	## Call the config settings (Layout config inside the config.thc file)
+	copy fonts_1000
+	copy drawingconfig
+	#copy layoutcontinuation	# Pour afficher le label des continuations
+	# copy header_coupe
+	copy headerl_XXLT
+	#copy headerl
+	#copy header_coupe_vert-auto
+	copy header_coupe_vert-to-place
+	copy langue-fr
+	
+	## Définition du système de projection du plan
+	cs UTM30
+	
+	## La ligne base-scale spécifie l'échelle auquel nous avons dessiné nos croquis.
+	## Par défaut, Therion pense que c'est une échelle 1:200. Si on a utilisé une autre échelle,
+	## il faut enlever le "#" et spécifier l'échelle vraiment employée, comme c'est le cas
+	## après avoir dessiné la topo sur un cheminement exporté avec le layout "xviexport".
+	## Jouer avec le ration base-scale/scale permet de jouer globalement sur les tailles
+	## des caractères et des traits.
+	base-scale 1 550
+	
+	## Maintenant on va mettre une ligne "scale" pour spécifier l'échelle pour imprimer la topo.
+	## La combinaison entre scale et base-scale contrôle l'épaisseur des lignes, rotation, etc, convenable
+	## pour faire l'ampliation-réduction entre dessin et le résultat de l'imprimante
+	## C'est très important s'assurer que la configuration de l'imprimante ne spécifie pas l'option "Fit in page"
+	## ou similaire, sinon, l'échelle sera changée pendant l'impression!
+	scale 1 250
+	
+	## Échelle graphique 100 m ampleur (Généralement, le choix scale/10 est plutôt pas mal)
+	scale-bar 40 m
+	
+	## Voici une ligne pour spécifier qu'il faut imprimer une grille au dessous de la topo
+	#grid bottom
+	grid off
+	
+	## Une ligne pour spécifier que la grille est 1000x1000x1000 m
+	## (Trois dimensions, oui, ça sert pour la coupe aussi)
+	#grid-size 250 250 250 m
+	
+	## la topo est transparente (on peut voir les galeries inférieurs)
+	## C'est 'on' par défaut, donc, pas vraiment besoin de spécifier
+	transparency on
+	
+	## Couleurs de la topographie
+	#colour map-bg [70 90 70]
+	#colour map-fg [100 100 80]
+	colour map-fg altitude
+	#colour map-fg explo-date
+	#colour map-fg topo-date
+	#colour map-fg map
+	#colour map-fg scrap
+	colour-legend off
+	# colour map-fg 90
+	
+	## Ça marche seulement si transparency est "on" 90% blanc= 10% noir
+	opacity 75
+	#surface bottom
+	#surface-opacity 100
+	
+	## Auteur, titre du pdf
+	doc-author "Alexandre Pont"
+	doc-title "La grotte de Prélétang (Presles, Isère) coupe nord sud"
+	doc-subject  "Prélétang, topographie coupe nord sud"
+	doc-keywords "Cave, Survey, La grotte de Prélétang (Presles, Isère), Massif du Vercors"
+	
+	## Maintenant on spécifie la position de la manchette, dont l'intérieur est occupé par le titre, auteurs, etc.
+	## Nous pouvons indiquer les cordonnées du point de la topo ou l'on veut la manchette :
+	## 0 0, c'est en bas, à gauche, 100 100, c'est en haut, à droite
+	## La manchette a des "points cardinaux" autour : n, s, ne, sw, etc.
+	## Il faut spécifier un de ces points comme ce que sera placé sur les cordonnées.
+	## Alors nous pouvons spécifier que le sud-ouest de la manchette soit placé en bas, a gauche,
+	## ou une autre combinaison...
+	map-header 98 -20 ne
+	
+	## Arrière plan de la manchette
+	map-header-bg on
+	
+	## Légende pour expliciter les symboles. "on" imprimera seulement la légende des symboles dessinés
+	## sur la topo. Si l'on veut pour tous les symboles, utilisés ou pas, il faut indiquer "all".
+	## "legend off" = pas de légende
+	legend off
+	
+	## Par défaut, la légende est de 14 cm de largeur
+	# legend-width 15 cm
+	legend-columns 2
+	## Un commentaire à ajouter au titre, on pourrait indiquer ici la mairie où est placée la cavité
+	## dont le nom est probablement le titre de la topo.
+	map-comment ""
+	#map-comment "Massif du Vercors<br>Coordonnées : (UTM30/WGS84) xxx.xxx xxxx.xxx, Alt.: xxxx m"
+	
+	## Afficher les statistiques d'explo/topo par équipe/nom. C'est lourd
+	## si la cavité est importante et qu'il y a beaucoup d'explorateurs/topographes.
+	statistics explo-length off    # on/(hide)/off    (Off -> tri alpha.)
+	statistics topo-length off     # on/(hide)/off    (Off -> tri alpha.)
+	statistics carto-count off  # on/(hide)/off    (Off -> tri alpha.)
+	
+	## Afficher un copyright
+	statistics copyright off
+	
+	## Dessin ou pas du cheminement topo
+	# symbol-hide point station
+	symbol-hide line survey
+	# symbol-hide group
+	# symbol-show line wall
+	# symbol-hide point u:symbol_plan
+	# symbol-hide point u:symbol_extend
+	# debug scrap-names
+	# debug station-names
+	
+	layers on
+	
+	overlap 2 cm
+	
+	code tex-map
+		\legendwidth=15cm                   %%% Largeur de la légende
+		\legendtextsize={\size[10]}         %%% Taille des polices 
+		\legendtextheadersize={\size[20]}   %%% Taille du titre
+		\legendtextsectionsize={\size[14]}  %%% Taille des sections 
+		\legendtextlicencesize={\size[8]}   %%% Taille de la licence 
+		\cavename={}   
+		\club={}
+		\cavelength={}
+		\cavedepth={}
+		\cavemaxz={}
+		\cartoteam={}
+		\thversion={}
+		%\ECoordinates={\inputrel{Outputs/Praletang_Cave-list.txt}} 
+		%\thanksto={Merci à tout le monde}
+	   %\wpage={https://clandestritons.fr/}
+		%\datat={https://github.com/Alex38Lyon/Topographies-Diverses\_Tritons}
+		%\synth={Alexandre Pont}
+		%\framethickness=0.5mm
+	endcode
+	
+endlayout
 ## Fin de la définition du layout
 
 ###############################################################################################
@@ -394,36 +536,39 @@ endlayout
 ###############################################################################################
 
 ## Export des xvi pour le dessin si besoin
-	# export map -proj plan -layout xviexport -fmt xvi -o Data/Praletang-Plan.xvi
-	# export map -proj extended -layout xviexport -fmt xvi -o Data/Praletang-Extended.xvi
+	export map -proj plan -layout xviexport -fmt xvi -o Data/Preletang-Plan.xvi
+	export map -proj extended -layout xviexport -fmt xvi -o Data/Preletang-Extended.xvi
+	export map -proj [elevation 90] -layout xviexport -fmt xvi -o Data/Preletang-Elevation.xvi
 
 ## Sélection des Maps à exporter
-	# select MP-Praletang-Plan-tot@Praletang
-	# select MC-Praletang-Extended-tot@Praletang
+	select MP-Preletang-Plan-tot@Preletang
+	# select MC-Preletang-Extended-tot@Preletang
+	select ME-Preletang-Elevation-tot@Preletang
 
 ## Export des fichiers pdf, plan et coupe.
 ## ATTENTION, la topo étant énorme, il faut mettre l'option ne traçant pas la centerline !
-	# export map -projection plan     -fmt pdf -layout layout-Plan -o Outputs/Praletang-Plan.pdf
-	# export map -projection extended -fmt pdf -layout layout-Extended -o Outputs/Praletang-Extended.pdf
+	export map -projection [elevation 90] -fmt pdf -o Outputs/Preletang-Elevation.pdf -layout layout-Elevation
+	export map -projection plan     -fmt pdf -layout layout-Plan -o Outputs/Preletang-Plan.pdf	
+	# export map -projection extended -fmt pdf -layout layout-Extended -o Outputs/Preletang-Extended.pdf
 
 ## Export du fichier 3d pour Loch
-	export model -enable all -o Outputs/Praletang.lox
-	export model -enable all -o Outputs/Praletang.kml
-	# export model -enable all -o Outputs/Praletang.plt
+	export model -enable all -o Outputs/Preletang.lox
+	export model -enable all -o Outputs/Preletang.kml
+	# export model -enable all -o Outputs/Preletang.plt
 
 ## Export des fichiers ESRI
-	# export map -proj plan -fmt esri -o Outputs/Praletang
+	# export map -proj plan -fmt esri -o Outputs/Preletang
 	# export model -fmt esri -o Outputs/SHP/therion -enc UTF-8
 
 ## Autres exports
-	# export map -proj plan -fmt kml -o Outputs/Praletang.kml -layout layout-kml
-	# export model -fmt kml -o Outputs/Praletang-model.kml -enable all
-	# export model -enable all -o Outputs/Praletang-3D.kml
-	export cave-list -surveys off -location on -o Outputs/Praletang_Cave-list.html
-	export cave-list -surveys off -location on -o Outputs/Praletang_Cave-list.txt
-	export survey-list -location on -o Outputs/Praletang-Surveys.html
-	# export database -fmt sql -o Outputs/Praletang-Database.sql
-	# export continuation-list -o Outputs/Praletang-Continuations.html
+	# export map -proj plan -fmt kml -o Outputs/Preletang.kml -layout layout-kml
+	# export model -fmt kml -o Outputs/Preletang-model.kml -enable all
+	# export model -enable all -o Outputs/Preletang-3D.kml
+	export cave-list -surveys off -location on -o Outputs/Preletang_Cave-list.html
+	export cave-list -surveys off -location on -o Outputs/Preletang_Cave-list.txt
+	export survey-list -location on -o Outputs/Preletang-Surveys.html
+	# export database -fmt sql -o Outputs/Preletang-Database.sql
+	# export continuation-list -o Outputs/Preletang-Continuations.html
 
 ###############################################################################################
 ## END FILE                                                                                  ##

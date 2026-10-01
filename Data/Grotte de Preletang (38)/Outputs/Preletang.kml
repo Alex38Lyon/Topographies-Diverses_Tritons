@@ -5,14 +5,14 @@
 <Style id="ThSurveyLineSurf"> <LineStyle> <color>ffcccccc</color> <width>1</width> </LineStyle> </Style>
 <Style id="ThEntranceIcon"> <IconStyle> <Icon> <href>https://therion.speleo.sk/downloads/KmlIconEntrance.png</href> </Icon> <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction" /> </IconStyle> </Style>
 <Icon> <href>https://therion.speleo.sk/downloads/KmlIconModel.png</href> </Icon>
-<name><![CDATA[Praletang]]></name>
+<name><![CDATA[Grotte de Prélétang]]></name>
 <description><![CDATA[Longueur  327 m<br>Dénivellation  30 m]]></description>
 <Placemark>
-<styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[Grotte de Praletang]]></name>
+<styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[Grotte de Prélétang]]></name>
 <Point> <coordinates>5.42347698083226,45.08907601081826,1241.00000000000000</coordinates> </Point>
 </Placemark>
 <Folder>
-<name><![CDATA[Grotte de Praletang]]></name>
+<name><![CDATA[Grotte de Prélétang]]></name>
 <Placemark>
 <name>0</name>
 <styleUrl>#ThSurveyLine</styleUrl>

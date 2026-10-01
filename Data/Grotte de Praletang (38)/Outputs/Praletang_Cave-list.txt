@@ -1,2 +1,0 @@
-Title	Length	Depth	Explored	X	Y	Altitude
-Grotte de Praletang				1162858.030000	5027478.880000	1241.000000

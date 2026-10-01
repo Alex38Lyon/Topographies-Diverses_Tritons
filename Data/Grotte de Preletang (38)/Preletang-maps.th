@@ -5,16 +5,21 @@ encoding utf-8
 # This work is under the Creative Commons Attribution-NonCommercial-NoDerivatives License:
 # <http://creativecommons.org/licenses/by-nc-nd/4.0/>
 
-map MP-Praletang-Plan-tot -title "Praletang"
+map MP-Preletang-Plan-tot -title "Grotte de Prélétang"
 	SP-Praletang_01
 	break
 
 endmap
 
-map MC-Praletang-Extended-tot -title "Praletang"
-	SC-Praletang_01
+# map MC-Preletang-Extended-tot -title "Grotte de Prélétang"
+	# SC-Praletang_01
+	# break
+	
+# endmap
+
+
+map ME-Preletang-Elevation-tot -title "Grotte de Prélétang"
+	SE-Praletang_01
 	break
 	
 endmap
-
-

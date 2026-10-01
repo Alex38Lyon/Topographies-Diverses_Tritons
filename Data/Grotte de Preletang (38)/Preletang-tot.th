@@ -5,17 +5,20 @@ encoding utf-8
 # This work is under the Creative Commons Attribution-NonCommercial-NoDerivatives License:
 # <http://creativecommons.org/licenses/by-nc-nd/4.0/>
 
-survey Praletang -title "Praletang"
+survey Preletang -title "Grotte de Prélétang"
 	## Survey file:
-	input Data/Praletang.th
+	input Data/Preletang.th
             
 	## Plan file:
-	input Data/Praletang-Plan.th2
+	input Data/Preletang-Plan.th2
             
 	## Extended file:
-	input Data/Praletang-Extended.th2
+	# input Data/Preletang-Extended.th2
+	
+	## Elevation file:
+	input Data/Preletang-Elevation.th2
             
 	## Maps file:
-	input Praletang-maps.th
+	input Preletang-maps.th
 
 endsurvey
