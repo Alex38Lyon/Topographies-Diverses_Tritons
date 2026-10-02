@@ -201,7 +201,7 @@ layout layout-Plan
 		\legendtextsectionsize={\size[32]}         %%% Taille des sections 
 		\legendtextlicencesize={\size[10]}          %%% Taille de la licence 
 		\cavename={Grotte de Prélétang, plan / coupe}     
-		\newtoks\club \club={Clan des Tritons}
+		\newtoks\club \club={Clan des Tritons, Photos : Serge Caillault}
 		%\cavelength={}
 		%\cavedepth={}
 		%\cavemaxz={}
@@ -216,6 +216,10 @@ layout layout-Plan
 	
 	# map-image 0 -100 nw ./../../Logos/Logo-ARSIP-Synthese-Topographique_XL.png
 	map-image 0 105 sw Outputs/Preletang-Elevation.pdf
+	map-image 17 35 nw Photos/grotte-de-praletang2-vercors_serge-caillault_1981_LT.jpg
+	map-image 35 35 nw Photos/grotte-de-praletang2-vercors_serge-caillault_8520_LT.jpg
+	map-image 55 25 nw Photos/grotte-de-praletang-vercors_serge-caillault-4536_LT.jpg
+	map-image 83 -3 nw Photos/20260929praletang-signature-fond_c-serge-caillault-24235_LT.jpg
 	
 endlayout
 
